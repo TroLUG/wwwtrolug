@@ -11,6 +11,7 @@ Willkommen bei der Troisdorfer Linux User Group
    :align: center
    :alt: Louis möchte Fische angeln
 
+
 Die TroLUG (Troisdorfer Linux User Group) ist ein Club der Arbeiterwohlfahrt
 Troisdorf (AWO) aus Frauen und Männern mit dem gemeinsamen Ziel, Wissen über
 freie Software untereinander auszutauschen. Sie richtet sich an Anfänger und
@@ -28,10 +29,11 @@ Contents:
    mailingliste
    orga
    anderegruppen
+   impressum
 .. presse
 .. logo
 .. hilfe
-.. impressum
+
 
 ..
   Indices and tables
