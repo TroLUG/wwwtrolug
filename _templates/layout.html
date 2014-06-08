@@ -1,0 +1,22 @@
+{% extends "!layout.html" %}
+
+{#
+    Custom Header
+    Inspiriert durch: https://github.com/matplotlib/matplotlib/blob/master/doc/_templates/layout.html
+#}
+
+{% block relbar1 %}
+
+    <div style="background-color: white; text-align: left; padding: 10px 10px 15px 15px">
+        <a href="{{ pathto('index') }}"><img src="{{ pathto("_static/troluglogo2.png", 1) }}" border="0" alt="TroLUG"/></a>
+    </div>
+
+    {{ super() }}
+    
+{% endblock %}
+
+{%- block relbar2 %}
+
+    {{ relbar() }}
+
+{% endblock %}    

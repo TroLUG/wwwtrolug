@@ -29,15 +29,4 @@ auch Getränke, Beamer und Internetzugang und vieles weitere mehr zur
 Verfügung stellt. Traditionell lassen wir die Abende nach einem Treffen
 gemütlich in einem der nahegelegenen Lokalen ausklingen.
 
-Termine
-=======
-
-  ==========  ====================  ==============================  ==========
-  Datum       Referent              Titel                           Link
-  ==========  ====================  ==============================  ==========
-  05.06.2014  Dimitri Asarowski     Test                            `Anmeldung <http://www.trolug.de>`_
-  05.06.2014  Dimitri Asarowski     Test                            `Protokoll <http://www.trolug.de>`_, `Vortragsfolien <http://www.trolug.de>`_
-  05.06.2014  Dimitri Asarowski     Test                            `Anmeldung <http://www.trolug.de>`_
-  05.06.2014  Dimitri Asarowski     Test                            `Anmeldung <http://www.trolug.de>`_
-  ==========  ====================  ==============================  ==========
 

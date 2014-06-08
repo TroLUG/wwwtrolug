@@ -23,7 +23,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   treffen
+   treffpunkt
+   termine
    mailingliste
 .. presse
 .. logo
