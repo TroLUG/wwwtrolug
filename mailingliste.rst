@@ -1,5 +1,5 @@
 .. 
-   mailingliste.rst
+   orga.rst
    Diese Seite enthält Informationen zur Mailingliste der TroLUG.
    
 Mailingliste

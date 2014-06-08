@@ -15,7 +15,7 @@ Die TroLUG (Troisdorfer Linux User Group) ist ein Club der Arbeiterwohlfahrt
 Troisdorf (AWO) aus Frauen und Männern mit dem gemeinsamen Ziel, Wissen über
 freie Software untereinander auszutauschen. Sie richtet sich an Anfänger und
 Profis jeder Altersklasse, sowie private wie kommerzielle Nutzer. Die Treffen
-finden jeweils am ersten Donnerstag eines Monats ab 19:00 Uhrin den
+finden jeweils am ersten Donnerstag eines Monats ab 19:00 Uhr in den
 Räumlichkeiten der AWO in Troisdorf statt.
 
 Contents:
@@ -26,9 +26,10 @@ Contents:
    treffpunkt
    termine
    mailingliste
+   orga
+   anderegruppen
 .. presse
 .. logo
-.. anderegruppen
 .. hilfe
 .. impressum
 
