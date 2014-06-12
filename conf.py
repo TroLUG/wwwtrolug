@@ -247,3 +247,6 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+
+# Added by Jonas Stein 2014-06-12
+html_sidebars = {'**':['localtoc.html','searchbox.html']}
