@@ -2,7 +2,7 @@ Glossar
 =======
 
 .. glossary::
-:sorted:
+   :sorted:
 
    AWO 
      Arbeiter Wohlfahrt
