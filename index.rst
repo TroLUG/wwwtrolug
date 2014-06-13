@@ -24,7 +24,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   treffpunkt
+   treffen
    termine
    mailingliste
    orga
