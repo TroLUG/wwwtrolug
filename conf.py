@@ -116,7 +116,7 @@ html_short_title = 'TroLUG'
 # of the sidebar.
 #html_logo = None
 #html_logo = '_static/logo_small_alpha.png'
-html_logo = '_static/troluglogo.png'
+#html_logo = '_static/troluglogo.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
