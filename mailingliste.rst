@@ -1,4 +1,4 @@
-.. mailingliste:
+.. _mailingliste:
    
 Mailingliste
 ============
