@@ -1,6 +1,4 @@
-.. 
-   mailingliste.rst
-   Diese Seite enthält Informationen zur den Terminen.
+.. _termine:
 
 Termine
 =======

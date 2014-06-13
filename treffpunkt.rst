@@ -1,6 +1,4 @@
-..
-   treffen.rst
-   Die Seite enthaelt Informationen zu Ort und Terminen der TroLUG
+.. _treffpunkt:
 
 Treffpunkt
 ==========

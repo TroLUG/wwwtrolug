@@ -1,5 +1,4 @@
-..
-   anderegruppen
+.. _anderegruppen:
 
 Und weil jede LUG ihre besonderen Vorzüge hat und sie nicht konkurrieren, sondern sich ergänzen hier noch eine Liste mit anderen Gruppen in der Region.
 
