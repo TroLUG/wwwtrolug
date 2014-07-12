@@ -11,4 +11,4 @@ Die TroLUG wurde am 12.12.2008 von Jonas Stein gegründet, er betreut auch diese
 | Germany
 | news@jonasstein.de  
 
-Dies ist nicht der Treffpunkt der TroLUG - der befindet sich hier.
+Dies ist nicht der Treffpunkt der TroLUG. Siehe :ref:`treffpunkt`
