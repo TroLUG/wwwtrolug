@@ -1,1 +1,4 @@
 lftpscript.txt
+_build/*
+_static/*
+_templates/*
