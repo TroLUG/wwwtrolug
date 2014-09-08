@@ -7,8 +7,9 @@ Termine
 ----
 
 .. csv-table::
-  :header: "Datum", "Referentin / Referent", "Thema", "Anmeldung/Protokoll"
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 50, 15
+  
   "2014-12-04", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-12-weihnachtsfeier>`_"
   "2014-11-06", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-11>`_"
   "2014-10-02", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-10>`_"
