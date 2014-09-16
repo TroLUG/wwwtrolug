@@ -12,7 +12,7 @@ Termine
   
   "2014-12-04", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-12-weihnachtsfeier>`_"
   "2014-11-06", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-11>`_"
-  "2014-10-02", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-10>`_"
+  "2014-10-02", "Christina Herlitschka", "Freifunk", "`Anmeldung <http://pad.jjim.de/p/2014-10>`_"
   "2014-09-06 und 2014-09-07", "alle", "Troisdorfer Familienfest, Stand auf der Kölner Straße", "`Anmeldung <http://pad.jjim.de/p/2014-09-familienfest>`_"
   "2014-09-04", "Karl Dissen, Jonas Stein", "JiffyBox root server, Sensoren für den Raspberry PI", "`Anmeldung <http://pad.jjim.de/p/trolug-2014-09>`_"
   "2014-08-07", "Alle, Andreas Klein", "Vorbereitung FrOSCon-Stand, Tastencodes mit xcape umdefinieren, Diskussion/ERfahrungsaustausch XMPP/Jabber", "`Protokoll <http://pad.jjim.de/p/trolug-august-2014>`_"
