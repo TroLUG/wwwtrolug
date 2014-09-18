@@ -35,6 +35,10 @@ Raum Köln
 | `Cologne.rb <http://www.colognerb.de/>`_   | 20-40        | Vorträge plus offenes Ende | Wechselnder Ort innerhalb Kölns, immer auf der Webseite zu finden                     |
 |                                            |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
+| Freifunk Köln-Bonn-Umgebung                |              | Allgemeine Treffen und     | Treffen finden in Köln (C4) und in Bonn (Netzladen) statt.                            |
+| `FF-KBU <http://www.kbu.freifunk.net/>`_   |              | Entwicklertreffen          |                                                                                       |
+|                                            |              |                            |                                                                                       |
++--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 
 
 Großraum Rhein Sieg Kreis
