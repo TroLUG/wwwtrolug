@@ -1,6 +1,6 @@
 .. _anderegruppen:
 
-Und weil jede LUG ihre besonderen Vorzüge hat und sie nicht konkurrieren, sondern sich ergänzen hier noch eine Liste mit anderen Gruppen in der Region.
+Und weil jede LUG ihre besonderen Vorzüge hat und sie nicht konkurrieren sondern sich ergänzen, hier noch eine Liste mit anderen Gruppen in der Region.
 
 Raum Köln
 =========
@@ -9,7 +9,7 @@ Raum Köln
 | Name                                       |    Besucher  |  Ablauf von Treffen        | Besonderheiten                                                                        |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | `Linux-Workshop                            |              | Moderierte Diskussion      | gelegentlich anspruchsvolle Vorträge, viele User, die beruflich mit Linux zutun haben;|
-| <http://www.uni-koeln.de/themen/linux/>`_  | 20-30        | meist freies Thema         | Highlight: Software Freedom Day Köln                                                  |
+| <http://www.uni-koeln.de/themen/linux/>`_  | 20-30        | meist freies Thema         | Highlight: `Software Freedom Day Köln <http://sfd.koelnerlinuxtreffend.de/>`_         |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | LUG-Köln                                   | 0            | keine Treffen mehr         | ging aus Köln-LUG vervor                                                              |
 |                                            |              |                            |                                                                                       |
@@ -17,14 +17,14 @@ Raum Köln
 | Köln-LUG                                   | 0            | keine Treffen mehr         |                                                                                       |
 |                                            |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
-| `Openchaos <ttp://www.koeln.ccc.de/>`_     | 15-40        | Vortrag, dann Fragerunde   | OpenChaos Vortrag: Der Chaos Computer Club trifft sich jeden                          |
-|                                            |              |                            | letzten Donnerstag im Monat, Newsletter abonnieren                                    |
+| `Openchaos <ttp://www.koeln.ccc.de/>`_     | 15-40        | Vortrag, dann Fragerunde   | OpenChaos Vortrag: Der Chaos Computer Club Cologne (C4) lädt jeden                    |
+|                                            |              |                            | letzten Donnerstag im Monat ein (außer Dezember), Newsletter abonnieren               |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
-| TeX-Stammtisch Köln                        | 4-15         | gelegentliche Vorträge 	 | seit 2014-08 findet das Treffen in der Dingfabrik statt                               |
+| TeX-Stammtisch Köln                        | 4-15         | gelegentliche Vorträge 	 | seit 2014-08 findet das Treffen in der `Dingfabrik <http://dingfbrik.de/>`_ statt     |
 |                                            |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
-| Python User Group Köln                     |              |                            | sehr aktiv, Tipp: Python Barcamp                                                      |
-| `PyCologne <http://pycologne.de/>`_        |              |                            |                                                                                       |
+| Python User Group Köln                     |              | Moderierte Diskussion      | Jeweils 2. Mittwoch im Monat außer Dezember 19.00h im C4                              |
+| `PyCologne <http://pycologne.de/>`_        |              | Vorträge, Lightningtalks   | sehr aktiv, Tipp: `Python Barcamp <http://pythoncamp.de/>`_                           |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | Computerclub Pascal                        |              |                            |                                                                                       |
 | `CCP <http://www.ccp-koeln.de/>`_          |              |                            |                                                                                       |
@@ -35,9 +35,12 @@ Raum Köln
 | `Cologne.rb <http://www.colognerb.de/>`_   | 20-40        | Vorträge plus offenes Ende | Wechselnder Ort innerhalb Kölns, immer auf der Webseite zu finden                     |
 |                                            |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
-| Freifunk Köln-Bonn-Umgebung                |              | Allgemeine Treffen und     | Treffen finden in Köln (C4) und in Bonn (Netzladen) statt.                            |
+| Freifunk Köln-Bonn-Umgebung                |              | Allgemeine Treffen und     | Treffen finden abwechselnd in Köln (C4) und in Bonn (Netzladen) statt.                |
 | `FF-KBU <http://www.kbu.freifunk.net/>`_   |              | Entwicklertreffen          |                                                                                       |
 |                                            |              |                            |                                                                                       |
++--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
+| FSFE Fellowship Treffen Bonn               |              | Vorträge plus offenes Ende | Jeweils 2. Montag im Monat 19.00h, Netzladen, Breite Str.74, Bonn                     |
+| `FSFE <http://wiki.fsfe.org/groups/Bonn/>`_|              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 
 
