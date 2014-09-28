@@ -9,7 +9,7 @@ Raum Köln
 | Name                                       |    Besucher  |  Ablauf von Treffen        | Besonderheiten                                                                        |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | `Linux-Workshop                            |              | Moderierte Diskussion      | gelegentlich anspruchsvolle Vorträge, viele User, die beruflich mit Linux zutun haben;|
-| <http://www.uni-koeln.de/themen/linux/>`_  | 20-30        | meist freies Thema         | Highlight: `Software Freedom Day Köln <http://sfd.koelnerlinuxtreffend.de/>`_         |
+| <http://www.uni-koeln.de/themen/linux/>`_  | 20-30        | meist freies Thema         | Highlight: `Software Freedom Day Köln <http://sfd.koelnerlinuxtreffen.de/>`_          |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | LUG-Köln                                   | 0            | keine Treffen mehr         | ging aus Köln-LUG vervor                                                              |
 |                                            |              |                            |                                                                                       |
@@ -20,7 +20,7 @@ Raum Köln
 | `Openchaos <ttp://www.koeln.ccc.de/>`_     | 15-40        | Vortrag, dann Fragerunde   | OpenChaos Vortrag: Der Chaos Computer Club Cologne (C4) lädt jeden                    |
 |                                            |              |                            | letzten Donnerstag im Monat ein (außer Dezember), Newsletter abonnieren               |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
-| TeX-Stammtisch Köln                        | 4-15         | gelegentliche Vorträge 	 | seit 2014-08 findet das Treffen in der `Dingfabrik <http://dingfbrik.de/>`_ statt     |
+| TeX-Stammtisch Köln                        | 4-15         | gelegentliche Vorträge 	 | seit 2014-08 findet das Treffen in der `Dingfabrik <http://dingfabrik.de/>`_ statt    |
 |                                            |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | Python User Group Köln                     |              | Moderierte Diskussion      | Jeweils 2. Mittwoch im Monat außer Dezember 19.00h im C4                              |
