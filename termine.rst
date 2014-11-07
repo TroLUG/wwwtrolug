@@ -16,14 +16,14 @@ Termine
   "2014-09-06 und 2014-09-07", "alle", "Troisdorfer Familienfest, Stand auf der Kölner Straße", "`Bericht <http://pad.jjim.de/p/2014-09-familienfest>`_"
   "2014-09-04", "Karl Dissen, Jonas Stein", "JiffyBox root server, Sensoren für den Raspberry PI", "`Protokoll <http://pad.jjim.de/p/trolug-2014-09>`_"
   "2014-08-07", "Alle, Andreas Klein", "Vorbereitung FrOSCon-Stand, Tastencodes mit xcape umdefinieren, Diskussion/Erfahrungsaustausch XMPP/Jabber", "`Protokoll <http://pad.jjim.de/p/trolug-august-2014>`_"
-  "2014-07-03", "Jonas Stein, Andreas Klein, Jan Grosser", "Lightning Talks: Neue TroLUG-Webseite, Terminalmultiplexer, Digitale Astrofotografie", "`Protokoll <http://pad.jjim.de/p/trolug-juli-2014>`_, `Vortragsfolien Astrofotografie <http://downloads.trolug.de/2014-07-03_trolug_jan_grosser_sternfeldaufnahmen.pdf>`_"
-  "2014-06-05", "Torben Keil", IPv6, "`Protokoll <http://pad.jjim.de/p/trolug-juni-2014>`_, `Vortragsfolien <http://downloads.trolug.de/2014-06-05_trolug_torben_keil_ipv6.pdf>`_"
+  "2014-07-03", "Jonas Stein, Andreas Klein, Jan Grosser", "Lightning Talks: Neue TroLUG-Webseite, Terminalmultiplexer, Digitale Astrofotografie", "`Protokoll <http://pad.jjim.de/p/trolug-juli-2014>`_, Vortragsfolien `xcape <http://downloads.trolug.de/2014-07-03_trolug_andreas_klein_xcape_HowTo.pdf>`_, `Astrofotografie <http://downloads.trolug.de/2014-07-03_trolug_jan_grosser_sternfeldaufnahmen.pdf>`_"
+  "2014-06-05", "Torben Keil", "IPv6", "`Protokoll <http://pad.jjim.de/p/trolug-juni-2014>`_, `Vortragsfolien <http://downloads.trolug.de/2014-06-05_trolug_torben_keil_ipv6.pdf>`_"
   "2014-05-08", "Andreas Klein", "Linux Kernel bauen", "`Protokoll <http://pad.jjim.de/p/trolug-mai-2014>`_"
-  "2014-04-03", "Johannes Hubertz", "Versionskontrollsystem git", "`Protokoll <http://pad.jjim.de/p/trolug-april-2014>`_"
+  "2014-04-03", "Johannes Hubertz", "Versionskontrollsystem git", "`Protokoll <http://pad.jjim.de/p/trolug-april-2014>`_, `Vortragsfolien <http://downloads.trolug.de/2014-04-03_trolug_johannes_hubertz_git.pdf>`_"
   "2014-03-06", "Joel Garske", "Internet. Wofür es war und warum es kaputt ist.", "`Protokoll <http://pad.jjim.de/p/trolug-maerz-2014>`_"
   "2014-02-06", "Jan Grosser, Dimitri Asarowski", "Einplatinenrechner und ihre Anwendungsmöglichkeiten", "`Protokoll <http://pad.jjim.de/p/trolug-februar-2014>`_"
   "2014-01-30", "Rainer Dohmen", "Alles in Sync - Kalender u. Kontakte im Gleichklang", "`Protokoll <http://pad.jjim.de/p/trolug-januar-2014>`_"
-  "2014-01", "", "Jubiläum: 5 Jahre TroLUG", ""
+  "2014-01", " ", "Jubiläum: 5 Jahre TroLUG", ""
   
 
 2013
@@ -40,7 +40,29 @@ Termine
   "2013-08-01", "alle", "FrOSCon Standorganisation / GPG Keysigning", "`Protokoll <http://pad.jjim.de/p/trolug-august-2013>`_"
   "2013-07-08", "alle", "FrOSCon Standorganisation / GPG Keysigning", "`Protokoll <http://pad.jjim.de/p/trolug-juli-2013>`_"
   "2013-06-06", "alle", "FrOSCon Standorganisation", "`Protokoll <http://pad.jjim.de/p/trolug-juni-2013>`_"
-  "2013-05-02", "alle", "Wie funktioniert eMail? Transportverschlüsselung/Inhaltsverschlüsselung. Grundkonfiguration Thunderbird mit Enigmail. Zuständigen Mailserver herausfinden", "`Protokoll <http://pad.jjim.de/p/trolug-mai-2013>`_"
+  "2013-05-02", "alle", "Wie funktioniert E-Mail? Transportverschlüsselung/Inhaltsverschlüsselung. Grundkonfiguration Thunderbird mit Enigmail. Zuständigen Mailserver herausfinden", "`Protokoll <http://pad.jjim.de/p/trolug-mai-2013>`_"
   "2013-04-04", "alle", "JOSM-Updater, kendzi3d, Beamerserver, hwinfo, dmidecode, glxinfo, Videoschnittprogramme, Thunderbird und PGP", "`Protokoll <http://pad.jjim.de/p/trolug-april-2013>`_"
   "2013-03-07", "alle", "Mosaik Abend", "`Protokoll <http://pad.jjim.de/p/trolug-maerz-2013>`_"
   "2013-01-19", "alle", "Hardware schrauben für den guten (Selbst-)Zweck", "`Protokoll <http://pad.jjim.de/p/trolug-januar-2013-hardware>`_"
+
+
+2012
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 15, 20, 50, 15
+
+  "2012-12-06", "alle", "Rückblick FrOSCon und Weihnachtsfeier", "-"
+  "2012-11-01", "Joel Garske", "KMail, timidity u.a.", "-"
+  "2012-10-04", "alle", "offener Themenabend Manipulation von PDF-Dokumenten Arbeiten mit der Konsole", "-"
+  "2012-09-06", "Moritz und Moritz", "Hands On Emacs", "-"
+  "2012-08-02", "alle", "FrOSCon Organisation", "-"
+  "2012-07-05", "Jonas Stein", "Distributionen im Vergleich", "-"
+  "2012-06-07", "Joel Garske", "OpenWRT", "-"
+  "2012-05-03", "alle", "Präsentationen mit LaTeX, GNU-R, Unterschied su und sudo, QR-Codes, de- und encodieren, Bash-History", "`Protokoll <http://pad.jjim.de/p/trolug-mai-2012>`_"
+  "2012-04-05", "alle", "offener Themenabend", "-"
+  "2012-03-01", "alle", "1. GIMP 2. QLandkarte", "-"
+  "2012-02-02", "alle", "LibreOffice/OpenOffice - Tipps u. Tricks", "-"
+  "2012-01-05", "alle", "Workshop Wireshark Netzwerkanalyse", "-"
+
