@@ -1,0 +1,54 @@
+Termin/Ort
+	04.09.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+	Jonas Stein - Sensoren für den Raspberry PI
+	
+Teilnehmer
+	* Jan
+	* Ansgar (neu)
+	* Norbert
+	* Jonas
+	* Karl (hoffentlich?), jep, er ist erschienen ...
+	* uwe (wahkscheinlich auch Aneas, falls er seine Anmeldung vergessen sollte)
+	* Andrea und Detlef: Wenn, dann kommen wir später, ggf, erst zum Thüringer
+	* Andreas, der seine Anmeldung doch noch kurz vor Toresschluss hinbekommen hat. ;-) Jedoch unter kleinem Vorbehalt, da ich vorher noch einen Zahnarzt-Termin wahrnehmen muss. 
+	By the way, der Karl wollte eigentlich auch noch kommen. ;-)
+Christian
+
+
+Protokoll
+
+Jiffy Box
+
+Die JiffyBox ist ein Produkt der Fa. domain FACTORY (df.eu). Die JiffyBox ist ein Server on demand. Die JiffiBox ist ein virualisierter Server, der angemietet werden kann. Das, was als aller erstes bei diesem Produkt hervorsticht, ist die Abrechnung. Drei Zustände des Servers werden abgerechnet, eigentlich sind es vier: Nutzung, durchgehnde Nutzung, eingefroren. Es wird also in Abhängigkeit der Nutzung des Servers abgerechnet. Nach Definition des Vortragenden kommt noch ein vierter Zustand hinzu: Gelöscht. Es besteht die Möglichkeit sich ein Backup vom Server local zu speichern. Der Server kann gelöscht werden, dann kostet er gar nichts. Jederzeit kann eine JiffiyBox wieder erzeugt werden und dann wird erst wieder bezahlt. Es erfolgt eine Abrechnung auf die Sekunde genau!
+
+Für einen Tag kann man den Server auch kostenlos testen. Auf diesem Weg lernter der Vortragende die JIffyBox kennen, anschließend kann man den Server übernehmen. 
+
+Viele Tarife werden angeboten. Jederzeit lässt sich eine JiffyBox in einen anderen Tarif überführen und das alles im Betrieb. Diverse Linux-Distributionen werden als Vorinstallation angeboten. 
+
+Das JIffyBox-Portal gestaltet sich sehr übersichtlich und ist selbst erklärend. 
+
+Wer spontan mit einem Server etwas ausprobieren will, etwas testen will, für den ist die JiffyBox hervorragend geeignet. Ist man sich mit seiner Installation noch nicht im reinen, denkt, es könnte noch nicht alles administrativ abgesichert sein, der kann den Server einfrieren, dann ist er vom Netz, damit sicher und verbraucht keinen Strom mehr. Aber auch für den Dauerbetrieb kann sich das Preis-Leistungsverhältnis sehen lassen, weil die Produkte von einem hervorragenden Support unterstützt wird. Die Foren sind klasse.
+
+Ein Teilnehmer wusste zu berichten, dass Kunden im offennen Forum besondere Unterstützung erhalten; selbstredend, dass es auch Telefonsupport gibt.
+
+Der Vortragende stellte die Frage: "Kennt jemand diese Firma?" "Ja! Die Trolug hat ihre Domain dort am Laufen", antwortete ein Teilnehmer.
+
+Stand auf der Kölner Straße
+http://map.kbu.freifunk.net/graph.html#ea:94:f6:43:ec:60
+Die TroLug ist in der erfreulichen Situation, dass der Stand in der Nähe der AWO in der Hauptfußgängerzone sein wird. Strom wird vorhanden sein. Wegen dieser Nähe wird es wahrscheinlich möglich sein, das Freifunknetz vorzustellen. 
+Wahrscheinlich wird bald ein Fachmann vom Freifung das Projekt umfassend vorstellen können. Viele interessante Fragen kamen zum Freifunk auf. Ohne Frage ist dieses Projekt eine sehr spannende Sache.
+
+myip.dk
+Möchte man wissen, mit welcher IP-Adresse man sich im Internet bewegt, erhält im Terminal mit Hilfe der bash unter folgender URL eine sehr gute Lösung. Schnell effizient, klar und ganz ohne Werbung erhält man seine IP. Anschließend lässt sich ein Alias einrichten. Die IP-Adresse ist anschließend unter einem Namen abzurufen, den man sich leichter merken kann, z. B. alias myip="xxx.yyy.zzz.aaa"
+
+http://unix.stackexchange.com/questions/22615/how-can-i-get-my-external-ip-address-in-bash
+
+Jonas stellt das Board unix.stackexchange.com vor. Das Besondere an diesem Forum ist, dass die Beiträge der User durch besondere Forensoftware bewertet wird. Trolle werden durch die Software abgewertet; somit sind nicht ernstgemeinte Antworten von den fachlich guten Antworten unterschieden. Auch die Fragestellenden bewerten, welche Antwort ihnen am Besten bei ihrem Problem weiterhilft. Während der Erstellung eines Posts wird geprüft, welche Antowrten das Internet bereits hält, damit sollen doppelte, unnötige Posts verhindert werden. Antworten, die bereits gegeben wurden, können von anderen angemeldeten Usern korrigiert werden; somit wird die Hilfe für diejenigen, die  die Fragen stellen, verbessert.
+
+http://www.zegeniestudios.net/ldc/index.php?lang=de
+
+Raspberry
+http://www.adafruit.com/products/385
+

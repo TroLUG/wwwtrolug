@@ -1,0 +1,39 @@
+Mosaik Abend in der TroLUG (ähnlich wie Barcamp)
+
+Jeder stellt maximal 15 Minuten ein Thema vor
+
+Ich schlage mal ein uebersichtliches Format fuer die Beitraege und Anmeldungen vor. Es muss selbstverstaendlich
+nicht jeder ein Thema anbieten. Tragt euch einfach ohne Unterpunkte ein, wenn ihr nur vorbei kommen moechtet.
+
+Wer kommt und was kann angeboten werden?
+	* Jonas (kommt nach eigenen Angaben nicht)
+		* Thema: Dateien umwandeln, Suchen und Ersetzen mit sed
+		* Thema: GNU R Statistik und Diagramme
+	* Joel
+		* Thema: Amazon Kindle unter Linux (vielleicht ein anderes mal, gerade ist das etwas schwierig)
+		* Thema: Suchen und ersetzen mit sed - wenn Jonas nicht kann ;)
+	* Norbert
+		* Thema: Installation von JOSM (später)
+		* Thema: Als Mitarbeiter bei OSM anmelden (später)
+		* Vorstellung von OSM-3D
+		* Adresse für OSM-3D ist http://maps.osm2world.org/ 
+		* Norbert zeigt die Kirche St. Hippolytus, Bäume und den Troisdorfer 'Hundeknochen (Rathaus)' auf der 3D-Karte
+		* für noch nicht ausgemessene Gebäude benutzt die Karte Standardwerte: "Gebäude mit rotem Dach"
+		* Norbert zeigt ein Wiki, in denen die Parameter, die benötigt werden, damit diese korrekt in der 3D-Karte angzeigt werden, aufgelistet werden. Die Adresse hierzu lautet: http://wiki.openstreetmap.org/wiki/DE:Simple_3D_Buildings
+	* Rainer ist jetzt dabei und bringt den Live-Stick mit, kurze Erklärung
+		* Thema: USB-Live-Stick mit mehreren Linux-Systemen mit Linux Bordmitteln erstellen (bei Interesse auch erweiterbar als Workshop bzw. Themen-Abend)
+		* Thema: Vorstellung Ergebnisse des Hardwareschrauberns / VNC-Installation für Referenten bei Interesse auch weitermachen mit der Konfiguration, hier gibt es noch etwas zu tun!
+		* Auf dem Beamerserver muß Listen-Modus eingestellt werden, das Viewer-Paket heißt in unserem Fall ssvnc, aber jeder andere VNC-Viewer sollte auch funktionieren mit entsprechenden Parametern
+		* zum Skalieren für den Beamer kann man mit F8 in ein Menü und dort "Scale Viewer" wählen, dann auf Wert "auto" stellen, sobald das Viewerfenster 1x maximiert wird, hat man die große Darstellung
+		* Verbindung mit dem Beamer Server funktioniert mit folgendem Befehl: 
+		* x11vnc -connect 192.168.211.5 (bzw. beim Nachbau ist es die IP des Viewers)
+		* 
+	* Jan G.
+	* Artur
+	* Rüdiger
+	* Andreas
+	* Maic
+	* Stephan
+Günter fragt, wer kann etwas über sicherheitsrelevante Einstellungen bei MINT14 sagen. Gedacht ist an Passwortschutz bzw. elektron.Brieftasche
+
+

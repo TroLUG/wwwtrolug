@@ -1,0 +1,23 @@
+
+Termin/Ort
+	03.07.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+
+Diesmal wollen wir ein anderes Format ausprobieren, sog. "Lightning Talks" oder "Blitzvorträge".
+
+	Jonas Stein - Neue TroLUG-Webseite
+	Andreas Klein - Terminalmultiplexer
+	Jan Grosser - Digitale Astrofotografie
+	Andreas Klein - Tastencodes mit xcape umdefinieren
+	Maic Striepe - Temperaturmessung und Visualisierung mit dem RasPi (tbc)
+
+Teilnehmer
+	* Jan
+	* Jonas
+	* Norbert
+	* Andy
+	* Rainer
+	* Isa
+	* Uwe
+

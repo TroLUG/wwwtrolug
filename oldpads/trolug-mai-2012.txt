@@ -1,0 +1,45 @@
+Wer kommt? Ggf. Tiemenwunsch/Themenangebot
+
+	* Jonas (biete an: je 5-10 min QR-Codes; Wissenschaftliche Präsentationen unter Linux erstellen)
+	* Norbert
+	* Andreas (würde sich für PGP in der Praxis interessieren, wär schön wenn mir mal jemand zeigen könnte wie das bei ihm einfach über's GUI funktioniert, nicht per kommandozeile, da ist es mir klar) [Anbieten: Mein Angebot vom April erhalte ich jederzeit Aufrecht]. (würde Dich gpg unter Thunderbird interessieren? Könnte das anbieten - Jonas)
+	* Warum nicht, will es zwar selbst unter Kmail nutzen, aber zum ein paar grundlegende Dinge zu erfahren bzw. zu vergleichen wär's nicht schlecht. (OK mit KMail ist es sogar noch hübscher integriert, ich weiss nur nicht, was in KDE4 aus Kleopatra geworden ist. Da brauche ich dann Unterstützung Jonas)
+	* "Distri"-Abend (s. Pad für Vorschläge) unter: http://pad.jjim.de/p/trolug-vorschlaege-themen (Rainer)
+	* Maic wenn er es zeitlich schafft.
+	* Rainer hätte auch nix gegen PGP unter Thunderbird, aber könnte "nur" als Konsument bzw. Zuhörer dienen ;-)
+	* Joel kommt - koennte zu PGP was sagen, allerdings auch aus aktuellem Anlass zu apt-dater und dem google authenticator pam modul. Jonas wuerde ja offensichtlich GPG schon abdecken.
+
+
+
+
+Thema Präsentationen in LaTeX
+http://www.dante.de/index/Literatur/Praesentationen.html
+
+Programm "Gnu R" (Debian Package r-base-core)
+http://de.wikibooks.org/wiki/GNU_R
+
+Unterschied su und sudo
+	* su ist der klassische Befehl um den Benutzer zu wechseln. Darf jeder theoretisch benutzen, muss man das Passwort des anderen users eingeben # Anmerkung von Andy: Aus Sicherheitsgründen können Benutzer nur mit su zu root werden, wenn diese in der wheel Gruppe sind. Kann aber  u. U. nicht auf jedem System so sein, aber wenn's nicht klappt, dann sicher weil der Entsprechende User erst zur Gruppe wheel hinzu gefügt werden muss.
+	* sudo es gibt ein Regelwerk, wer was darf. 'Wer darf root werden' hier gibt man sein eigenes Passwort ein. 
+merke: wie geht sudo macht man mit visudo 
+in debian gibt es hier schon eine Gruppe sudo, der man einfach beitreten kann
+Beispiel:
+adduser stein sudo
+Adding user `stein' to group `sudo' ...
+Adding user stein to group sudo
+Done.
+
+QR-Codes erzeugen
+qrencode
+http://pyqrcode.sourceforge.net/
+http://sourceforge.net/projects/zbar/ Rückmeldung erwünscht
+
+QR-Codes decodieren
+hier gibt es unter Debian das Paket zbar-tools (nur für Barcodes geeignet, ab Version 0.10 auch QR-Code fähig :-) )
+Funktionsaufruf: zbarimg URL/Dateiname
+http://www.jaxo-systems.com/download/index.php?lang=en_US&app=barcapture java-basiertes Decoder-Programm, aber Registrierung erforderlich :-(
+
+History der Bash beeinflussen
+Steuerung + R und dann Suchwort eingeben sucht die bashhistory rückwärts durch
+Strg + K löscht bis Zeilenende
+

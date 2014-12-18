@@ -1,0 +1,65 @@
+Terminfindung
+
+Ich schlage direkt mal vor, die Veranstaltung um
+eine Woche nach hinten zu verlegen. Am 02 Jan.
+sind noch Weihnachtsferien, etliche Leute (darunter
+auch Andrea und ich) dürften noch im Weihnachts-
+bzw. Silvesterurlaub sein.
+Detlef Auch die AWO ist dann noch in Ferien. Also der 9. wäre besser Norbert
+
+
+Wäre bei Isa und Rainer schlecht, da dann immer das Treffen der Amateurfunker ist.
+Und die Frage ist, ob der Raum dann belegbar ist ... desweiteren habe ich dann auch Spätdienst, also der 09. fällt bei mir definitv aus :-(
+
+Habe mal unter Doodle eine Umfrage erstellt, diese ist zu erreichen unter:
+http://doodle.com/kpd3sgq4du5tnknn
+(vorausgesetzt, am 16.01. steht der Raum zur Verfügung)
+
+Update (15.12.2013):
+Leider steht nach Rücksprache mit Kaspar der 16. Januar (bzw. jeder 3. Donnerstag im Monat) der Raum für die TroLUG nicht zur Verfügung wg. anderer Aktivitäten.
+Daher mache ich jetzt eine Anpassung der Doodle-Umfrage, und wir hätten dann noch den 5. Donnerstag im Januar zur Auswahl (das wäre der 30.01). Am 23.01. geht es bei mir leider auch nicht :-(
+@Jan: Lt. Kaspar können wir den Raum dann haben, wir sollen ihm nur bescheid geben, sobald wir uns entschieden haben. Ansonsten haben wir, da Du ja dann die
+Schlüsselgewalt hast, freie Bahn. Aus gleichen Gründen könnten wir auch den 02.01. nehmen, auch da wäre der Raum für uns nutzbar.
+
+Uwe 01.01.2014
+Wie erfahre ich, was für die  Gruppe für den morgigen Termin entschieden wurde. Treffen wir uns nun morgen, am 02.01 d.M., oder am 31.  d.M?, oder an beiden Tagen, obgleich dann das Februartreffen schon naht? (gerade auf der Mailingliste und Webseite. Ich leite es Dir zur Sicherheit per Mail nochmal weiter)
+Ist es gut, aus der zuverlässlichen, "langfristlich festgelegten", Terminvereinbarung auszusteigen? ?? (Sowas ist unangenhem, aber ja, es war diesen Monat leider notwendig. --Jonas)
+
+Aus gegebenem Anlass
+Ich (Jonas) schlage vor, dass wir im Anschluss auch die Router in der AWO auf Backdoor testen. (siehe Heise: http://www.heise.de/newsticker/meldung/Router-auf-Backdoor-testen-2074844.html)
+
+Zum Vortrag:
+Es  wäre toll, wenn einige ein wenig Equipment mitbringen könnten (z. B.  ihr Android oder iOS Smartphone, Laptop mit Thunderbird), dann können  wir im Praxisteil auch gezielt mit den Geräten arbeiten.
+Rainer bringt sein Tablet und sein Smartphone mit.
+
+Testserver https://192.168.211.34/owncloud/ (nur für die Dauer des Vortrags)
+
+Wer kommt:
+
+	* Andreas
+	* Jonas
+	* Rainer
+	* Isa
+	* Norbert
+	* Dirk
+	* Wolfgang
+	* Uwe, DJ8PI
+	* Torben (bin neu: Möchte mal reinschauen)
+	* 
+
+
+Links zum Thema
+	* Details zu (Web)DAV: http://de.wikipedia.org/wiki/WebDAV
+	* Folien sind hier http://linux.pensionmoselblick.de/wiki
+	* http://www.df.eu/de/service/df-faq/cloudserver/anleitungen/owncloud-installieren-debian-ubuntu/
+	* http://owncloud.org/ community Variante
+	* https://owncloud.com/ kommerzielle Variante mit Support
+	* Alternative: Davical http://www.davical.org/
+	* Baikal http://baikal-server.com/
+	* Inverse SOGO wichtig: aktuell die nightly build version verwenden http://www.sogo.nu/downloads/frontends.html
+	* TIPP: Automatisch unterstützt VCard keine Verteilerlisten. 
+
+Für Tablet oder Smartphone
+	* CardDAV-Sync free / oder 2.59 EUR
+
+

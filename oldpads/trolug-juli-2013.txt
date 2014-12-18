@@ -1,0 +1,69 @@
+TroLUG Treffen 08.07.2013
+
+Vorbereitung:
+Ich habe mich entschieden, fuer die TroLUG einen Low-Profile Ansatz fuer Keysigning durchzufuehren, bei der die Teilnehmer ihre Schluessel-IDs selbst mitbringen und untereinander austauschen. Dieser Ansatz erfordert, dass jeder fuer jeden der anderen Teilnehmer einen Papierstreifen mitbringt, auf dem folgende Informationen zu seinem EIGENEN Schluessel vermerkt sind: 
+
+	* Schluessel-ID
+	* Besitzer
+	* Schluessel-Fingerprint
+	* Grösse des Schluessels (in Bit)
+	* Typ (RSA/DSA/ElGamal)
+	* Feld zum Ankreuzen: "Identitaet festgestellt?"
+	* Feld zum Ankreuzen: "Signiert?"
+
+Der Papierstreifen koennte aehnlich aussehen wie unter: 
+http://rhonda.deb.at/projects/gpg-party/gpg-party.de.html#ss2.4
+(einzig die beiden Felder zum Ankreuzen unterscheiden sich)
+
+Nach Moeglichkeit druckt man diese Informationen mehrfach auf ein Blatt und schneidet sie auseinander. Diese Zettel werden vor Ort mit den anderen Teilnehmern getauscht und deren Identitaet festgestellt. Spaeter werden zuhause die Schluessel der Teilnehmer heruntergeladen, signiert und wieder hochgeladen. Ohne diese Papierstreifen ist eine Teilnahme am Keysigning nur halb moeglich.
+
+Auf der Keysigning Party selbst wird KEIN COMPUTER benoetigt. Auch ein signieren vor Ort ist ein Sicherheitsrisiko und sollte daher vermieden werden. 
+
+- Ladet euren Schluessel auf einen Keyserver hoch
+- Bringt UNBEDINGT einen, besser zwei gueltigen amtliche Lichtbildausweise oder andere durch die Teilnehmer anerkannte Identitaetsbeweise mit, damit vor Ort eine Ueberpruefung des Eigentuemers moeglich ist. 
+
+Zum Generieren eines Schluesels im Thunderbird benutzt bitte die Schluesselgenerierungsfunktionen des Thunderbird-Plugins Enigmail. Das hatte ich vor 2 Monaten mal gezeigt. Bei Fragen schreibt einfach an die Liste.
+
+Nachbereitung:
+
+Was mache ich nach der Keysigning Party mit den ganzen Papierschnipseln?
+Die genaue Beachtung der folgenden Schritte ist sehr wichtig fuer die Verlaesslichkeit des sich aufbauenden Web of Trust.
+
+	1. Hochladen des eigenen Schluessels - Falls noch nicht erledigt, sollte der eigene Oeffentliche Schluessel (public key) auf einen Keyserver der Wahl hochgeladen werden - eine Liste an oeffentlichen Keyservern findet sich z.B. hier: http://www.sks-keyservers.net/ - die meisten oeffentlichen Keyserver tauschen die Keys untereinander aus, so dass man den Key nicht auf alle Server laden muss. Er verteilt sich in aller Regel automatisch. Hinweis an der Stelle: Alle Daten und Metadaten des Public Keys sind dann oeffentlich und fuer jeden Einsehbar. Man kann sie auch nach Namen, Emailadressen und anderen Merkmalen aufrufen. Wen dies stoert, muss den Schluessel nicht hochladen, sondern schickt ihn an die Leute, die ihn unterschreiben moechten. Dazu sollte man natuerlich vorher die Emailadressen austauschen. :) Dabei sollte man aber beachten, dass jeder den Schluessel hochladen kann - nicht nur man selbst.
+	1. Sortieren der Papierstreifen - Man nehme alle Papierstreifen, deren Besitzer man mithilfe von geeigneten Merkmalen (Ausweise, Urkunden, etc.) - alle, fuer die man dies nicht sicherstellen kann, lege man beiseite.
+	1. Beschaffen der Schluessel - Ueber ein geeignetes Werkzeug ( Enigmail Schluesselverwaltung / gpg --recv-keys / etc. ) laed man einen Schluessel mit der auf den Papierstreifen genannten Schluessel-ID herunter - Schluessel-IDs dabei immer GENAU pruefen. Ist der Schluessel nicht auf einem Keyserver gespeichert, wird man ihn vermutlich einige Zeit nach der Keysigning Party per Email erhalten.
+	1. Vergleichen der Merkmale - Einzeln vergleicht man die Merkmale jedes einzelnen Schluessels. Besonders die Besitzernamen, den Fingerprint und die Key-Groesse / Typ. Kommt einem hier etwas komisch vor - ist zum Beispiel eine User-ID von Herbert Mueller, eine weitere von Hans Mustermann und eine weitere von Hubert Schulze, man hat aber nur die Identitaet von Herbert Mueller sichergestellt, so sollte man das Signieren des Schluessels unterlassen. Mutige koennen die User-ID unterschreiben, von der sie wissen, dass sie stimmt. Insbesondere der Fingerprint muss GENAU uebereinstimmen. Er ist die (hoffentlich) kollisionsfreie einmalige Identitaet des Schluessels. Hat der Schluessel ein Bild zur User-ID und dieses ist vertrauenswuerdig signiert, so kann ebenfalls schauen, ob einem das Gesicht bekannt vorkommt :).
+	1. Signieren des Schluessels - Hat man ALLES sehr genau ueberprueft und ist sich seiner Sache sicher, dann kann man den vorliegenden Schluessel signieren. Hierzu wird man gefragt, wie genau mal den Schluessel geprueft hat und wie sehr man dem Schluessel vertraut. Diese Informationen sollten genauestens durchdacht und wahrheitsgemaesz beantwortet werden. Die eigene Signatur hat nicht nur fuer einen selbst, sondern auch fuer andere Bedeutung und beeinflusst dadurch nicht nur das eigene Schicksal. Vollstes Vertrauen sollte man mit Bedacht verwenden - der GPG-Client betrachtet Signaturen von Schluesseln mit vollstem Vertrauen als gleichwertig mit eigenen Signaturen - sowas will man sich 2x ueberlegen.
+	1. Zurueckgeben des Schluessels - Nach dem signieren muss man den Schluessel - am Besten auf die gleiche Weise wie man ihn beschafft hat - wieder an den Besitzer zurueckgeben. Es gilt als unhoeflich, per Mail erhaltene Schluessel auf einen Schluesselserver hochzuladen - oder im allgemeinen weiter zu verbreiten, als es der Besitzer wuenscht. Um einen oeffentlichen Schluessel per Mail zu verschicken oder auf einen Keyserver hochzuladen benutzt man wieder das Tool seiner Wahl.
+
+Dieser Ablauf mit dem GnuPG CLI Tool ist hier aufgefuehrt, allerdings nicht besonders ausfuehrlich erklaert: http://rhonda.deb.at/projects/gpg-party/gpg-party.de.html#ss3.8
+
+Informationen zum Web of Trust und wie Trustlevel gebildet werden (de):
+	http://www.gnupg.org/gph/en/manual/x334.html
+	
+Informationen dazu, wie man mit Schluesseln, unterschluesseln und deren Verfallsdaten umgeht (en):
+	http://www.gnupg.org/gph/en/manual.html#MANAGEMENT
+	
+
+A) Wer kommt? (Anmeldungen bitte hier hin)
+Norbert H.
+Jan G.
+Uwe D.
+Joel G.
+Jonas
+Christof
+Andreas
+Dimitri
+Isa und Rainer können leider NICHT! Evtl. gibt es ja nochmal einen Ersatz-Termin für "Spät-Zeichner"? Wie wäre es bei der FrOSCon? Könnte man Anfang August drüber reden ...
+Andrea und Detlef - wissen noch nicht, ob sie kommen können, würden aber auf jeden Fall gerne bei der FrOSCon mit dabeisein und helfen. - leider habt ihr euch nicht in den Doodle eingetragen :/ http://doodle.com/eux2ymgy6kk9rrkv  
+
+Anmerkung fuer Rainer und Isa von Joel: Keysinging geht immer und ueberall :) Wir koennen das auch gerne zu einer festen Institution in der TroLUG machen. Es macht auch durchaus Sinn, ein und denselben Schluessel mehr als einmal zu unterschreiben - wenn zum Beispiel neue User-IDs hinzukommen oder sich andere Merkmale des Schluessels aendern. Man kann das ja bei Bedarf immer mal wieder machen.
+
+B) Themen
+	* Neu: 
+		* TroLUG auf der FrOSCon 8 (24./25. August 2013)
+	* vom letzten Mal übrig:
+		* kleiner Trick zum Erstellen von individuellen Verteilerlisten (von  Rainer), getestet mit Thunderbird und Outlook (wer's denn braucht /  brauchen muß)
+		* Keysigning - "Party" zum Austausch von PGP/GPG Schlüsseln innerhalb der TroLUG (Jonas macht mit)
+
+

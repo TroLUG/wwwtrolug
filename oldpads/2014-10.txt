@@ -1,0 +1,67 @@
+Termin/Ort
+	02.10.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+	Christina Herlitschka - Freifunk
+	
+Anmeldung
+
+	* Christina - the speaker herself ;-)
+	* Jonas
+	* Jan
+	* Johannes
+	* Norbert
+	* Torben
+	* Michael Walbrück
+	* Ansgar
+	* Detlef (unter Vorbehalt und auf jeden Fall ohne bessere Hälfte :-/ )
+	* René (Reka)
+	* Andy
+	* Thorsten Kern [GULUG] wenn nix dazwischenkommt wegen längerer Anfahrt  01.10.2014 muss leider Absagen!
+	* Rainer (Isa ist wg. Seminar nicht dabei)
+	* Fayçal Alami
+	* Maic
+	* Kaspar ( wenn er Zeit hat :-)   
+	* Uwe
+	* Ulli H.
+	
+
+Protokoll:
+- auf vielfachen Wunsch zuerst mal eine Vorstellungsrunde :-)
+
+- lt. Justiz muß priv. WLAN verschlüsselt sein
+- reguläre Routerverbindung: One-to-many
+- Freifunk: Mesh-Netzwerk (Überschneidung der Funkwellen)
+- nicht jeder Router braucht zwingend eine Verbindung zum Internet (wg. Meshing)
+- Erklärung Unterscheidung prviate Güter / Kollektivgüter - Freifunk ist Open Access (ohne Zugangsbeschränkung - öffentliches Gut)
+- sharing (Bsp: http://pumpipumpe.ch und http://mundraub.org)
+- Was ist Egoismus / Altruismus / Reziproker Altruismus - http://www.bookcrossing.com
+- http://freifunkstattangst.de/2014/07/08/fuer-die-komplette-abschaffung-der-stoererhaftung/
+- Presseinformationen zu den Feststellungsklagen http://wiki.freifunk.net/Presseinformationen_zu_den_Feststellungsklagen
+
+Troisdorfer Bürgerhaushalt - Freifunk für Troisdorf
+
+Nachtrag: Vorschlag "Freifunk für Troisdorf" beim Troisdorfer Bürgerhaushalt: https://buergerhaushalt-troisdorf.de/vorschlag/freies-wlan-fuer-troisdorf  (René)
+
+Bei Freifunk Mitmachen
+
+Was ist Freifunk? http://vimeo.com/64814620
+
+Ist Freifunk kompliziert? Selber Freifunker werden ist wirklich sehr einfach. Freifunk in Deutschland ist regional organisiert. Rund um Troisdorf bietet es sich an, die Software und Infrastruktur der Freifunker Köln/Bonn/Umgebung zu nutzen (www.kbu.freifunk.net). Eine gute Anleitung zum Vorgehen findet Ihr hier: http://kbu.freifunk.net/wiki/index.php?title=Mitmachen.
+
+Ist Freifunk eigentlich legal? Ja! Die meisten Internetprovider verbieten nicht grundsätzlich das Teilen des Internetanschlusses, solange dies unentgeltlich erfolgt (was bei Freifunk der Fall ist). Die sog. Störerhaftung für den Anschlußinhaber und Freifunk-Betreiber wird dadurch umgangen, daß die Datenpoakete aus dem KBU-Freifunk-Netz über einen VPN-Tunnel derzeit zu einem Server des Chaos Computer (CCC) Club in Berlin getunnelt werden. Bei etwaigen Rechtsverletzungen über Euren Freifunk-Router taucht "Eure" IP-Adresse nicht auf, sondern die des CCC.
+
+Für die Teilnahme an Freifunk benötigt man einen WLAN-Router mit einer passenden Firmware ("Geräte-Betriebssystem"). Nicht alle WLAN-Geräte werden unterstützt, aber eine ganze Reihe - darunter auch sehr preisgünstige Geräte. Die unterstützten Geräte sind hier aufgelistet: http://kbu.freifunk.net/wiki/index.php?title=Mitmachen#Download_der_Firmware.
+
+Für unter 20 Euro bekommt man z.B. den TP-Link WR841N (http://kbu.freifunk.net/wiki/index.php?title=Mitmachen#Download_der_Firmware), welcher bspw. auch in den Räumen der AWO seinen Dienst tut. Manchmal haben die Freifunker auch eine gewisse Anzahl Geräte "auf Halde", die man bei den Treffen gegen eine Spende erwerben kann.  Die Treffen der KBU-Freifunker finden an drei Donnerstagen im Monat statt:
+                        
+		* 1. Donnerstag im Monat: Treffen im Netzladen (http://netzladen.org/)
+		* 2. Donnerstag: Treffen im C4 (http://koeln.ccc.de/)
+		* 3. Donnerstag: Entwicklertreffen im C4
+
+Wenn Ihr einen fertigen Freifunk-Router habt, ist eine Aufstellung an einem hohen Punkt und in der Nähe von Fenstern ideal, damit Menschen auf der Straße und Nachbarn in der Straße das Freifunk-Netz seheh und nutzen können. Außeninstallation sind natürlich noch besser, aber wegen Kabeldurchführungen, Witterungsschutz und ggf. Blitzschutz nicht ganz so einfach. Das Netz erscheint bei einem WLAN-fähigen Gerät in der Liste der WLAN Access Points mit dem Namen/der SSID "kbu.freifunk.net". Für die Verbindung mit dem Freifunk-Netz ist keine Registrierung oder Anmeldung erforderlich - verbinden und lossurfen!
+
+Wie ist das mit der Sicherheit? Das Freifunk-WLAN als solches ist unverschlüsselt. Unverschlüsselte Kommunikation kann also grundsätzlich von anderen Teilnehmern im Freifunknetz mitgehört werden. Sichert daher ggf. Eure Internetverbindungen durch Verschlüsselung ab (Webseitenzugriff via https, verschlüsselter Zugriff auf Email-Server, usw.). Ich empfehle auch, das Freifunk-Netz vom eigenen, persönlichen Netzwerk zuhause zu trennen. Das ist grundsätzlich bereits sichergestellt, wenn Ihr Euren Freifunk-Router nach der Anleitung oben konfiguriert und betreibt.
+
+Wenn Ihr Fragen habt, stehen Euch die KBU-Freifunker sicher gerne zur Verfügung (Treffen besuchen oder auf der Mailingliste anmelden). Aber sicher auch die freifunkenden TroLUGer, derzeit Jonas und Jan.
+

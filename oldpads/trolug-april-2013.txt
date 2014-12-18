@@ -1,0 +1,83 @@
+Zur Auswahl stehen diesen Monat:
+
+	* Mosaik - Abend
+	* Themen - Abend: eMail
+	* PGP/GPG wie benutzt man es? Die neuen Mozilla Mailer haben jetzt GPG Support
+	* 3-D OSM (hier können Rainer, Jonas, Norbert etwas beitragen)
+	* Umstieg auf Gentoo - für wen und was ändert sich? (Jonas)
+	* Kurzvorstellung: JOSM-Updater Script von Rainer
+
+Anwesenheit kann hier dokumentiert werden zwecks besserer Planung
+
+	* Jonas
+	* Andy
+	* Norbert
+	* Rainer
+	* Isa
+	* Maic +1 von mir auch für E-Mail/GPG
+	* Joel    +1 von mir fuers Thema Email/GPG. Da kann ich Grundlagen zu beitragen.
+	* Uwe, DJ8PI
+	* Dimitri, eMail/PGP/GPG
+	* Jan (eMail/PGP)
+	* Guenter 
+
+	* Protokoll
+	* SSVNC kommt von Hause aus mit SSH und SSL Support
+	* Einsatz vom Beamerserver "Eierkiste" 
+	* JOSM Script: wget -N (für "Neuer", sieht nach, ob Serverversion aktueller ist als die lokale Version), zenity http://de.wikipedia.org/wiki/Zenity
+	* Frage aus der Runde: Was ist JOSM? http://wiki.openstreetmap.org/wiki/JOSM 
+	* Link zum Update-Skript mit Zenity??? Das wuerd ich auch gern mal online sehen. 
+	Findet sich jetzt unter http://linux.pensionmoselblick.de/wiki unter dem Punkt "JOSM Updater"
+	weiteres JOSM Update Skript: http://jonasstein.de/doku.php?id=update-josm 
+	* 3D OSM: http://wiki.openstreetmap.org/wiki/JOSM/Plugins/Kendzi3D
+	* Wenn etwas nicht funktioniert mal die Java Version überprüfen dies geht auf der Konsole mit: java -version (die kommerzielle kommt von Oracle und die ganz(?) freie heißt IcedTea, es gibt noch weitere wie openjdk und andere)
+	* Fenster in 3D Gebaeuden wird über Level gemappt
+	* Kendzi funktioniert mit IcedTea6 1.11.5
+	* Norbert fragt, wie sehe ich, welche Version unter SuSE verfügbar ist? http://de.opensuse.org/IcedTea
+	* Prüfen auf Videobeschleunigung glxinfo | grep direct rendering (dort muss dann ein yes stehen) Bsp:
+	* glxinfo | grep direct
+	* Ausgabe:
+	* direct rendering: Yes
+	* Weiterhin lässt sich die OpenGL Version auf ähnliche Weise herausfinden:
+	*  glxinfo | grep gl
+	* Ausgabe (Beispiel):
+	* client glx vendor string: Mesa Project and SGI
+	* client glx version string: 1.4
+	* An Hardwareinfos kommt man ohne Zusatzpakete in der Regel ganz einfach mit:
+	* dmidecode
+	* So lieferte "dmidecode memory" bsp. Infos über die verbauten Speichermodule , "dmidecode slot" Infos über installierte Erweiterungskarten usw.
+	* 
+	* hwinfo wird durch Jonas vorgestellt
+	* cat /proc/cpuinfo liefert Informationen über die CPU des Prozessors
+
+	
+	* Frage aus der Runde nach Videoschnittprogrammen unter Linux, speziell auch zu Übergängen unter Kdenlive:
+	* Aktuelle Empfehlung zum Einstieg hier: 
+	* http://www.freiesmagazin.de/20120701-juliausgabe-erschienen    oder der gleiche Artikel von dort:
+	* http://www.pro-linux.de/artikel/2/1577/4,allgemeine-informationen.html
+	* 
+	* 
+	* Infos um PGP-Unterstützung in Thunderbird nachzuinstallieren hier: http://www.thunderbird-mail.de/wiki/Enigmail_OpenPGP
+	* Unter Gentoo braucht man dafür vor der Thunderbird Installation nur das crypt Use-Flag setzen:
+		* crypt                : Enable encryption support with enigmail
+
+
+	emerge @preserved-rebuild (Tipp für Jonas, bzw alle Gentoo Interessierten hier)
+	
+	Früher kam es beim Update von Libraries zu Brüchen der Konsistenz all jener Programme, die noch gegen die alte (vorherige) Version dieser Libraries gelinkt waren. Diese ließen sich dann beispielsweise nicht mehr starten oder brachten Fehler hervor.
+	Um diese Inkonsistenzen nach Updates aufzuspüren, empfahl sich die nachgeschaltete Anwendung von revdep-rebuild.
+	Die betroffenen Pakete wurden darauf hin neu gebaut und danach gegen die neue Version dieser Libraries gelinkt. Erst danach war das System wieder Konsistent.
+	
+	Seit Portage-2.1.11.20 wurde die neue Funktion bzw. das set @preserved-rebuild eingeführt.
+	Dadurch kommt es nach updates von Libraries nicht mehr zu Brüchen, da die alten Versionen solange nicht überschrieben werden, bis die Pakete welche diese verwenden neu gebaut wurden.
+	Die Liste der betroffenen Pakete landet dabei in einem set Namens @preserved-rebuild, worauf Portage durch eine Meldung hinweist. Angestoßen wird der rebuild durch ein simples 
+	# emerge @preserved-rebuild
+	
+	Sollte es per default noch nicht aktiviert sein (prüfen mit z.B. emerge --info | grep preserve-libs) , dann kann man das, indem man es in der make.conf via FEATURES=”preserve-libs” hinzufügt.
+	Kurz gesagt repariert revdep-rebuild gebrochene Pakete, wogegen preserved-libs präventiv dieses Brechen  vermeiden soll.
+	
+
+
+
+
+

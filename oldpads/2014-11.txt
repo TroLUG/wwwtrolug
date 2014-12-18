@@ -1,0 +1,94 @@
+Johannes Hubertz, Unittests für Einsteiger
+TroLUG, 06.11.2014
+
+Hallo, bin ich hier mit der Anmeldung zum  Treffen wirklich der erste? Ja.
+
+Anmeldung
+Jan (Protokoll)
+Uwe  
+Johannes
+Andy
+Jonas
+Norbert
+Ulli
+Thorsten
+Frederik 
+Maic
+Detlef
+Georg (Protokoll)
+Andrea (unter Vorbehalt, vermutlich später)
+
+War mal wieder ganz schön voll. Wieviele waren eigentlich da?
+
+
+Protokoll
+
+	* Software-Engineering seit ca. den 1990ern => strukturiertes Programmieren
+	* Das Problem ist, Software möglichst fehlerfrei zu erstellen. Dies wird immer schwieriger, weil die Komplexität der Software weiter zunimmt und die Feherraten im besten Fall gleich bleiben, wenn nicht sogar ansteigen.
+	* Häufig reift die Software beim Kunden = Banana-Software http://de.wikipedia.org/wiki/Bananenprinzip.
+	* Neue agile Softwareentwicklungsmodelle, wie z. B. Feature Driven Development, SCRUM, sollen dazu beitragen, dass Software den Anforderungen des Kunden bestmöglich entspricht und einzelne Module der Software frühzeitig vom Kunden genutzt werden können.
+	* "Untested software is broken by design"
+	* Anforderung an Tests: Tests müssen schnell ablaufen, da mit jeder Änderung die Tests erneut für die gesamte Software ausgeführt werden müssen.
+	* Formen von Tests unter Python:
+	a) docstrings
+		* Einfachste Form des Testens sind docstrings. Diese werden mit einer besonderen Syntax (siehe Votragsfolien) direkt in den Programmcode geschrieben.
+	b) unittest
+		* Unittests lassen sich mit nahezu allen gängigen Programmiersprachen nutzen. Das Prinzip ist jeweils ähnlich, nur die Implementierung ist von Programmiersprache zu Programmiersprache unterschiedlich.
+		* Unittests testen immer die kleinst-mögliche Einheit eines Programms.
+		* Deshalb ist es notwendig, auch Tests zu schreiben, die das Zusammenspiel von Programmmodulen testet. Dies ist jedoch wegen der vielen Kombinationsmöglichkeiten nur bedingt durchführbar.
+	c) nosetests, py.test sind Frameworks, die Testfälle suchen und ausführen
+	*   pylint, pep8, autopep8 sind Hilfsmittel, den Code sauber und gut lesbar zu gestalten
+	* Testen ist wichtig für:
+		* Sicherstellung der Qualität der Software.
+		* Nachweis an den Auftraggeber, dass das Programm das tut, was es soll und damit den Anforderungen entspricht.
+		* Grundlage für ein Refactoring der Software. Ohne Tests gibt es keinen Überblick, welche Auswirkungen die Änderungen im Programm haben.
+		* Dasselbe gilt für Maintenance. Hier unterstützen Tests dabei, die Funktionsfähigkeit der Software als Ganzes zu erhalten.
+		* Tests sollen sicherstellen, dass die explizit in der Anforderungsdefinition angegebenen Funktionen erfüllt werden (= explizites Testen).
+		* Tests sollen aber auch sicherstellen, dass die impliziten Anforderungen erfüllt werden, z. B. sicherstellen, dass Falscheingaben korrekt verabeitet werden (= implizites Testen).
+	* Organisation von Test:
+	a) Tests können direkt in dem Modul (= Datei) definiert werden, in dem die Funktion oder Klasse definiert ist.
+	b) Programm (Funktionen, Klassen) und Tests können in zwei verschiedenen Dateien abgelegt werden. Dann wird das Modul mit dem Programm im Modul für die Tests mit "import" angezogen.
+		Der Vorteil von Variante b) ist, dass ich die Sourcen ohne die Tests an einen Auftraggeber ausliefern kann. Wird die Software paketiert, werden die Tests ebenfalls ausgeschlossen. Tests werden für gewöhnlich nur mit den Sourcen ausgeliefert (Debian).
+	* Beschreibung von Fehlermeldung in Tests:
+		* Fehlermeldung, die von Tests generiert werden, müssen eindeutig sein.
+		* Für die eindeutige Bezeichnung von Tests kann die ID der Anforderungsdefinition in den Test der Fehlermeldung kodiert werden.
+	* Verwendung von Unittest in Python
+		* Unittest gehört zu den Modulen, die standardmäßig mit einer Python-Installation ausgeliefert werden.
+		* Unittest wird in Python einfach mit "import unittest" verwendet.
+		* Dann wird eine Klasse für einen Test erstellt. Diese Klasse wird von der Basisklasse "unittest.Testcase" abgeleitet.
+		* Das Modul mit den Tests wird dann ausgeführt. HIerzu muss Python mit den entsprechenden Parametern ausgerufen werden (siehe Vortragsfolien).
+	* Regel des Test Driven Development: "Erst den Test schreiben, dann den Code."
+	Dieses Vorgehen hat folgende Vorteile:
+		* Der Entwickler denkt über die Erstellung des Codes vor der Erstellung des Programms intensiv nach.
+		* Der Test wird Bestandteil des Entwicklungsprozesses und das unbeliebte erstellen von Tests und Testen nach der Programmierung entfällt.
+	* Auswertung von Tests
+		* Das Ergebnis von Tests könnte in die Projektmanagement-Software, z. B. Redmine, eingespielt und auf den Dashboard angezeigt werden.
+		* Empfehlung: Ergbnisse von Tests immer selbst in Augenschein nehmen ("Best viewed with own eyes").
+	* Test coverage
+		* = Ermittlung des Codeanteils, welcher durch die Tests "durchfahren" wurde. Wurden z.B. alle Statements/Codezeilen durch den Test nicht erreicht/ausgeführt?
+		* Tests sollem möglichst alle Codeteile testen, d. h. nicht nur die Teile, die die eigentliche Funktion des Programm bereitstellen, sondern auch die Codeteile, die für die Ausnahmebehandlung zuständig sind (= Exception Handling).
+		* Mit Unittest ist es möglich, auch das Exception Handling zu testen.
+	* nosetest - Tool, um Python Tests auszuführen https://code.google.com/p/python-nose/
+	Mit diesem Werkzeug lassen sich folgende Auswertung durchführen:
+	a) Welche Funktion wurde getestet?
+	b) Wie ist das Laufzeitverhalten?
+	* Exkurs:
+		* pep8 - Python style guide checker (https://pypi.python.org/pypi/pep8/1.5.7)
+		* Auch die Einhaltung der Style Guides (PEP 8) läßt sich mit unittests testen und damit sicherstellen.
+	* tox
+		* = Tool, um ein Python Programm unter verschiedenen Python Versionen und Umgebungen zu testen https://pypi.python.org/pypi/tox/1.7.2
+		* Exkurs:  Python2 to Python3 Converter: https://docs.python.org/2/library/2to3.html
+	* Weitere Möglichkeiten, Software zu testen:
+		* shunit2 - Unit Tests für bash https://code.google.com/p/shunit2/
+	* Kommentierung zur angegebenen Literatur (siehe Vortragsfolien)
+		* Rebecca Breu: Python Course mit Aufgaben und Übungen ( https://github.com/rbreu/python-course )
+		* Greg Malcolm: Python Koans zum Selbststudium mit Aufgaben und Übungen ( https://github.com/gregmalcolm/python_koans )
+	* Johaness Github Repo: https://github.com/sl0
+
+Am Rande:
+	* Johannes hat für seine Präsentation das Tool "Impressive" (http://impressive.sourceforge.net/) verwendet, welches selbst in Python geschrieben ist. Es stellt PDF-Dateien dar. 
+	* Debian: apt-get install impressive
+	* OpenStack - freie Architektur für Cloud-Computing in der Sprache Python
+
+   
+

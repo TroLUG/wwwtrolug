@@ -1,0 +1,67 @@
+TroLUG Treffen 06.06.2013
+
+A) Wer kommt? (Anmeldungen bitte hier hin)
+
+	* Joel
+	* Norbert (mit Klapprechner)
+	* Christof
+	* Jonas
+	* Rainer
+	* Isa
+	* Denis
+	* Uwe
+
+
+
+B) Themen
+	* Neu: 
+		* TroLUG auf der FrOSCon 8 (24./25. August 2013)
+	* vom letzten Mal übrig:
+		* kleiner Trick zum Erstellen von individuellen Verteilerlisten (von  Rainer), getestet mit Thunderbird und Outlook (wer's denn braucht /  brauchen muß)
+		* Installieren von Wörterbüchern z.B: http://qvortaro.berlios.de/install.php (Frage von Norbert)
+		* Installieren von vlc für OpenSuse (auch von Norbert)
+		* Keysigning - "Party" zum Austausch von PGP/GPG Schlüsseln innerhalb der TroLUG (Jonas macht mit) - machen wir naechstes mal, ich hab verpeilt, da die Vorbereitungsschritte fuer die Leute rumzuschicken - Joel
+		* QElectrotech: Eine Software zum Erstellen von Elektrotechnikplänen. Jonas hat an Übersetzungen etwas mitgewirkt und die Symbolbibliothek erweitert und kann zeigen wie sowas einfach geht. Und wie man schnell einen professionellen Plan zeichnet.
+
+
+
+Die TroLUG auf der FrOSCon 2013:
+	* Präsentation des Beamer-Servers
+	* Installation APRS auf Beamer-Server u. Präsentation mit OpenStreetMap / Zusammenarbeit mit K30 (Dt. Amateur Radio Club DARC)
+	* Pinnwand / Whiteboard mit Sch lagworten zum Thema "Was hat die TroLUG bisher gemacht / will in Zukunft machen?"
+	* TroLUG-Logo und ausgemalte Pinguine (Jonas)
+	* Tischmaterial - Tischdecken / Huebsch...
+	* Ideensammlung (Jahr 2011): http://openetherpad.org/p/trolug-froscon
+
+VirtualBox Guest Additions muss installiert sein, damit Ubuntu in der Virtuellen Maschine optimal mit der realen Hardware arbeitet
+Dieses Youtube Video zeigt wie es installier wird http://www.youtube.com/watch?v=Q84boOmiPW8
+
+Distrowatch:
+http://distrowatch.com/
+Vergleich von Linux-Distributionen.
+Gegenüberstellung von Lösungen für verschiedene Distros.
+
+Problemlösung am "lebenden Objekt":
+	* wie installiere ich qvortaro unter opensuse (fragt Norbert)
+	* wie installiere ich vlc unter opensuse (fragt auch Norbert)
+
+WLAN-Treiber für die IWL3945 (Intel-Karte) (fragt Jonas)
+	* http://wireless.kernel.org/en/users/Drivers/iwl3945
+
+Schaltpläne kann man zeichnen mit qelectrotech:
+	* http://qelectrotech.org/
+
+Elektronikschaltungen prüfen / simulieren geht mit qucs:
+http://qucs.sourceforge.net
+
+
+WF schriften unter linux mit symbolen
+
+Nachdem ich opemmdao doch noch installiert bekommen habe, funktioniert die Pulsmessung.
+Die Messung nach dem Morgenkaffee betrug 56 BPM ;-)
+Pulsmessung mit der Methode der Eulerschen Videoverstärkung (EVM) und Python
+http://www.spiegel.de/netzwelt/apps/pulsmessung-per-webcam-freie-software-misst-farbaenderung-auf-stirn-a-903857.html
+https://github.com/thearn/webcam-pulse-detector
+(Christof)
+
+

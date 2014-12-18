@@ -1,0 +1,26 @@
+
+Termin/Ort
+	07.08.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+
+	Alle - Vorbereitungen FrOSCon-Stand
+	Andreas Klein - Tastencodes mit xcape umdefinieren
+	Alle - Diskussion und Erfahrungsaustausch zu Jabber/XMPP
+
+Teilnehmer
+	* Jan
+	* Andrea und Detlef (werden gegen ca. 20:00 Uhr "aufschlagen", wäre nett, wenn der TOP "FROSCon" nach hinten geschoben werden könnte)
+	* Maic (evtl.etwas später) 
+	* Norbert
+	* Uwe http://de.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol
+	* Rainer
+	* Isa
+	* 
+
+
+Proramm xcape
+wird gepflegt in github
+dient dazu, z. B. die "Windows"-Taste mit eigenen Funktionen zu hinterlegen
+
+

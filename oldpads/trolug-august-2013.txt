@@ -1,0 +1,51 @@
+TroLUG Treffen 01.08.2013
+
+Themen
+	* vom letzten Mal übrig:
+		* TroLUG auf der FrOSCon 8 (24./25. August 2013)
+		* Ausarbeitung des Standplanes  (Konkretisierung anhand des nun vorhandenen Vortragsprogramm möglich):  http://programm.froscon.org/2013/
+		* Standbetreuungszeiten bitte nur noch hier eintragen und ggf. von der alten Adresse unten, hierhin übertragen http://doodle.com/34hntrvrb6qwi7uz
+		* Standbetreuungszeiten bitte hier nicht mehr eintragen (ungültig): http://doodle.com/eux2ymgy6kk9rrkv#table
+	* Neu:
+		* Nicht zustande gekommenes Keysigning, bitte wie beim letzten mal beschrieben vorbereiten, damit was ausgetauscht werden kann. siehe: http://pad.jjim.de/p/trolug-juli-2013
+		* Jonas bat mich etwas zum Paketbau/Konfiguration unter Gentoo zu erzählen - entdeckt also mit mir gemeinsam die Möglichkeiten die im Quell-Code liegen.
+		* Keysigning
+		* Wozu Verschlüsselung? http://blog.fefe.de/?ts=af0bbca3
+
+
+	* Ideensammlung zur Standgestaltung, Austattung, Hardware (wer bringt was) Info-Material, Giveaways etc. hier rein kippen:
+		* Ich (Andreas) könnte einen 22" Monitor zum Anschluß von Laptops mitbringen, damit man von vorne was zu gucken hat.
+		* Kann jemand eine rote Tischdecke zur Verfügung stellen?
+		* Gab's im letzten Jahr nicht gedruckte TroLug Flyer - wer hat die gemacht?
+		* Flipchart - Rätsel, Preisausschreiben, Preisspenden?
+		* Infos/Bilder von den letzten Infoständen? - als Anregung
+	* Wer hat, bitte ein DECT Handphone mitbringen, damit wir am Stand erreichbar sind. Am besten mit Mignon Akkus (AA/AAA), damit nicht noch die Ladeschale mitgebracht werden muss.
+	* Andreas versucht auch DECT Handbgerät mitzubringen (Anmeldung bei Eventphone ab jetzt hier: https://www.eventphone.de/guru2/) + Universal-Mignon-Ladegerät + Patchkabel Nebenstellen-Nummer des TroLug Stand auf der FROSCON wird sein:
+	* FROS bzw. 3767
+
+	* Jan bringt Mehrfachsteckdosen mit
+	* Jonas bringt das AWO Merchandising-Material mit +Trolug Poster+Flip-Chart
+	* Rainer bringt einen Switch/Hub mit
+	* Ich frage bei Maic+Dimitri weitere Slots an (Schade, beide haben sich nicht auf meine Mail hin gemeldet...) <- Welche Mail? Ich habe das erst heute (04.09.2013) in diesem Protokoll gesehen war aber zur FrosCon-Zeit auch im Urlaub in der Türkei(Maic)
+	* TroLug Rätsel, z.B. Frage nach dem Namen unseres Pinguin
+	* Jan erstellt ein QRCode mit den Kontaktdaten und Infos zu Treffen (Bsp: http://www.darc.de/distrikte/k/30/) u.a. einen A3-Aushang für den FrOSCon-Stand, den er
+	* nächstes Wochenende ausgedruckt mitbringen wird, zu sehen unter https://www.dropbox.com/sh/n39c1kvplbf1md9/n8FQoT218y
+	* wer will/kann/möchte, kann ja nochmal die Zettel zum Keysigning mitbringen, da wird sich bestimmt für Zeit finden lassen :-)
+	* 
+
+
+
+Wer kommt? (Anmeldungen bitte hier hin)
+Andreas
+Joel versucht zu kommen.
+Norbert
+Jan G.
+Rainer und Isa
+Uwe/DJ8PI (PIP)
+Jonas
+
+Hallo - wir (Andrea und Detlef) werden es bis zum Ende des "offiziellen"  Teils wohl nicht schaffen :-(
+    Wo trefft ihr euch hinterher? Beim Thüringer? Wir würden dann nachkommen.
+    Thüringer wurde einstimmig angenommen :-)
+    
+

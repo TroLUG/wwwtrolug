@@ -1,0 +1,57 @@
+
+Termin/Ort
+	06.03.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Thema
+	Joel Garske - Internet. Wofür es war und warum es kaputt ist.
+
+Bitte von Joel für Donnerstag: Der Vortrag ist relativ genau fuer 90 Minuten angelegt - dabei ist die odbligatorische Pause noch nicht eingerechnet.
+	Ich wuerde euch bitten, puenktlich zu sein, da ich puenktlich anfangen werde. Vielen Dank :)
+
+Teilnehmer
+	Joel (the speaker himself)
+	Jan
+	Andy
+	Norbert
+	Uwe
+	Rainer und Isa können leider nicht, da Rainer Spätdienst hat :-(
+	Karl aus WW! Hey Leute! Nach langer,langer Zeit mal wieder. Freue mich riesig!
+	Maic
+	Torben (das zweite Mal dabei)
+	Johannes
+	Jonas
+	
+	Woher kommt es?
+	
+	* "Erfindung": ~1960 ARPA NET
+	* Störungstoleranz war Designziel des Internet-Vorläufers
+	* Atomkrieg sei Mythos. 
+	* 1968: Leitungsvermittelt --> Paketvermittelt. Dadurch konnten Datenleitungen durch mehrere Teilnehmer gleichzeitig verwendet werden. Gleichzeitig entwicklung von Routingprotokollen für Datenpakete.
+	* 1983: ARPA NET als Dienst im globalen TCP/IP-Netz Geburtsstunde des Internets
+
+Grundbegriffe des Internets
+
+	* Autonomes System (AS): Menge an Knoten unter gemeinsamer Verwaltung mit eigener Adresse (z.B. das autonome Netzwerk einer Firma wie Hetzner Online AG)
+	* AS-Nummern für Autonome Systeme werden von der RIPE (http://www.ripe.net/) vergeben.
+	* Peering: Verbindung autonomer Systeme mittels eines Links.
+	* Physikalische Verbindung häufig über Internet Exchanges realisiert, z.B. DE-CIX (Frankfurt, http://www.de-cix.net/) oder AMS-IX (Amsterdam, http://www.ams-ix.net/)
+	* Transit: Verbindung AS durch ein weiteres AS. Häufig als Dienstleistung, dann heißt das Carrier (das kann man z.B. bei der Telekom einkaufen).
+	* Sendung mit der Maus zum Internet: https://www.youtube.com/watch?v=8PNRrOGJqUI
+
+Was nun?
+
+	* Border Gateway Protocol: Zur Verbindung AS https://de.wikipedia.org/wiki/Border_Gateway_Protocol
+	* traceroute -A <hostname> zeigt die AS-Nummern mit an.
+	* AS-Kontakte:
+		* Peering: "Social networking" 
+		* Carrier Transit: "Payware Vollversion"
+	* Internet Backbone ist "Salessprech" und bezeichnet oft eine breitbandige Datenverbindung innerhalb eines AS
+
+Someone Broke The Internet ...
+
+	* Häufiges Verrständnisproblem: ISP liefern kein "Internet", sondern einen Zugang zu Ihrem AS und von dort Anbindung an Teile des eigentlichen Internets
+	* Staat kann Einfluß auf AS-Beziehungen nehmen ("Deutsches Internet"), häufiger aber in diktatorischen Regimen. Manche ASe sind aber transnationale Unternehmen.
+	* Die Verwendung von Krytografie ist in vielen Ländern rechtlich eingeschränkt (z.B. Frankreich, USA, China, ...). In Frankreich gibt es eine Behörde, bei der kryptografische Schlüssel hinterlegt werden müssen. 
+
+
+

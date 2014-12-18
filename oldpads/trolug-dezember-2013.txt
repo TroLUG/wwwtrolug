@@ -1,0 +1,52 @@
+2013-12-05: Atmel AVR RISC µC unter GNU/Linux programmieren  2013-12-04? Nicht 2013-12-05? 
+
+Mikrocontroller sind kompakte Ein-Chip-Computer. Je nach Modell verfügen sie neben einem Prozessor (Arithmetisch-Logische Einheit) über Peripherie-Einheiten wie digitale und analage Ein- und Ausgänge, UART, I2C/TWI, CAN, USB usw. Sie sind für wenige Euro zu haben. Mit etwas Einarbeitung lassen sie sich für die eigenen Bedürfnisse programmieren. Eigene Elektronik-Projekte lassen sich so mit jeder Menge "Intelligenz" erweitern. Grenzen sind nur durch die eigene Phantasie gesetzt.
+Der Vortrag soll eine kurze Einführung in die Programmierung von Mikrocontrollern der Atmel AVR RISC Familie mit und unter freier Software geben.
+
+Teilnehmer:
+Jan
+johannes
+Norbert
+Jonas
+Uwe
+Maic (versuche zu kommen, steht nicht 100% fest ob das klappt).
+Dimitri
+Christian
+Andreas Mist, ausgerechnet Heute, bei diesem für mich extrem interessanten Vortrag, herrscht Außnahmezustand in Deutschland. Werde Verkehrsbeding nicht kommen können, alles dicht hier - Mist! Sollte die Quote Heute stark sinken wäre ich über einen Alternativtermin sehr glücklich ;-) Wünsche Euch wenigstens eine schöne Weihnachtsfeier und bin betrübt dass wir noch keine Livestream-Übertragung haben ;-) Gruß, an Alle, Andy.
+Joel
+Isa
+Rainer
+Günter
+
+Aktuelles aus OSM von Norbert
+5 Minuten zu neuer Layerdarstellung auf openstreetmap.de, Dazu auf Humanitarian klicken und dann auf Layer
+Klicken.
+
+u Controller-Vortrag von Jan:
+
+	* Vortrag und ASM-Quellcode-Dateien gibt es hier: http://www.jan-grosser.de/art/365_atmel_avr_risc_uc_unter_gnulin.html
+	* Speicher für Programmcode auf Atmel Chips etwa 8 kB bis 32 kB, in Assemblercode praktisch kaum zu füllen
+	* RISC Größenordnung unter 100 Befehle, 1 Takt pro Befehl, extrem schnell
+	* MIPS zigtausend Befehle, mehrere Takte pro Befehl
+	* http://shop.embedded-projects.net/ USB Programmer
+	* Empfohlener AVR Assembler: gavrasm 
+	* Avrdude
+	* AVR8 Burn-O-Mat
+	* Fuses setzen Configuration, z.B. Takte, Auslesesperre...
+	* High Voltage Programming http://www.mikrocontroller.net/articles/AVR_HV-Programmer
+	* magischer Rauch http://de.wikipedia.org/wiki/Magic_Smoke
+	* Entprellen der Taster per Software, oder per Hardware z.B. mit MC 14490
+	* .ORG = Origin
+	* Dateiendung .lst enthält eine Übersicht wie der Compiler die Mnemnomics in OP-Code übersetzt
+	* rjmp wird zu hexadezimal B
+	* LED Cube http://www.youtube.com/watch?v=f1YNyQqbiF0 
+	* http://www.youtube.com/watch?v=yvamNu7Lihs
+
+
+
+
+Links zum Thema
+
+	* http://www.heise.de/ix/meldung/DM-P-Group-stellt-Embedded-Rechner-86Duino-Zero-vor-2057815.html
+
+

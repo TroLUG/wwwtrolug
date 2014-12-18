@@ -1,0 +1,117 @@
+Protokoll vom 19.01.2013:
+	* Linux Mint: beim booten kann man mit ESC die Konsole zeigen lassen.
+	* Dringend Termin für Februar suchen (wegen Karneval)
+	* Hardware ist jetzt vor Ort: AMD Duron, 1,5 GB RAM, DVD-ROM, 160GB Platte, z. Zt. 1 Partition mit 80GB installiert, Linux MInt 13 KDE-Desktop
+	* Themendiskussion: Bootloader Windows/Linux, Unterschied zw. Virtualisierung / mehrere Betriebssysteme
+	* Themendiskussion: Sicherung von Dateien / Home-Ordner
+	* Themendiskussion: Verschlüsselung/Sicherung (BIOS-Paßwort, Festplattenverschlüsselung)
+	* Themendiskussion: Drucker druckt im Browser Opera nur erste Seite. Mögliche Lösung: Zunächst einmal in eine pdf-Datei drucken und prüfen, ob dort das gleiche Problem besteht. Wenn ja, hilft vielleicht ein Update von Opera. Wenn es nur auf dem Drucker falsch ist, dann vom Druckerhersteller ppd-Datei herunterladen und in cups einbinden und in Druckvorschau beobachten, ob dann mehr als eine Seite angezeigt wird. In openprinting.org kann man (falls es keine ppd gibt) nachschauen, ob der Drucker von Linux unterstützt wird.
+	* Themendiskussion: Wie können sich Viren auch auf Linux einschlieichen (Paketquellen)
+	* Themendiskussion: BundesTrojaner und TKÜ. Jonas liefert Quellen über diese Themen aus Heise. >> http://www.heise.de/newsticker/meldung/Geheimdienste-ueberwachten-37-Millionen-Netzverbindungen-1442867.html  
+		* wget -O - http://deb.opera.com/archive.key | sudo apt-key add - (fügt in diesem Falle den Opera-Repository-Schlüssel dem eigenen Schlüsselbund hinzu und verhindert eine Fehlermeldung von apt dass der Schlüssel eines Repository nicht bekannt ist)
+		* wget und JOSM unter folgendem Link: http://jonasstein.de/doku.php?id=update-josm
+		* dpkg -l | grep libreoffice listet alle installierten libreoffice Pakete auf
+	* ssvnc verbindet vnc mit ssh bzw. ssl
+
+Terminabfrage über folgenden Link:
+
+AM SAMSTAG 19. Januar 10 Uhr
+
+Wer kommt?
+	* Jonas
+	* Wilhelm
+	* Rainer
+	* Norbert
+	* Werner
+	* Rüdiger
+
+Fragen:
+	* Wer bringt welche Hardware mit?
+		* http://pad.jjim.de/p/trolug-januar-2013-hardware
+		* Rainer hat gerade noch mal im Keller gekramt und bringt mit:
+			* 1 Gehäuse mit Netzteil, Mainboard Athlon XP 2400+ (kann dann evtl. durch Dimitris Board ersetzt werden)
+			* 1,5 GB RAM passend zum Board
+			* 1 Netzwerkkarte
+			* 1 DVD-ROM und CD-ROM (CD-ROM lose, DVD-ROM im Gehäuse)
+			* diverse Schraubendreher
+			* diverse Mint-Distributionen (lade gerade noch KDE runter, MATE habe ich schon)
+			* Hunger auf Wilhelms Frühstück ;-)
+	* Personenzahl-Begrenzung ?!? (ich denke maximal 15 Personen gehen klar.)  Aufteilung in verschiedene Gruppen (s. u.), evtl. mehr Termine?!? (am besten vor Ort)
+
+
+Da man nen Haufen verschiedener Sachen braucht, um so einen Rechner ans Laufen zu bringen, sollten wir uns hier schonmal einen Ueberblick verschaffen, was zusammen passt. Daher sollten wir vielleicht zu der verschiedenen Hardware in Klammern die verfuegbaren Schnittstellen sammeln. Ich mach auch mal ein paar Kategorien auf:
+
+Hardware:
+	* Gehaeuse:
+		* Joel hat noch ein MicroATX (Low Profile) Gehaeuse mit Netzteil, wo Dimitris Mainboard leider nicht reinpasst. er bringts trotzdem mal mit.
+	* Netzteile:
+		* Joel sagt: siehe "Gehaeuse"
+	* Mainboards:
+	* CPUs:
+		* Kein Bedarf?
+	* Arbeitsspeicher:
+		* DDR2-Ram bringt Joel mit
+	* Erweiterungskarten:
+		* Rainer: Kann Ethernetkarte mitbringen (PCI), falls Board kein Netzwerk hat
+		* Joel hat auch noch Grafikkarten fuer AGP und evtl. auch PCI in der Restekiste
+	* Wechseldatentraeger (floppy, cd, dvd, sowat all):
+	* Festspeicher (HDDs, DoCs, Flashspeicher...):
+		* Maic hat eine 40 GB ATA HDD die er dafür mitbringen könnte.
+		* Joel bringt eine 80er S-ATA und eine 40er IDE mit
+	* WICHTIG! Kabel:
+		* f. Bussysteme
+			* Joel bringt zumindest mal ein S-ATA Kabel mit
+			* Joel bringt auch ein IDE Kabel mit
+		* f. Stromversorgung
+			* Joel: bringt einen 4-pol -> S-ATA Adapter mit
+	* Auch halbwegs wichtig: Belueftungs- und Kuehlsysteme fuer die verwendeten CPUs... es sei denn, wir pusten alle mal kraeftig
+	* Eingabe/Ausgabe
+		* Rainer: Tastatur und Maus über PS/2, zumindest leihweise kann ich mitbringen
+		* VGA Monitor koennte ich auch einen leihen
+		* Rainer sagt, dass die Ausgabe auch über den Beamer laufen könnte, das spart das Schleppen eines Monitors :-)
+		* Jonas kann einen TFT mit VGA Anschluss leihen, wenn jemand tragen hilft. Ich glaube ein uralter TFT ist auch noch vor Ort.
+
+ 
+Software (welches Ziel-Szenario soll der Rechner nachher beherrschen?):
+	* Internet-Proxy (Whitelist) für kindgerechtes Surfen (oder im Betrieb surfen, ist ja anpassbar), mit Möglichkeit der (komfortablen) Erweiterung der Whitelist
+	* Kiosk-Rechner (kann NUR surfen, sonst alles gesperrt)
+	* Fax-Server, DNS-Server, Mail-Server
+		* 3 sehr interessante Themen, die aber im Zweifel sehr bedarfsspezifische Anforderungen haben.. sollten wir vielleicht eher machen, wenn wir schon wissen wo wir den los werden?
+	* (die Liste läßt sich beliebig ergänzen)
+	* Als VNC-client oder vergleichbares, zur Ausgabe der Bildschirminhalte einzelner Teilnehmer über's Netz.
+	* Webserver für verschiedene Dienste zu Demonstrationswzecken.
+	* Terminalserver / PXE-Boot
+	* Wie wär's, wenn wir den Rechner mit VMs bestücken? Dann könnten wir verschiedene Konfiguration für verschiedene Zwecke erstellen. Außerdem wäre immer eine VM betriebsbereit, wenn wir mal was installieren, was am Ende nicht läuft. Zu Schulungszwecken ist eine frische VM auch immer wieder gerne genommen. VirtualBox würde sich gut eignen, da man die VM dann leicht mitnehmen kann.
+
+eventuell können wir auf der Weihnachtsfeier das Thema mal ansprechen, damit dort wieder Schwung in die Sache kommt ... ich denke, dass primäre Szenario des Rechners wäre, eine Mühle
+bei der TroLUG stehen zu haben für Experimente, Installationen, Problembewältigungen, etc. ... macht natürlich die Vorauswahl von Software etwas schwieriger.
+
+
+Aufteilung in verschiedene Gruppen:
+	* alle (Koordination über dieses Pad): Ziel der Aktion (s. Software)
+		* Joel Versucht mal die Aufgaben der Gruppen entwurfsweise zu definieren, damit sich jeder der mitmachen will vielleicht schonmal irgendwo wiederfindet.
+	* Gruppe 1: die Hardware-Schrauber
+		* primaere Aufgabe waere es dann wohl, in Absprache mit Gruppe 2 eine allgemein funktionstuechtige Hardware aus den zur Verfuegung stehenden Mitteln zusammenzustellen und zu bauen
+		* sekundaere Aufgabe waere es, sich um die Unterstuetzung und Integration in die von Gruppe 2 gewaehlte Distribution zu kuemmern, sofern norwendig
+	* Gruppe 2: die Software-Gruppe (Administration)
+		* primaere Aufgabe waere es, sich ein Konstrukt aus Software auszudenken, welches mit der Hardware von Gruppe 1 die Anforderungen (die wir noch finden muessen) erfuellen kann
+		* sekundaere Aufgabe waere es, sich schonmal Gedanken um eine Dokumentation zu machen, damit die Tester in Gruppe 3 schonmal wissen, was sie wie testen muessen - Vielleicht auch hier schon ein kleiner Focus auf eine Uebergabe an einen spaeteren Traeger?
+	* Gruppe 3: die Tester
+		* primaere Aufgabe waere es, die fertige Loesung von Gruppe 2 zu uebernehmen und nach deren Maszgaben und Dokumentation zu testen was alles geht.
+		* sekundaere Aufgabe waere es, Verbesserungsvorschlaege zu machen und Fehler und Probleme mit Hard- und Software mit den entsprechenden Leuten aus G1 und G2 zu loesen
+
+Ob die Aufteilung in Gruppen so unglaublch sinnig ist, ist die Frage. Die Taetigkeiten laufen ja groesstenteils nacheinander ab. Nicht dass dann die anderen rumsitzen. Prinzipiell sind so schwerpunkte aber sehr gut. Joel ergaenzt seine Bedenken allerdings spaeter um die Relativierung, dass man Software schon sehr wohl planen kann, wenn man noch keine Hardware hat. Die einzigen, die doof herumsitzen koennten waeren die Tester... aber auch die bekommt man irgendwie eingebunden. Wenn wir das in mehrere Termine aufteilen ist das nicht so relevant
+zu den Gruppen: Es besteht ja nicht der Zwang, dass jeder nur 1 Gruppe angehört, z. B. könnten die Softwareplaner nachher auch Tester sein, oder jemand bringt nur seine Ideen ein und testet nur oder schraubt nur oder oder oder
+
+Vielleicht waere es schoen, wenn jemand waehrend der Hardware-Schrauberei was zu dem Aufbau eines PCs sagt und vielleicht die Auswahl der Komponenten irgendwie begruendet wird.
+
+eventuell kann man bei einem "normalen" Trolug-Treffen das Ergebnis präsentieren, man kann den alten Rechner auch bei jedem Trolug-Treffen verwenden als Demonstrations-Objekt, dann braucht man nicht immer Pakete am eigenen Laptop/Netbook zu installieren.
+Das waren einige ausgespeicherte Ideen von Rainer, Ergänzungen / Änderungen / andere Wünsche herzlich willkommen!
+
+Die Idee den PC  als Demonstrationsobjekt zu verwenden finde ich super, jüngstes Beispiel war Norbert, dessen Wine-Probleme vertagt wurden, weil er seinen Rechner nicht dabei hatte und Niemand sonst das auf seinem mitgebrachten Rechner hätte demonstrieren können.
+Wilhelms Fragen zu KDE/Kmail konnte ich auf meinem Netbook teilweise zeigen, teilweise lösen, was jedoch häufig nicht mögliich ist. Wilhelm bringt am besten seinen PC mal mit.
+
+Außerdem finde ich, dass dieses Projekt ein guter Startpunkt für weiteres ist, z. B. Aufbau eines Billig-PC für EUR 100,-- oder eines Multimedia-Servers für den heimischen Fernseher.
+
+
+

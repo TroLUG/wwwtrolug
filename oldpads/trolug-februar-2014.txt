@@ -1,0 +1,101 @@
+Treffen am 06.02.2014
+
+Thema:
+    Einplatinencomputer und ihre Anwendungsmöglichkeiten
+    
+Programmhttp://pad.jjim.de/p/trolug-februar-2014
+	1. Einführung und Übersicht - 20 min 
+	2. Raspberry PI - 20 min 
+	3. Pause -  15 min 
+	4. Seagate DockStar (SheevaPlug) als Home- und NAS-Server inkl.  Software-Übersicht - ca 20 min 
+	5. Virt2Real für Fernsteuerung und Videoübertragung inkl. WorkShop - ca  20 min 
+
+Teilnehmer:
+	* Jan
+	* Dimitri
+	* Uwe, trägt nicht vor, liest viel, ohne es umzusetzen :-(
+	* Jonas (hat einen neuen Raspberry PI und möchte auf diesen am Donnerstag OwnCloud installieren)
+	* Norbert
+	* Andy (möchte so etwas bei Bedarf lieber auf bereits vorhandener stromsparender Hardware, wie FritzBox oder FreeNas, zum Laufen bringen.)
+	* Rainer (hat jetzt einen RaspPi aber noch keine Ahnung von der Technik, kann noch gerne einen Vortrag über die Fritzbox halten und was er damit alles machen kann)
+	* Isa
+	* Helmuth aka Alex
+
+Weitere Informationen
+	* Anleitung Installation lighttpd + OwnCloud in Raspbian Linux: https://gist.github.com/rzbrk/8773758
+	* http://www.heise.de/ct/heft/2014-3-ARM-Boards-fuer-unter-100-Euro-2085405.html, 
+	* http://www.connect.de/ratgeber/so-installieren-sie-owncloud-auf-einem-raspberry-pi-1540246.html
+	* 
+
+
+
+Dimitri  trägt vor: 
+	Kleine Übersicht über die Einplatinencomputer im Alltag: LinkSys, FritzBox, diverse SmartPhones.
+	Liste mit Einplatinencomputer http://beagleboard.org/bone
+	Unterschiede zwischen:
+		- Mikrocontroller:
+			Feste Firmware, jeweils für spezielle Anwendung
+		- Mikrocomputer:  
+			Vollwertiges Betriebssystem z.B. http://beagleboard.org/bone
+	Näheres zum Einplatinencomputer:
+		Zeigt das Bild: http://www.slashgear.com/wp-content/uploads/2013/04/beaglebone-specs-640x444-580x402.png 
+			und erklärt mehrere einzelne Kompnente     
+		SOC (System on Chip):
+		Einschub von Jan: z.B. bei Smart Phones werden die einzelnen Komponenten, welche die Rolle der codex übernehmen, als Hardware (Chip-sets) erstellt: die Effizienz steigt auf Kosten der Flexibilität.
+		Weiter geht es mit:
+			ARM-Prozessoren: Verschiedene Architekturen werden dargestellt und auf die letzte Ausgabe vom "Ct" verwiesen.
+Jan trägt vor (Raspberry Pi):
+	FUNKTIONALITÄT:
+		
+	GESCHICHTE:
+		Ursprung in UK
+		 Förderung des IT-Nachwuches mit dem Ziel günstigen Computer  zu schaffen um das Programmieren kennen zu lernen.
+
+	TECHNISCHE DATEN:
+		Man kann die Platine verschieden Takten, VORSICHT: Energieverbrauch steigt mit der CPU-Frequenz.
+		Diverse Ports werden dargestellt (siehe Internet)
+		KEINE Echtzeituhr on Board, bei bestehender Internetverbindung 
+		VORSICHT kein Trafo on Board. Platine braucht konstant 5V.   
+	DAS BOARD:
+		GPIO (Geniral Purpose Input/Output Interface):
+			3.3V Pegel; für Anschluß an eigene 5V-Schaltungen wird ein geeigneter Pegelwandler empfohlen
+	ERWEITERUNGEN:
+		Diverse Erweiterungen 
+		Kameras (früher nur mit USB) jetzt auch mit/ohne IR Filter
+		http://www.heise.de/hardware-hacks/artikel/Angetestet-Pi-Camera-1874976.html  << Test über die Kamera
+	BETRIEBSYSTEME:
+		NOOBS: 
+			Große Geschichte für die Umsteiger von Windows oder So... Klick and Enjoy Principle
+		RASPBIAN:
+		RASPBMC
+		ARCHLINUXARM
+	OWNCLOUD INSTALLATION:
+		Raspberry Pi + Raspbian OS +  lighttpd Webserver + Datenbank (z.B. SQLite) + evtl. USB-Platte (siehe git von Jan: https://gist.github.com/rzbrk/8773758
+
+Uwe fragt nach Starterkit: Raspberry Pi Starterkit bei Reichelt http://www.reichelt.de/Programmer-Entwicklungstools/RASPBERRY-ALL-IN/3//index.html?ACTION=3&GROUPID=5514&ARTICLE=140777&SHOW=1&OFFSET=16&
+
+	BogoMips http://de.wikipedia.org/wiki/BogoMips
+Demitri:
+	SEAGATE Dockstar: 
+		Super für Server bzw OwnCloud 
+		Verbrauch: 4-5 Watt
+		Preisgünstiger als Rasberry PI 
+		DNSMASQ: Vereint den "klassischen" BIND + DHCP, siehe z.B. https://wiki.archlinux.de/title/Dnsmasq
+		 (leider ist DNSMASQ immernoch kaputt was IPv6 angeht - gerade was reverse-delegation und dergleichen angeht)
+		miniDLNA, siehe z.B. https://wiki.archlinux.org/index.php/Minidlna
+	VIRT2REAL:
+		Noch ein PlatinComputer, Ursprünglich für die Fernsteuerung über Internet.
+		Das Besondere ist, dass der VIRT2REAL auch schon für die Viedeo übertragung gemacht wurde (schwer mit anderen Einplatincomputern)
+		Stromversorgung: 3-15 V  
+		mit DC/DC Wandler on board
+		Davinci Chip
+		Interner Flash wo das OS drauf ist
+		Konfiguration über Weboberfläche möglich
+		Programmierung über übliche Sprachen (Python, Perl, PHP, JavaScript, ...) möglich
+		Erweiterungsboards (Shields) erhältlich und auch über Weboberfläche steuerbar
+		Dimitri möchte Vertrieb und Support von Virt2Real in absehbarer Zeit für Deutschland übernehmen
+		Kosten für Kit (Board, WiFi, Kamera, Kabelsatz, Dimitris Support) ca. 140€
+		Derzeit Community überwiegend russischsprachig. Dimitri will deutsches Forum etablieren.
+		
+Virt2Real http://virt2real.com/ 
+

@@ -1,0 +1,66 @@
+2013-11-07  Openstreetmap 3-D
+
+Wer kommt?
+	* Jonas
+	* Norbert
+	* Rainer
+	* Isa
+	* Andreas
+	* Joel
+	* Jan
+	* Sebastian (lug-myk)
+	* Ansgar (lug-myk)
+	* Norbert H.
+
+"Kurzeinlage": OpenRheinRuhr
+	* Wer fährt hin?
+	* Wann?
+	* Mit wem?
+	* NRW-Ticket?
+	* Treffpunkt?
+	* Andrea und Detlef fallen heute krankheitsbedingt aus.
+	Macht bitte einen Tag aus (uns ist egal, ob Sa. oder So.),
+	Uhrzeit und Treffpunkt (Hbf. Köln?) und haltet die
+	Angaben hier fest. Wir würden auf jeden Fall mit der Bahn
+	(= NRW-Ticket) fahren wollen.
+	Danke und viel Spass heute Abend!
+	Hier die derzeitigen Infos für Sonntag (Stand von Rainer, wir können nur Sonntags):
+		* wir (Isa u. Rainer) können frühestens um 08.53 Uhr ankommen (mit dem Zug) am Kölner Hauptbahnhof (Gleis 8)
+		* beste Zugverbindung von Köln nach Oberhausen: 08:31 Uhr, Ankunft Oberhausen: 09:26 Uhr
+		* falls Ihr auf uns warten wollt, dann wäre der nächste passende Zug ab Köln um 09:31 Uhr, Ankunft Oberhausen: 10:26 Uhr
+		* wir würden das "Schöne-Wochenende-Ticket" nehmen, kostet 42,00 Euro und kann bis zu 5 Personen verkraften, heißt, 3 könnten noch mitfahren :-)
+	* Infos für Samstag erfolgen anders, da wohl angedacht war, die Anreise in PKWs durchzuführen
+
+
+Vorschläge für den 2. Teil:
+	* Warum benutze ich lieber Linux als Windows (oder Mac OS oder oder) , am liebsten mit praktischem Beispiel (jeder 1, dann sollte doch etwas zusammen kommen)?
+	Ich mache es an einem Beispiel fest (welches ich auch gerne zeigen kann: Bilder mit einem (Konsolen-)Einzeiler verkleinern, so viele wie im Verzeichnis liegen (von Rainer).
+	Joel sagt: So lange das nicht in einen Krieg ausartet: +1 :)
+	Auch ich würde dann gerne einen Tipp zum Besten geben +1 ;-)
+	
+
+	* Die  Idee in der Art eines regelmäßigen Best Practise Meetings, bei dem Jeder der möchte einen kleinen Praxis-Tipp vorstellen darf, fände ich gut.
+	Joel sagt: Das als Best Practice Meeting zu bezeichnen ist allerdings etwas schwierig. Best Current Practises (oder BCPs) kenn ich eigentlich nur aus dem Unternehmenskontext und halte es fuer etwas hinderlich, die Ansichten einzelner Nutzer als Best Practise vorzustellen wo es doch eigentlich um Vielseitigkeit und Austausch geht - oder ist Best Practise gerade so ein Wort? Macht es nicht eher Sinn, BCPs in Umfeldern zu definieren, in denen Einheitlichkeit notwendig und wichtig ist und sollte man nicht sonst eher auf Vielseitigkeit setzen? 
+	Austausch von Tips ist allerdings immer ne gute Sache.
+
+	* Veranstaltungstipp: Die OSM Gruppe Bonn veranstaltet kurz darauf eine Openstreetmap Frage-Antwort Runde und zwar am Freitag, den 8.11.13 in Königswinter.
+weitere Information und Anmeldung unter: 
+http://wiki.openstreetmap.org/wiki/Bonn/Stammtisch#Stammtisch:_Aktuelles 
+http://doodle.com/uiqvkkiw2ze2senb   (Jonas)
+
+Protokoll:
+
+	* OSM 3D - Idee von Menschen an der Uni Passau(?), vorhandene Messdaten zu Gebaeudepositionen zu benutzen, um 3D-Modelle zu erzeugen.¹
+	* Spielehersteller hatte auch Spass und hat ein System zur Visualisierung gebaut, das sogar animiert ist.²
+	* ¹http://maps.osm2world.org/
+	* ²http://map.f4-group.com/
+	* Editor für osm2world = Josm (http://josm.openstreetmap.de/ )
+	* www.openfiremap.org - Hydranten
+	* weitere Informationen:  http://wiki.openstreetmap.org/wiki/DE:How_to_map_a
+	* LUG Mayen Koblenz: http://lug-myk.de
+	* 
+
+
+
+
+

@@ -1,0 +1,39 @@
+
+Termin/Ort
+	05.06.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+	Torben Keil - IPv6
+
+Teilnehmer
+	* Torben Keil (the speaker himself)
+	* Andy
+	* Karl :-) ... bis gleich ... freue mich schon sehr! :-)
+	* Norbert
+	* Jan
+	* Johannes
+	* Georg
+	* Andrea und Detlef sind diesmal leider nicht dabei :-(
+	* dafür kommen Rainer und Isa :-)
+	* Maic (wehe das klappt wieder kurzfristig dann doch nicht)
+	* Uwe
+	* Ansgar
+	* Michael
+	* 
+
+Protokoll
+
+ISO / OSI 7 Schichten Modell
+
+OSI-Layer 3: IP-Protokoll
+
+http://www.netcologne.de/ipv6/
+$ dig trolug.de aaaa
+
+
+FrOsCon
+Jan: + Runder Tisch, + 2. Tisch
+Timeslots synchron mit Talks
+
+6. September Familienfest Troisdorf
+

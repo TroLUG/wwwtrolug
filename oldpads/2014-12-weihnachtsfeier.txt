@@ -1,0 +1,66 @@
+Weihnachtsfeier in der TroLUG mit Vortragsprogramm (d.h. Treffen wie immer, aber zusätzlich dürfen Lebkuchen etc. mitgebracht werden ;-)
+
+Thema: OpenWRT
+
+Anmeldung:
+	* Jonas
+	* Georg
+	* Karl 
+	* Johannes
+	* Michael
+	Maic,  falls mich die Zahbärztin nicht zu sehr quält ;-)
+	* Fayçalw
+	* Norbert
+	* Andy, falls mich der Zahnarzt nicht zu sehr pisakt. ;-) 
+	* Uwe
+	* wahrscheinlich auch Isa und Rainer (Rainer muß nach Bochum und weiß noch nicht, wann er wieder da ist)
+
+    
+
+Besteht Interesse, dass wir nach der Pause mitgebrachte Router gemeinsam flashen und konfigurieren? Falls ja, bitte hinter den Namen schreiben, ob und welchen Router man mitbringt. 
+
+
+
+Protokoll
+
+Termine:
+    - (offtopic): Weihnachtskonzert "Chresskind verzäll nix" 20.12.2014, 19.30 Uhr Junges Forum Kunst, Luisenstr. 80, Siegburg
+    - (ontopic): git - Versionskontrolle, Vortrag im Netzladen Bonn, Breite Str., am 8.12.2014 ab 19.00, https://wiki.fsfe.org/groups/Bonn
+    
+    Jonas Vortrag beginnt mit einigen spannenden Details, UCI, DSL, Splitter. Der Splitter funktioniert wie Frequenzweiche in einer Lautsprecherbox.
+    Alte Router können nur Annex B, neuere Annex J, welches mehr Bandbriete aus dem gleichen Anschluß kitzelt.
+    
+    OpenWRT Webseite: https://openwrt.org/
+    Unterstütze Geräte: http://wiki.openwrt.org/toh/start
+    
+    Dazu gibt es dann üblicherweise Tipps und Kniffe, die das jeweilige Gerät unterstützt, sowei die passenden Downloads der OptnWRT-Firmware.
+    Beim Kauf sollte man auf die Hardware Version achten (üblicherweise auf der Unterseite des Gerätes zu finden).
+    
+    Kaufempfehlung: Mindestens 16 Mbyte RAM.
+
+    Vor dem Flashen ggf. die IP des Rechners anpassen (z. B. statisch auf 192.168.1.10, aber nicht die 192.168.1.1, die erhält das OpenWRT!)
+    Netzmaske dabe ist 255.255.255.0, DNS-Server auch die 192.168.1.1. Letzteres funktioniert aber erst, wenn der OpenWRT sein Uplink zum ISP
+    korrekt konfiguriert hat
+    
+    telnet-Zugang wird nach dem Eintrag eines Passworts deaktiviert, ssh-Zugang wird aktiviert
+        
+    ip -4 nei  -  zeigt alle IPv4 Rechner im Netzwerk aus dem ARP-Cache (wie ARP)
+    ip -6 nei  -  zeigt alle IPv6 Rechner, die via Neighbourhood discovery entdeckt  wurden
+    ip -h zeigt, was man sonst noch so damit machen kann, z.B:
+    ip link show
+    ip addr show
+    ip route show
+    
+    *** an dieser Stelle regt Rainer an, einen Workshop zum Befehl ip in die Planung aufzunehmen ***
+    
+    ethtool eth0 - gibt Infos über eth0 aus, kann auch Eigenschaften ändern, ist für 10, 100, 1000 und 10000 Bps Interfaces geeignet.
+    
+    alias myip='dig +short myip.opendns.com @resolver1.opendns.com'             liest die eigene IP-Adresse aus
+    
+    wget --report-speed=bits http://speedtest.netcologne.de/test_10mb.bin         (für Netcologne-Kunden) mißt den Durchsatz
+    
+Folien erstellen mit rst2pdf inpufile.rst -b1 -s slides.style - Infos unter: http://ralsina.me/stories/BBS52.html
+
+Heise zu Zwangsrouter
+http://www.heise.de/newsticker/meldung/Zwangsrouter-Bundeswirtschaftsministerium-plant-Klarstellung-2482075.html
+

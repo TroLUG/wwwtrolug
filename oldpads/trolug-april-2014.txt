@@ -1,0 +1,61 @@
+
+Termin/Ort
+	03.04.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+	Johannes Hubertz - Versionskontrollsystem git
+
+Teilnehmer
+	* Johannes Hubertz
+	* Jan Grosser
+	* Andreas Klein
+	* Georg
+	* Maic
+	* Dimitri
+	* Harald W.
+	* evtl. Dirk 
+	* evtl. Rainer u. Isa (sind jetzt mit dabei und freuen sich auf git)
+	* Uwe
+	* Nils Jakobi (Gast Jan Grosser kennt mich) 
+	* Andrea und Detlef (ev. etwas später)
+	* Siegfried Schmidt (+2)
+	* Frank
+	* 
+
+Protokoll
+
+	* Mit dem Versionierungssystem git lassen sich alle Art von Dokumenten (nicht nur Quellcode) versionieren.
+	* Schritte:
+		* cd verzeichnis
+		* git init
+		* git add . / git add datei
+			* bereitet erstellte / veränderte Datei für das Archiv vor 
+		* git status
+			* gibt Status des Archivs aus
+		* git commit datei
+			* schreibt vorgemerkte Datei ins Archiv
+		* git reset datei
+			* schiebt datei aus dem Archiv in den Index
+		* git checkout datei
+			* schiebt Datei aus Archiv ins aktuelle Arbeitsverzeichnis
+		* git log
+			* gibt Logbuch der Aktivitäten aus (mit sha1-Prüfsumme aus)
+		* git branch list/create/remove
+			* Zweig erzeugen / löschen / auflisten
+	* Versionsnummern können über "tags" einem commit zugeordnet werden
+	* git stash: Läßt sich als lokaler "Puffer" verwenden, z.B. wenn man Änderungen anderer Entwickler in seinen eigenen Branch integrieren möchte
+	* http://github.com/ Bietet die Möglichkeit an, Repositories für Projekte mit freien Lizenzen zu hosten
+	* Ein "Chef" einer SW-Firma könnte ein "Chef-Branch" lokal auf seinem Rechner einrichten, aus dem dann die Releases von Software erzeugt werden, die dann z.B. an den Kunden geben.
+	* git mergetool ist ein Werkzeug zum Lösen von Konflikten, die beim mergen (Zusammenführen) von Branchen entstehen.
+	* gitolite - Addon für z.B. Apache mit Webansicht von Repositories
+
+Ein schönes Tutorium für Gitarre Anfänger, gerade im Netz gefunden
+http://rogerdudler.github.io/git-guide/index.de.html
+
+Ein Dank an Johannes für den interessanten Vortrag! Leider konnte ich nicht mehr in die Kneipe mitkommen.
+Ich hatte vor einigen Wochen mal einen kurzen Artikel in meinem Microblog, vielleicht interessiert es jemanden: http://www.hweidner.de/redmine/news/56
+
+Fuer Leute mit Humor von mir noch eine kleine Addition:
+    http://git-man-page-generator.lokaltog.net/
+
+

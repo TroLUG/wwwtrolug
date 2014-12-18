@@ -1,0 +1,29 @@
+
+Termin/Ort
+	08.05.2014, 19:00 Uhr, AWO Troisdorf Mitte
+
+Referent und Thema
+	Andreas Klein - Linux Kernel bauen
+
+Teilnehmer
+	* Andreas Klein (the speaker himself)
+	* Jan Grosser
+	* Andrea
+	* Detlef
+	* Frank
+	* Karl, bin auch dabei und freue mich sehr!
+	* Sebastian
+	* Ansgar
+	* Norbert
+	* Norbert2
+	* Uwe
+	* 
+Schaffe es leider doch nich (Maic)
+
+Protokoll
+
+	* Warum Kernel? Abstrahiert Hardware, macht Speicherverwaltung und Prozeßmanagement und stellt Software einheitliche Umgebung zur Verfügung.
+	* Monolithischer vs. modularer Kernel
+	* Andy: Linux-Kernel ist monolithischer Kernel
+	* Initrd/initramfs: Wird beim Booten in den Arbeitsspeicher geladen. Dort werden dann Programme ausgeführt, um das Starten des Betriebssystems zu ermöglichen.
+

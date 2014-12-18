@@ -1,0 +1,57 @@
+Hier können die gewünschten Themen für Mai 2013 rein:
+
+Übrig geblieben aus der letzten Runde war das Thema Thunderbird und PGP bzw. Themen-Abend eMail
+
+Moegliche Kernthemen:
+
+	- Wie funktioniert Email?
+	- Welche Arten der Email-Verschluesselung gibt es?
+	- Warum verschluesseln?
+	- Wie funktioniert PGP? (Beispiel: Thunderbird)
+	- Mailheader lesen/analysieren (wunsch von Jonas)
+	- kleiner Trick zum Erstellen von individuellen Veteilerlisten (von Rainer), getestet mit Thunderbird und Outlook (wer's denn braucht / brauchen muß)
+
+Danach, wenn noch Zeit ist steht folgendes zur Auswahl:
+
+Installieren von Wörterbüchern z.B: http://qvortaro.berlios.de/install.php
+
+
+Anmeldung erfolgt hier (wer kommt):
+Norbert
+Rainer
+Isa
+Uwe.D
+Joel
+Andy
+Dimitri
+Maic (klappt vermutlich leider doch nicht :-( ) Schade..
+Jonas
+Günter
+
+
+Protokoll:
+Der Domain-Name example.com zeigt auf ein "Testumgebung": 192.0.43.10
+(nachzuprüfen z. B. durch den Befehl host example.com
+
+Wie funktioniert eMail?
+- erster Mailserver des Providers schaut sich die Domain an (das nach dem @)
+- sieht, ob eMail für die eigene Domain ist, dann lokale Auslieferung
+- sonst weiter zu zuständigem Mailserver (im DNS nachgefragt)
+- dieser sortiert in zuständiges Postfach (der Teil vor dem @)
+
+2 Arten der Verschlüsselung:
+1. Transportverschlüsselung (Stichwort: SSL)
+Nachteil: Nur die Strecke zwischen dem eigenen Rechner und dem Mailserver des eigenen Providers ist verschlüsselt.
+Paßwörter werden aber (außer bei FTP) verschlüsselt übertragen
+TLS ist besser als SSL, eMail-Programm so einstellen, dass KEIN Rückfall möglich ist
+
+2. Inhalts-Verschlüsselung
+Kopfzeilen bleiben unverschlüsselt
+
+Der Befehl host -t MX gmx.net oder dig mx gmx.net fragt den DNS-Server, welcher Server eMail für die Domain gmx.net zuständig ist
+
+Um Mails verschlüsselt senden zu können, benötigt man neben dem Mailclient Thunderbird das Paket "enigmail" (liegt jeder Distribution bei)
+
+Hinweis im  NachtragI:  das   MAI-Heft 05/13, Seite 50 - 54  des Linux-Magazin enthält einen  Artikel "Schlüsselfertig? fünf Frontends für GnuPG".. 
+
+

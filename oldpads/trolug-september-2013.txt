@@ -1,0 +1,78 @@
+Treffen am 2013-09-05
+
+Wie wäre es, wenn wir uns als roten Faden am kommenden Donnerstag einer
+Gentoo installation widmen? Einrichtung von grub, partitionieren,
+Hardware-Erkennung, schnell passende Kernelmodule finden...
+Schade das Jan zu der Zeit nicht da sein wird, er schien ja auch daran interessiert zu sein... Ja wir sollten ein besonders gutes Protokoll auch für Ihn schreiben.  Gibts doch schon, nennt sich Gentoo-Handbuch ;-) http://www.gentoo.org/doc/de/handbook/ Wir werden sehen, ob das bis Stage3 vollständig ist...
+
+Jonas bringt ein Notebook mit leerer Festplatte mit
+
+Wer kommt?
+	* Jonas
+	* Andrea und Detlef   <== schaffen es nicht vor 20:00
+	* Jan (leider Dienstreise)
+	* Norbert
+	* Andy
+	* Uwe
+	* Dimitri
+	* Rainer und Isa
+	* Maic (unter Vorbehalt)
+
+Weitere Ideen und Fragen:
+	* wie richtet man einen Cryptokey (ePass2003) unter Linux ein?
+	* Hinweis: http://www.youtube.com/watch?v=M7kEpw1tn50, Ein Mathematiker erklärt, wie asymmetrische Verschlüselung funktioniert. (perfekte englische Aussprache.) Uwe
+	* Wer kennt sich mit VirtualBox aus? Nach einem Upgrade funktioniert die Netzwerkkarte nicht mehr (Realtek 8169 Gigabit Karte) (Frage von Rainer)
+	Fehlermeldung (wenn die meisten meinen, das ist zuviel, dann einfach löschen)
+	rainer@inet:~$ VBoxManage startvm "Debian Squeeze" –type headless
+	Waiting for VM "Debian Squeeze" to power on...
+	VBoxManage: error: Failed to open/create the internal network 'HostInterfaceNetworking-eth0' (VERR_INTNET_FLT_IF_NOT_FOUND).
+	VBoxManage: error: Failed to attach the network LUN (VERR_INTNET_FLT_IF_NOT_FOUND)
+	VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component Console, interface IConsole
+	VBoxManage: error: Could not find a registered machine named '–type'
+	VBoxManage: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBox, interface IVirtualBox, callee nsISupports
+	VBoxManage: error: Context: "FindMachine(Bstr(pszVM).raw(), machine.asOutParam())" at line 563 of file VBoxManageMisc.cpp
+	VBoxManage: error: Could not find a registered machine named 'headless'
+	VBoxManage: error: Details: code VBOX_E_OBJECT_NOT_FOUND (0x80bb0001), component VirtualBox, interface IVirtualBox, callee nsISupports
+	VBoxManage: error: Context: "FindMachine(Bstr(pszVM).raw(), machine.asOutParam())" at line 563 of file VBoxManageMisc.cpp
+	* ^^ passiert gleiches als root? dort findet er nicht die virtuelle Maschine, da benutzerabhängig :-(
+
+
+parted: als Partitionsprogramm für Festplatten (konsolengesteuert)g
+	print free: zeigt die aktuelle Belegung an
+	align-check: überprüft, ob Partition "ausgerichtet" ist, d. h. schnellerer Zugriff möglich ist
+	unit MiB: setzt die Anzeige auf MiB
+
+cat /proc/partitions zeigt die Partitionen an
+
+[ESC] + "#" speichert die aktuelle Eingabe in der Bash mit einer # davor, dann kann man danach einen "Zwischenschritt" machen und anschließend wieder den Befehl aufrufen (natürlich die # dann entfernen :-) ).
+
+
+Genntoo installation:
+Hier alle Schritte vom Ablauf des Abends aufzulisten, scheint mir nicht sehr hilfreich, auch weil wir teilweise etwas unorthodox vorgegangen sind und auch zu viele Informatione übersprungen werden würden.
+Zum Nachmachen empfehle ich einfach dem Gentoo-Handbuch zu folgen, dieses sorgfältig zu Lesen und auszuführen. http://www.gentoo.org/doc/de/handbook/
+
+Hier noch einige nützliche Hinweise, die sich so, oder nicht so klar  nicht im Handbuch finden:
+
+                                   
+Auf eurem PC läuft bereits ein Linux, das erhalten werden soll? Dann nutzt doch einfach dieses zur Installation von Gentoo aus eurer gewohnten Umgebung heraus.
+Falls noch kein Linux installiert ist, könnt ihr eine beliebig vorhandene Linux Live-CD verwenden, die in der Lage ist, eure Hardware ausreichend gut zu erkennen und es euch ermöglicht eine Internetverbindung einzurichten.
+Solltet ihr noch eine Live-CD benötigen, empfehle ich die Verwendung der SystemRescueCd, da diese schlank und universell genug ist, um die meisten Anforderungen einer x86 32Bit/64Bit Installation zu erfüllen und darüber hinaus alle Tools enthält auf deren Verwendung im Gentoo-Handbuch eingegangen wird.
+Mit ihr kann man dann auch eine X-Oberfläche starten, um z.B. mit gparted komfortabel seine Festplatte zu partitionieren, mit Firefox online das Gentoo-Handbuch zu lesen, während man in einem Terminal Gentoo installiert. Natürlich kann man genauso gut alles per Text-Konsole installieren.
+
+Grundsätzlich ist zu beachten, dass während einer Installation die gleiche Architektur laufen muss (z.B. 32- oder 64-Bit), die installiert werden soll, damit das spätere chrooten funktioniert. Im Fall der SystemRescueCd müsste man daher besonders darauf achten, je nach Wunsch der zu installierenden Architektur, den 32- oder den 64-Bit Kernel zu booten.
+
+Wiederaufnahme unvollendeter Installationsversuche, die bereits über das chroot hinaus geraten waren.
+Natürlich muss man nicht wieder ganz von vorne beginnen, sondern kann dort weitermachen, wo man zuletzt  aufgehört hat, folgende Schritte sind zuvor dazu notwendig:
+Ihr müsst natürlich wieder die gleichen device/PartitionsNo, wie zuvor verwenden, also ggf. vom u.g. sda1/3 abweichen.
+Wer keine separate Boot-Partition verwendet und auch kein swap device ließe hier also Schritt 2 und 3 weg!
+                                   
+(# mount /dev/sda3 /mnt/gentoo)                 #Nur nötig, falls noch nicht eingehangen.
+(# mount /dev/sda1 /mnt/gentoo/boot)        #Falls vorhanden, aber noch nicht eingehangen.
+(# swapon /dev/sda2)                                #Falls vorh. oder bei Speichermangel benötigt.
+
+Nun springt man im Handbuch wieder an den Kapitelanfang chroot und führt diese wie dort beschrieben durch.
+Erst danach könnt ihr genau dort weitermachen, wo ihr zuvor aufgehört hattet.
+
+So Leute und nun frisch ans Werk ;-)
+
+

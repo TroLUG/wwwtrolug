@@ -1,0 +1,47 @@
+ZFS für Linux: Theorie und Praxis
+http://de.wikipedia.org/wiki/ZFS_%28Dateisystem%29
+wenn dann noch Zeit ist: eine weitere 3D-Animation auf OSM-Basis und eine rein deutsche Suchmaschine.
+
+Treffen am 2013-10-10
+
+Da wir (Andrea/Detlef) erst später kommen können (s. u.), nachstehend zwei Punkte, die ggf. in der Pause
+oder beim Thüringer besprochen werden könnten:
+	Auf der FrOsCon machte jemand den Vorschlag, gemeinsam (per Bahn) zur OpenRheinRuhr zu fahren
+	Wie aktuell ist das? An welchem Tag (Sa. oder So.)? Wer würde mitfahren? Wer kümmert sich um die
+	"Orga" (Fahrkarte besorgen, Zugvverbindung raussuchen etc.)?
+	
+	Im Januar 2014 wird die TroLUG fünf Jahre alt.
+	Da würde sich IMHO eine kleine Feier (öffentlichkeitswirksam) anbieten :-)
+	Evtl. Fotos von "damals"? Vielleicht hat jemand noch eine CD mit einer "typischen" Linux-Distri von
+	2008/2009 die man auf einem Rechner installiert, um zu zeigen, wie sich Linux in den letzten fünf
+	Jahren entwickelt hat?
+	Eine Tombola evtl. (wer könnte dafür Preise "schnorren")?
+	... ?
+	....?
+	
+	
+Wer kommt?
+Norbert (mit AWO-Schlüssel)
+Jonas (wäre an beiden vorgeschlagenen Terminen dabei)
+Dimitri
+Andreas
+Rainer und Isa können nicht wegen Terminüberschneidung bei den Funkamateuren
+Jan
+Andrea und Detlef (voraussichtlich aber erst nach der Pause - oder zum "Thüringer")
+Harald W.
+h
+Ich hoffe, dass heute abend nicht die Ozeane verdampfen ;-)
+
+http://doodle.com/9r97nn3ebkhifvab[1] 
+
+
+Protokoll ZFS 
+	* http://open-zfs.org/
+	* 128 Bit Filesystem, damit zukunfstsicher fuer immer (?) 64 Bit haette nur 14 Jahre lang gereicht
+	* aus ZFS Pools koennen keine Datentraeger meh
+
+Erste Schritte
+zfs list
+attach = Spiegeln
+zfspool status
+
