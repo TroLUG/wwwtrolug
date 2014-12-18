@@ -10,7 +10,7 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 50, 15
   
-  "2014-12-04", "n.n.", "n.n.", "`Anmeldung <http://pad.jjim.de/p/2014-12-weihnachtsfeier>`_"
+  "2014-12-04", "Jonas Stein", "OpenWRT - freie Firmware für Router", "`Anmeldung <http://pad.jjim.de/p/2014-12-weihnachtsfeier>`_"
   "2014-11-06", "Johannes Hubertz", "Python Unittests - Einführung für Menschen mit ein wenig Pythonkenntnissen (Grundlagen)", "`Protokoll <http://pad.jjim.de/p/2014-11>`_, `Vortragsfolien Handout <http://downloads.trolug.de/2014-11-06_trolug_johannes_hubertz_python_unittest_handout.pdf>`_ und `Druckversion <http://downloads.trolug.de/2014-11-06_trolug_johannes_hubertz_python_unittest_print.pdf>`_"
   "2014-10-02", "Christina Herlitschka", "Freifunk", "`Anmeldung <http://pad.jjim.de/p/2014-10>`_, `Vortragsfolien <http://downloads.trolug.de/2014-10-02_trolug_christina_herlitschka_freifunk.pdf>`_"
   "2014-09-06 und 2014-09-07", "alle", "Troisdorfer Familienfest, Stand auf der Kölner Straße", "`Bericht <http://pad.jjim.de/p/2014-09-familienfest>`_"
