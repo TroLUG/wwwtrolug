@@ -1,0 +1,41 @@
+Planung für die weiteren Vorträge der TroLUG
+
+
+Ideen, noch nicht terminiert (unsortiert):
+	* Linux Kernel kompilieren, Teil 2: Praxis (Andy)
+	* "Filterung von IPv6 mit Linux", Johannes
+	* "Musik mit Linux", Torben
+	* "Mail-Client mutt und Umstieg von Thunderbird", Jan
+	* Backup-Strategien und konkrete Implementierungen, Georg
+	* Einführung in die Bildbearbeitung mit Gimp, ???
+	* 10 Min. Matlab als kommerzielles Programm zum Nummerischen rechnen unter Linux (Angebot v. Jonas)
+	=> Scilab als freier Matlab-Clone? (Anfrage von Torben) (Hinweis, für den Raspberry PI gibt es Mathematica kostenlos, dass dürfte in die selbe Sparte fallen)
+	* Absicherung eines Servers für den Betrieb im Internet, z. B. Raspberry PI
+	(könnte ich was zu sagen, bedarf aber einiger Zeit für die Vorbereitung, würde ich gerne auch was zu hören,
+	ich könnte mir vorstellen, dass Johannes, wenn er denn möchte, viel dazu erzählen könnte, wir können ihn ja mal fragen)
+	* Grundverständnis für die innere Funktionsweise von Linux
+	(Ich habe immer das Problem, dass die normalen Computerzeitschriften zu langweilig, da bekanntes beschrieben wird, sind
+	und die Foren zu speziell, da ich hier manchmal nicht verstehe, was gemeint ist. Ich eher Informationen "in the middle"
+	benötige. Also kein Anfängerwissen aber auch kein Spezial-Know-how.
+	* Workshop "Probleme lösen"
+	(Und: ich würde gerne wissen, wie ich mir bei
+	den alltäglichen Problemen und Problemchen selbst helfen kann. Generell fand ich unsere Workshops "Probleme lösen",
+	wo wir am Anfang der Session die Fragen der Teilnehmer gesammelt und dann gemeinsam nach Lösungen gesucht haben
+	immer sehr lehr-, aufschluß- und hilfreich, machen wir so was noch mal?)
+	* Nachfolgend zum "Kernel bauen" fände ich einen Vortrag zum Thema "Cross-Compilation" für verschiedene Development Boards,
+	z. B. BeagleBoard, PandaBoard, sehr interessant, insbesondere Aufbau der Tool-Chain
+	* Security im Allgemeinen, z. B. welche Software sollte unter diesen Aspekten nach "Best Practices" installiert sein, was ist bei der
+	Konfiguration zu beachten
+	(hier glaube ich haben wir in der TroLUG jede Menge Mitglieder mit dem entsprechenden Know-how)
+	* Bash Kurs: Grundlagen (Variablen, export, Pfade, escapen etc.) bist hin zur Shell Programmierung / eigene Shellskripte erstellen. (Könnte mir vostellen dass uns Joel hier ziemlich fit ist, um uns das Nahe zu bringen ;-) Welches Niveau? Änfänger/Mittel/Fortgeschrittene? 
+	* Pyhton Kurs: Grundlagen (Gibt sicher auch Einige die dazu etwas sagen könnten.
+	* VIM Kurs: Hatten wir schon mal, wirkt Wunder gegen Unverträglichkeiten ;-)
+	* OpenWRT (Wunsch von Jonas)
+	* Linux-Workstations für XP-Umsteiger-Otto-Normalverbraucher ("Für die Mama ein Linuxrechner, der wie Windows ist.")
+	* 
+ᒪ
+	
+	
+	
+^^ Wer ist "ich"?
+

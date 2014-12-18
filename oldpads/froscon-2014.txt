@@ -1,0 +1,41 @@
+FrOSCon 2014
+
+Organisation der Standbesetzung
+
+Samstag, 23.08.14: http://doodle.com/zd8wfnzq7vac6sg2
+Sonntag, 24.08.14: http://doodle.com/2m3pp9qsu2wfithe
+
+Equipment
+
+	* Plakat: Jonas
+	* Visitenkarten: Jonas
+	* AWO Give-Aways: Jan
+	* Tischdecke: AWO
+	* 230V-Kabelkram: AWO
+	* Klebeband: Jan
+	* Monitor: AWO
+	* Flipchart: AWO
+	* Netzwerk-Switch: Jonas
+	* Netzwerkkabel: Jan
+	* Kekse/Knabberkram: Isa
+
+
+Ideen für Stand-Aktionen
+
+	* Videoschnitt/Musikmachen unter Linux: Torben
+	* µC programmieren: Jan
+	* Evtl. stelle ich (Torben) auch (nur kurz) mein Projekt "WLAN-Störer" vor (aka. "Laserschwert"), was eigentlich als LED-Beleuchtungssteuerung mit uC angefangen hatte, aber neben Beleuchtungseffekten auch für heftigste Störungen im Frequenzbereich sorgt ... :)
+	* Ich könnte versuchen den Raspi mit dem Temperaturlogger wie angekündigt mitzubringen habe aber leider keine Möglichkeit da so kurzfristig noch eine BGV A3 Prüfung für zu bekommen. 
+
+
+Verschiedenes
+
+Wer könnte insbesondere Sa morgens und So abends sein Auto zur Verfügung stellen, um Equipment zu transportieren?
+
+Hilfreiches
+
+	* FrOSCon Programm: https://programm.froscon.de/2014/
+	* Zahlreiche Infos zur FrOSCon findet man auch hier: http://www.froscon.de/programm/
+
+
+
