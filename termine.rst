@@ -3,6 +3,18 @@
 Termine
 =======
 
+
+2015
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 15, 20, 50, 15
+
+
+  "2015-01-08", "Jan Grosser; Andreas Klein; alle", "DHCP & DNS mit dnsmasq; Snapshots mit btrfs; Erfahrungsaustausch Chat-Clients", "`Anmeldung <https://etherpad.wikimedia.org/p/2015-01-trolug>`_"
+   
+
 2014
 ----
 
