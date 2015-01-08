@@ -22,7 +22,7 @@ Termine
   "2015-04-02", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-04>`_"
   "2015-03-05", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-03>`_"
   "2015-02-05", "n.n.", "Erfahrungsaustausch Chat-Clients, Wissensmanagement mit ZIM", "`Anmeldung <http://pad.trolug.de/trolug-2015-02>`_"
-  "2015-01-08", "Jan Grosser; Andreas Klein; alle", "DHCP & DNS mit dnsmasq; Snapshots mit btrfs", "`Anmeldung <http://pad.trolug.de/trolug-2015-01>`_"
+  "2015-01-08", "Jan Grosser; Andreas Klein; alle", "DHCP & DNS mit dnsmasq; Snapshots mit btrfs", "`Anmeldung <http://pad.trolug.de/trolug-2015-01>`_, `Vortragsfolien dnsmasq <http://downloads.trolug.de/2015-01-08_trolug_jan_grosser_dnsmasq.pdf>`_"
    
 
 2014
