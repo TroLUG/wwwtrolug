@@ -1,4 +1,5 @@
-lftpscript.txt
+lftpscript.*
+run.sh
 _build/*
 _static/*
 _templates/*
