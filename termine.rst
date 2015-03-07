@@ -2,7 +2,7 @@
 
 Termine
 =======
-
+   
 
 2015
 ----
@@ -163,3 +163,10 @@ Termine
   "2009-02-04", "Matthias Mayer",  "Desktop einrichten, aktuelle Grafiktoys und Gimmicks", " "
   "2009-01-07", "Jonas Stein", "Emacs - Schnelleinstieg und interessante Anwendungen. Erstes Treffen der TroLUG", " "
 
+
+  
+Einen freien PDF-Reader zum Öffnen der Vortragsfolien und zusätzlichen Materialien finden Sie zum Beispiel unter
+
+.. raw:: html
+	 
+    <a href="http://pdfreaders.org/"><img src="_static/pdfreaders-four-freedoms.png" alt="pdfreaders.org" /></a>
