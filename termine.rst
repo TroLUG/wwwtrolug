@@ -19,7 +19,7 @@ Termine
   "2015-07-02", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-07>`_"
   "2015-06-04", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-06>`_"
   "2015-05-07", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-05>`_"
-  "2015-04-02", "Verschiedene", "Distributionen", "`Anmeldung <http://pad.trolug.de/trolug-2015-04>`_"
+  "2015-04-02", "Andreas Klein, Jonas Stein", "Die Linux-Evolution der letzten 24 Jahre, Die Distribution Gentoo", "`Anmeldung <http://pad.trolug.de/trolug-2015-04>`_"
   "2015-03-05", "Michael Stehmann", "Freie Software und die FSFE", "`Anmeldung <http://pad.trolug.de/trolug-2015-03>`_"
   "2015-02-05", "Alle, Jonas Stein", "Erfahrungsaustausch Chat-Clients, Wissensmanagement mit ZIM", "`Protokoll <http://pad.trolug.de/trolug-2015-02>`_, `Vortragsfolien zim <http://downloads.trolug.de/2015-02-05_trolug_jonas_stein_zim.pdf>`_"
   "2015-01-08", "Jan Grosser; Andreas Klein; alle", "DHCP & DNS mit dnsmasq; Snapshots mit btrfs", "`Protokoll <http://pad.trolug.de/trolug-2015-01>`_, Vortragsfolien `dnsmasq <http://downloads.trolug.de/2015-01-08_trolug_jan_grosser_dnsmasq.pdf>`_ und `btrfs <http://downloads.trolug.de/2015-01-08_trolug_andreas_klein_btrfssnapshots.pdf>`_"
