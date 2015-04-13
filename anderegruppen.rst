@@ -17,7 +17,7 @@ Raum Köln
 | Köln-LUG                                   | 0            | keine Treffen mehr         |                                                                                       |
 |                                            |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
-| `Openchaos <ttp://www.koeln.ccc.de/>`_     | 15-40        | Vortrag, dann Fragerunde   | OpenChaos Vortrag: Der Chaos Computer Club Cologne (C4) lädt jeden                    |
+| `Openchaos <http://www.koeln.ccc.de/>`_    | 15-40        | Vortrag, dann Fragerunde   | OpenChaos Vortrag: Der Chaos Computer Club Cologne (C4) lädt jeden                    |
 |                                            |              |                            | letzten Donnerstag im Monat ein (außer Dezember), Newsletter abonnieren               |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | TeX-Stammtisch Köln                        | 4-15         | gelegentliche Vorträge 	 | seit 2014-08 findet das Treffen in der `Dingfabrik <http://dingfabrik.de/>`_ statt    |
