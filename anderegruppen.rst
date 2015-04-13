@@ -27,7 +27,7 @@ Raum Köln
 | `PyCologne <http://pycologne.de/>`_        |              | Vorträge, Lightningtalks   | sehr aktiv, Tipp: `Python Barcamp <http://pythoncamp.de/>`_                           |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | Computerclub Pascal                        |              |                            |                                                                                       |
-| `CCP <http://www.ccp-koeln.de/>`_          |              |                            |                                                                                       |
+| `CCP <http://pv-rheinbogen.de/CcpWiki>`_   |              |                            |                                                                                       |
 +--------------------------------------------+--------------+----------------------------+---------------------------------------------------------------------------------------+
 | R Benutzer Treffen Köln                    |              |                            | die Mehrzahl der Teilnehmer verwendet R beruflich                                     |
 | `RUG <http://www.meetup.com/KoelnRUG/>`_   |              |                            |                                                                                       |
