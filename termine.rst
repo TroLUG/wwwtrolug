@@ -20,9 +20,9 @@ Termine
   "2015-06-04", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-06>`_"
   "2015-05-07", "Hubert Zensner, Jan Grosser", "Spyder - Yet another IDE?, Backups mit dem Tool rdiff-backup", "`Anmeldung <http://pad.trolug.de/trolug-2015-05>`_"
   "2015-04-02", "Andreas Klein, Jonas Stein", "Die Linux-Evolution der letzten 24 Jahre, Die Distribution Gentoo", "`Protokoll <http://pad.trolug.de/trolug-2015-04>`_"
-  "2015-03-05", "Michael Stehmann", "Freie Software und die FSFE", "`Protokoll <oldpads/2015-03.txt>`_"
-  "2015-02-05", "Alle, Jonas Stein", "Erfahrungsaustausch Chat-Clients, Wissensmanagement mit ZIM", "`Protokoll <oldpads/2015-02.txt>`_, `Vortragsfolien zim <http://downloads.trolug.de/2015-02-05_trolug_jonas_stein_zim.pdf>`_"
-  "2015-01-08", "Jan Grosser; Andreas Klein; alle", "DHCP & DNS mit dnsmasq; Snapshots mit btrfs", "`Protokoll <oldpads/2015-01.txt>`_, Vortragsfolien `dnsmasq <http://downloads.trolug.de/2015-01-08_trolug_jan_grosser_dnsmasq.pdf>`_ und `btrfs <http://downloads.trolug.de/2015-01-08_trolug_andreas_klein_btrfssnapshots.pdf>`_"
+  "2015-03-05", "Michael Stehmann", "Freie Software und die FSFE", ":download:`Protokoll <oldpads/2015-03.txt>`_"
+  "2015-02-05", "Alle, Jonas Stein", "Erfahrungsaustausch Chat-Clients, Wissensmanagement mit ZIM", ":download:`Protokoll <oldpads/2015-02.txt>`_, `Vortragsfolien zim <http://downloads.trolug.de/2015-02-05_trolug_jonas_stein_zim.pdf>`_"
+  "2015-01-08", "Jan Grosser; Andreas Klein; alle", "DHCP & DNS mit dnsmasq; Snapshots mit btrfs", ":download:`Protokoll <oldpads/2015-01.txt>`_, Vortragsfolien `dnsmasq <http://downloads.trolug.de/2015-01-08_trolug_jan_grosser_dnsmasq.pdf>`_ und `btrfs <http://downloads.trolug.de/2015-01-08_trolug_andreas_klein_btrfssnapshots.pdf>`_"
    
 
 2014
