@@ -1,3 +1,127 @@
-Troluger!  Willkommen zum  Etherpad!!!
-Get involved with Etherpad at http://etherpad.org
+Thema
+Dr. Michael Stehmann: Freie Software und die FSFE
+
+Anmeldung
+Jonas
+Jan
+Johannes
+Andy
+Meinrad
+Elmar(leider krank)
+Norbert
+Faycal
+Detlef (unter Vorbehalt)
+Ansgar
+Uwe ist unterwegs - kommt also nicht -  aber Grüße, damit ich nicht in Vergessenheit gerate.
+Karl
+Maic (unter Vorbehalt, komme wenn es die Gesunheit zuläßt - leider ist dem nich so, ich huste noch viel zu stark, damit würde ich Euch nur den Vortrag vermiesen. Schade :-( )
+Harald W.
+Rainer und Isa können leider wieder nicht wg. Rainers Spätdienst :-( Euch allen viel Spaß. Hoffentlich gibts ein Protokoll zum Nachlesen :-)
+
+
+Fragen zum Thema
+Ist es heute noch so, dass in den USA Code ohne Lizenz automatisch frei ist http://cr.yp.to/softwarelaw.html
+Literatur http://www.bpb.de/gesellschaft/medien/urheberrecht/63439/die-buecher-urheberrecht-im-alltag-wissen-und-eigentum
+
+Gibt es eine URL zum Budget (... nicht nur Ein- u. Ausgaben http://fsfe.org/about/funds/funds.de.html ?  )    Wie viele freie und hauptberuflich arbeitende Mitglieder gibt es in Europa?
+Können Fördermitglieder an einer ordentlichen Mitgliederversammlung teilnehmen?
+
+Und noch ein Gedanke verbunden mit einer Frage:
+                               
+Ich bin sehr froh darüber, dass es die „freie Softwarewelt“ gibt. Ich nutze Sie und ziehe meinen Gewinn daraus. Diesen Gewinn ermöglichen mir Menschen, deren Gedanken und Mühe ich honorieren kann, aber nicht muss. Auch ich habe schon anderen Menschen über Foren geholfen, meine persönliche Zeit investiert, damit diese privat und beruflich weiterkommen können. 
+
+Mir stellt sich dieFrage, ob das wirklich auf lange Sicht gesehen funktionieren kann? Steht diesen Menschen, die etwas tun, nicht auch Honorar zu? Wie auch immer das Bezahlsystem aussehen könnte. Ein Programmierer der viel unentgeltlich für die Gemeinschaft getan hat, wird auch älter,irgendwann kann dieser Programmierer nicht mehr, wer kümmert sich dann um ihn? Er wird verhungern ... 
+
+Welche Ansätze hat die FSFE für dieses Problem und was hat sie bereits dafür getan?
+
+Karl
+
+
+
+Protokoll
+
+* Fast jeder hatte schon mal - bewußt oder unbewußt mit Freier Software zu tun. Bspw.: Firefox, Thunderbird, GNU/Linux, Apache Webserver, VLC, MediaWiki uvm.
+* "Die Lizenz entscheidet, ob es sich um Freie Software handelt."
+* Freie Software kann auch Geld kosten, also auch kommerzielle Software sein!"
+
+Wie kann man mit freier Software Geld verdienen?
+Verkauf von Medien (CD...)
+Auftragsentwicklungen
+Installation und Support
+Bündelung mit Hardware
+Synergien
+Zertifizierung
+
+* FSF und FSFE sind Schwesterorganisationen
+
+* GNU Definition Freie Software: Vier Freiheiten freier Software:
+1. Verwenden
+2. Vertstehen
+3. Verbreiten (oder Teilen)
+4. Verbessern
+
+Frage: Kann man freie Software in einer nicht freien Sprache (LabView) schreiben?
+Antwort: Grundsätzlich ja, sofern die obigen vier Freiheiten zu gewährleisten sind.
+
+Namen von Programmen in Hinblick auf Markenrechte sind von der Frage der SW Lizenz unabhängig zu betrachten.
+
+Open Source und Freie Software sind synonyme Begriffe, aber mit unterschiedlicher "Konotation":
+Freie Software betont die Freiheit aus der Sichtweise der Benutzer
+Open Source betont die Überlegenheit Entwicklungsmodells ("Basar-Modell") aus der Sichtweise von Entwicklern
+Open Source Definition: http://opensource.org/osd
+Debian free software guidelines (DFSG) http://www.debian.org/social_contract#guidelines:
+- nur freie Software in main, sonst non-free
+
+155 verschiedene Open Source Lizenzen!  (xkcd dazu http://xkcd.com/927/)
+http://www.ifross.org/lizenz-center
+
+Copyleft: Sämtliche Änderungen und Weiterentwicklungen einer Freien Software dürfen nur unter der gleichen (oder kompatiblen) Lizenz veröffentlicht werden.
+Es gibt auch Lizenzen ohne Copyleft-Prinzip. Änderungen und Weiterentwicklungen von Freier Software kann in diesem Fall auch als proprietäre Software weitergegeben werden.
+
+Lizenzen mit ohne copyleft können in beliebige andere Lizenzen überführt werden (z.B. bei 40 BSD und weitere Lizenzen der Fall)
+
+n.b.: Lizenzen haben Urheber! Dadurch können auch Rechte eingeklagt werden.
+
+Anekdote: Abmahnanwalt, der öffentlichkeitswirksam gegen Urheber- und Markenrechtsverletzungen vorging:
+https://de.wikipedia.org/w/index.php?title=G%C3%BCnter_Freiherr_von_Gravenreuth&redirect=no
+
+Security by obscurity/Kerckhoffsches Prinzip:
+http://de.wikipedia.org/wiki/Kerckhoffs%E2%80%99_Prinzip
+
+Freie Software implementiert häufig offene Standards (z.B. Open Document Format bei OpenOffice/LibreOffice)
+
+Freie Software in der Bildung:
+Chancengleichheit (Freie Software häufig kostenlos)
+Offener Quellcode - Lernen, wie Software funktioniert
+Programmieren heute eine grundlegende Kulturtechnik wie Lesen und Schreiben
+ 
+ Einsatz freier Software in Unternehmen:
+Man kann geld sparen (Lizenzkosten, Wartung, Schulung)
+Letztlich ist das aber eine strategische Entscheidung (Vendor Lockin, Abhängigkeit von den unternehmerischen Entscheidungen der SW-Hersteller), die sich langfristig monetär auswirken kann.
+
+FSFE http://fsfe.org wurde 2001 gegründet
+Zugang zu SW bestimmt, wer an einer digitalen Gesellschaft teilnehmen darf
+Förderung Freier Software
+gemeinnützige Nichtregierungsorganisation. Werben für Freie Software/Standards in Politik, Wirtschaft, Recht und Gesellschaft
+
+Aktionen
+http://pdfreaders.org
+http://drm.info
+Free Your Android
+http://fsfe.org/campaigns/campaigns.de.html
+
+FSFE Fellowship: Möglichkeit der Unterstützung der Arbeit der FSFE:
+Finanziell: Fellowship-Beiträge
+Aktiv: Teilnahme an lokalen Felowship-Treffen, "Spread the good news"
+Kandidatur als Vertreter der Fellows in der FSFE Generalversammlung
+
+Frage: Kann der Autor eine Software erst unter eine freie Lizenz stellen und es sich später nochmal anders überlegen?
+Frage: Ist es zulässig ein freies Projekt zu forken und einen Code Scrambler (unlesbar machen durch Chaos) anzuwenden und in damit defacto unlesbar zu machen?
+http://de.wikipedia.org/wiki/Obfuskation (besser englischer Artikel dazu http://en.wikipedia.org/wiki/Obfuscation_%28software%29)
+Antwort: Nein: "Obfuscated“source code” is not real source code and does not countas source code." Quelle: https://www.gnu.org/philosophy/free-sw.html
+
+Freie Schriftarten: Alternativen zu Propriäteren Schriften online  vergleichen:
+
+
+M.S. Wunsch: Openoffice auf RaspberryPI
 
