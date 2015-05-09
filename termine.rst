@@ -18,7 +18,7 @@ Termine
   "2015-08-06", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-08>`_"
   "2015-07-02", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-07>`_"
   "2015-06-04", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-06>`_"
-  "2015-05-07", "Hubert Zensner, Jan Grosser", "Spyder - Yet another IDE?, Backups mit dem Tool rdiff-backup", "`Anmeldung <http://pad.trolug.de/trolug-2015-05>`_"
+  "2015-05-07", "Hubert Zensner, Jan Grosser", "Spyder - Yet another IDE?, Backups mit dem Tool rdiff-backup", "`Protokoll <http://pad.trolug.de/trolug-2015-05>`_, `Vortragsfolien Spyder <http://downloads.trolug.de/2015-05-07_trolug_hubert_zensner_spyder.pdf>`_"
   "2015-04-02", "Andreas Klein, Jonas Stein", "Die Linux-Evolution der letzten 24 Jahre, Die Distribution Gentoo", "`Protokoll <http://pad.trolug.de/trolug-2015-04>`_"
   "2015-03-05", "Michael Stehmann", "Freie Software und die FSFE", ":download:`Protokoll <oldpads/2015-03.txt>`, Vortragsfolien `OPD <http://downloads.trolug.de/2015-03-05_trolug_michael_stehmann_freie_software_anwendersicht.odp>`_, `PDF <2015-03-05_trolug_michael_stehmann_freie_software_anwendersicht.pdf>`_"
   "2015-02-05", "Alle, Jonas Stein", "Erfahrungsaustausch Chat-Clients, Wissensmanagement mit ZIM", ":download:`Protokoll <oldpads/2015-02.txt>`, `Vortragsfolien zim <http://downloads.trolug.de/2015-02-05_trolug_jonas_stein_zim.pdf>`_"
