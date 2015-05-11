@@ -1,3 +1,52 @@
-Troluger!  Willkommen zum  Etherpad!!!
-Get involved with Etherpad at http://etherpad.org
+TroLUG 2015-01-08
+
+Themen
+Jan Grosser - DHCP & DNS mit dnsmasq
+Andreas Klein - Snapshots mit btrfs
+Alle - Erfahrungsaustausch Chat-Clients
+
+Anmeldung
+Jan
+Jonas
+Norbert
+Andreas
+Fabian
+Karl
+Uwe
+Hans-Georg
+Elmar
+
+
+Protokoll
+
+in den Folien:
+statt 3, geht auch option:router
+http://www.iana.org/assignments/bootp-dhcp-parameters/bootp-dhcp-parameters.xhtml
+
+
+SWAP heute nicht mehr 2xRAM
+
+Da die Frage aufgetreten ist : 
+    Unter Windows gibt es die Datei C:\Windows\System32\etc\hosts
+    Hier kann dann im Format : 
+        127.0.01  trolug.de
+   Die Domain trolug.de wird hierbei dann wieder auf den localhost umgeleitet.
+
+
+http://de.wikipedia.org/wiki/Btrfs hier steht, welche Distributionen btrfs unterstuetzen
+
+
+du -sch 
+
+-c, --total
+              produce a grand total
+
+-s, --summarize
+              display only a total for each argument
+
+-h, --human-readable
+              print sizes in human readable format (e.g., 1K 234M 2G)
+
+http://superuser.com/questions/603708/btrfs-undelete-file
+
 

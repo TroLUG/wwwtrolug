@@ -1,3 +1,39 @@
-Troluger!  Willkommen zum  Etherpad!!!
-Get involved with Etherpad at http://etherpad.org
+Thema
+Alle: Erfahrungsaustausch Chat-Clients, evtl. auch für mobile Geräte wie Tablets oder Smartphone (Erweiterung schlägt Rainer vor)
+Jonas Stein: Wissensmanagement mit ZIM
+
+Anmeldung
+Jan
+Fabian
+Norbert
+Jonas
+Meinrad
+Rainer und Isa (schaffen es endlich auch wieder mal)
+Uwe
+Johannes
+Hans-Georg
+Elmar
+Dimitri
+
+Fragen vorab
+Auch eine Art Chat :) Suche ein gutes Programm, mit dem Kommandos per RS232 an ein Messgeraet gesendet werden koennen. Mit Putty hatte es nicht geklappt,  Funktionen zum Hardwaredebuggen/Protokoll testen waeren nett (Jonas)
+wie kann man neue Schriften für LibreOffice installieren (Norbert) --> siehe ML: http://thread.gmane.org/gmane.org.user-groups.linux.troisdorf/1609  + Etherpad: http://www.trolug-pad.de/linux-fonts
+kennt sich jemand mit Base von LibreOffice aus (Norbert)
+Wie funktioniert Kismet (Norbert2)
+
+Protokoll
+
+
+ZIM
+aktuelle Versionen (z. B. für debianbasierte Distributionen) auf der Webseite zu finden unter http://zim-wiki.org
+http://www.giuspen.com/cherrytree/
+
+CHAT
+
+FREIFUNK
+
+ALLGEMEINE TIPPS:
+    auf der Konsole vor ein Programm LANG=de_DE startet das Programm in der angegebenen Sprache (falls vorhanden)
+    
+https://github.com/jonasstein/zim-slides
 

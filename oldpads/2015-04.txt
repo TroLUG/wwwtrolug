@@ -1,0 +1,67 @@
+Themen
+
+1. Einführung in das Linux Distributions-Konzept
+2. Die Distribution "Gentoo Linux" (Andy, Jonas)
+3. Erfahrungsaustausch zu versch. Linux-Distributionen
+
+
+Wunschvorschlag von Andy für einen Vortrag über Wine, wer könnte und würde etwas darüber erzählen/zeigen?
+Wine: Installation von Programmen in Wine, Konfiguration und Anwendung. 
+Ich könnte das vermutlich aber nicht schon beim kommenden Treffen. Bräuchte etwas Zeit für die Vorbereitung.
+
+
+Anmeldung
+Jonas
+Andyz
+Detlef
+Wolf (Debütant) / sorry STORNO aus fam. Gründen
+Jan
+Meinrad
+Stefan
+Norbert
+ulli
+Ansgar
+Maic
+Martin
+Torben
+Hans-Georg
+Uwe, DJ8PI , (Wusste bis gestern nicht, ob mein Auto wieder läuft)
+Dimitri
+
+
+Protokoll
+
+Andy - Die Linux-Evolution
+"Am Anfang war der Quellcode"
+Richard Stallman entwickelte die Idee Freier Software http://gnu.org/
+Die 4 Freiheiten Freier Software:
+Benutzen
+Verstehen
+Verändern
+Verteilen
+Linux Torvalds veröffentlichte 1991 den Linux-Kernel. Zusammen mit den Programmen des GNU-Projekts (Compiler, Editor, System-Tools, ...) ergibt es ein Betriebssystem, welches deshalb häufig auch GNU/Linux genannt wird.
+Distribution: Zusammenstellung von Programmpaketen, die zusammen ein lauffähiges GNU/Linux-Betriebssystem ergeben.
+Erste Linux-Distributionen erschienen ab 1992, darunter Slackware und Debian, die es heute noch gibt
+Etwa 350 verschiedene mehr oder weniger aktiv weiterentwickelte Linux-Distributionen http://distrowatch.com/
+Im Smartphone- und Router-Bereich ist Linux mit Abstand "Marktführer", anders als im Desktop-Bereich
+Unterscheidung: Quellcode- oder Paket-basierende Distributionen; Mischformen möglich.
+Es gibt deutlich mehr Paket- als Quellcode-basierende Distributionen. Dies ist allerdings kein Qualitätskriterium!
+Paketorientierte Distros in der Regel einfacher installierbar. Quellcode-basierte Distros sind in der Regel besser individuell anpaßbar (Geschwindigkeit, Hardware, unterstützte Feature usw.).
+
+Jonas - Die Distribution Gentoo
+Für Linux-Einsteiger empfiehlt die TroLUG die Distribution Mint: http://www.linuxmint.com/
+Gentoo SW-Pakete (.ebuild-Dateien) sind "Bauanleitungen", wie das gewünschte Paket aus dem Quellcode compiliert wird (vergleichbar mit Lego Bauanleitung)
+Paketverwaltung unter Gentoo heißt Portage
+Stable und Testing lassen sich mischen
+"Rolling Release", also keine klassischen Versionen wie bei anderen Betriebssystemen - Nie mehr Neuinstallation/Update! Gentoo läßt sich kontinuierlich aktualisieren.
+"Overlays" erweitern das Paketangebot des Gentoo-Projekts
+Die ebuild Dateien (Bauanleitung) liegen bereits im Gentoo System; Installation z.B. des Dateimanagers "midnight commanders" mit "emerge --ask mc". Die "Bauanleitungen" können mit dem Gentoo-Server mittels "emerge --sync" aktualisiert werden.
+Gentoo nicht geeignet für Linux-Benutzer mit "Kommandozeilen-Allergie". Gute Englisch-Kenntnisse sind ebenfalls unentbehrlich, da die meiste Dokumentation und Foren/Usergroups in englischer Sprache sind. Ein schneller Rechner ist förderlich, um die Zeit für das Compilieren zu reduzieren.
+Pakete sind vergleichsweise aktuell, da direkt auf den Quellcode der Programme zugegriffen werden kann. Man muß nicht erst warten, bis der Distributor das Paket kompiliert und in den Repositories bereitstellt.
+Gentoo Handbuch (Installationsanleiung) hier: (um zu anderen Sprachen als englisch zu gelangen, z.B. deutsch wählen und dann auf der Manpage die Direktlinks oben verwenden.)
+https://www.gentoo.org/get-started/
+
+
+
+
+
