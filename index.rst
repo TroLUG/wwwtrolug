@@ -24,11 +24,13 @@ Da wir ein loser Zusammenschluß sind, gibt es keine Mitgliedschaft oder
    :align: center
    :alt: Louis möchte Fische angeln
 
+
+	 
 Mitmachen
 ---------
 
-Unsere Treffen finden jeweils am ersten Donnerstag eines Monats ab 19:00 Uhr in 
-den :ref:`Räumlichkeiten der AWO in Troisdorf <treffpunkt>` statt.
+Unsere Treffen beginnen jeweils am ersten Donnerstag eines Monats um 19:00 Uhr im 
+:ref:`Agnes Klein Zentrum <treffpunkt>` der Arbeiterwohlfahrt in Troisdorf statt.
 
 Wir tauschen uns auf einer :ref:`Mailingliste <mailingliste>` aus.
 
