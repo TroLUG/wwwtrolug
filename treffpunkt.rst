@@ -12,7 +12,7 @@ statt:
 | Wilhelm-Hamacher-Platz 12
 | 53840 Troisdorf
 
-`Standort auf OpenStreetMap.org <http://osm.org/go/0GISOY8w2?layers=H&way=178490074>`_
+`TroLUG Treffpunkt auf OpenStreetMap.org <http://osm.org/go/0GISOY8w2?layers=H&way=178490074>`_
 
 .. image:: _static/troisdorf_awo.jpg
    :align: center
