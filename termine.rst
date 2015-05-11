@@ -16,6 +16,7 @@ Termine
   "2015-10-01", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-10>`_"
   "2015-09-03", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-09>`_"
   "2015-08-06", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-08>`_"
+  "2015-08-01", "diverse", "gentoo Workshop Troisdorf 2015", :ref:`gentoo Workshop <gentoo-workshop>`
   "2015-07-02", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-07>`_"
   "2015-06-04", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-06>`_"
   "2015-05-07", "Hubert Zensner, Jan Grosser", "Spyder - Yet another IDE?, Backups mit dem Tool rdiff-backup", "`Protokoll <http://pad.trolug.de/trolug-2015-05>`_, `Vortragsfolien Spyder <http://downloads.trolug.de/2015-05-07_trolug_hubert_zensner_spyder.pdf>`_"
