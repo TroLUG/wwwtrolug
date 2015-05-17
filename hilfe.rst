@@ -41,11 +41,11 @@ Ich suche ein Howto
 -------------------
  * http://tldp.org/ the Linux Documentation Project (en, international)
 
-Wo ist die Anleitung zu Programm foobar
----------------------------------------
- * auf der Konsole man foobar oder info foobar eingeben.
- * das Programm mit foobar –help aufrufen
- * im Ordner /usr/share/doc/foobar finden sich in der Regel Handbücher und Beispiele
+Wo ist die Anleitung zu Programm ``foobar`` (Beispiel)
+------------------------------------------------------
+ * auf der Konsole ``man foobar`` oder ``info foobar`` eingeben.
+ * das Programm mit ``foobar --help`` aufrufen
+ * im Ordner ``/usr/share/doc/foobar`` finden sich in der Regel Handbücher und Beispiele
 
 Wo finde ich den IRC Channel der TroLUG?
 ----------------------------------------
