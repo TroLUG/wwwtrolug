@@ -161,4 +161,4 @@ upload:
 	    exit 1; \
 	fi;
 	read -p "User name for ftp transfer to ftp.trolug.de: " FTPUSER; \
-	lftp -e 'set ssl:verify-certificate no; mirror -R _build/html/ /; bye' $$FTPUSER@ftp.trolug.de
+	lftp -e 'set ftp:ssl-allow no; cd trolugsphinx; mirror --delete -R -v _build/html/. ; bye' $$FTPUSER@ftp.trolug.de
