@@ -23,6 +23,7 @@ Veranstaltungsort sind die
 Inhalte
 -------
 Die Beiträge richten sich an fortgeschrittene Nutzer.
+Es wird mit ca. 15-20 Teilnehmern gerechnet.
 
 Typische Themen könnten sein: Paketbau, Optimierung durch Compiler Flags, Java Ebuilds,
 openrc/systemd-Einbindung in Gentoo, Erfolge des vergangenen Jahres der Herd xy.
