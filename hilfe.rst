@@ -4,7 +4,7 @@ Wo bekomme ich Hilfe?
 =====================
 
 Welche Linux Distribution ist das richtige für mich?
-----------------------------------------
+----------------------------------------------------
 Für Neueinsteiger ist es hilfreich eine der am meisten verbreiteten Distributionen zu installieren,
 denn bei Problemen und Fragen finden sich so möglichst viele Helfer und sie sind oft umfangreich dokumentiert.
 
