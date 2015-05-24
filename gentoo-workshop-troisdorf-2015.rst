@@ -1,12 +1,13 @@
 .. _gentoo-workshop:
 
-gentoo Workshop Troisdorf 2015
+Gentoo Workshop Troisdorf 2015
 ==============================
 
 Am Samstag, den 2015-08-01,
-veranstaltet die Troisdorfer Linux User Group (TroLUG), ein Club der Arbeiterwohlfahrt Troisdorf-Mitte
+veranstaltet die Troisdorfer Linux User Group (TroLUG),
+ein Club der Arbeiterwohlfahrt Troisdorf-Mitte,
 den
-gentoo Workshop Troisdorf 2015
+**Gentoo Workshop Troisdorf 2015**
 Veranstaltungsort sind die
 
 
@@ -21,12 +22,12 @@ Veranstaltungsort sind die
 
 Inhalte
 -------
-Die Beiträge richten sich nicht an Einsteiger.
+Die Beiträge richten sich an fortgeschrittene Nutzer.
 
-Typische Themen könnten sein: Paketbau, Optimierung durch Compiler Flags, JAVA ebuilds,
-openrc/systemd Einbindung in gentoo, Erfolge des vergangenen Jahres der Herd-xy.
+Typische Themen könnten sein: Paketbau, Optimierung durch Compiler Flags, Java Ebuilds,
+openrc/systemd-Einbindung in Gentoo, Erfolge des vergangenen Jahres der Herd xy.
 
-Themenbeispiele, die in diesem Rahmen keinen Platz finden werden: Installation von gentoo, Vorzüge von gentoo und ähnliche Einstiegsthemen.
+Themenbeispiele, die in diesem Rahmen keinen Platz finden werden: Installation von Gentoo, Vorzüge von Gentoo und ähnliche Einstiegsthemen.
 
 
 Geplanter Ablauf
@@ -42,7 +43,7 @@ Geplanter Ablauf
         Kurzvortrag Session II
         Gemeinsames Mittagessen vor Ort
         Workshop I
-        Kaffeepause mit gpg Keysigning
+        Kaffeepause mit G(nu)PG Keysigning
         Workshop II
         Aussprache
    1900 Aufräumen
@@ -68,7 +69,7 @@ Anmeldung bis zum 2015-06-06 per Mail an
 
 .. raw:: html
 
-    <a href="mailto:gentoo2015@trolug.de?subject=Anmeldung zum gentoo Workshop &body=Anmeldung zum gentoo Workshop Troisdorf 2015 der 
+    <a href="mailto:gentoo2015@trolug.de?subject=Anmeldung zum Gentoo Workshop &body=Anmeldung zum Gentoo Workshop Troisdorf 2015 der 
    Troisdorfer Linux User Group (TroLUG)%0D%0A
    Name: %0D%0A
    %0D%0A
@@ -80,7 +81,7 @@ Anmeldung bis zum 2015-06-06 per Mail an
 
 ::
 
-   Anmeldung zum gentoo Workshop Troisdorf 2015 der 
+   Anmeldung zum Gentoo Workshop Troisdorf 2015 der 
    Troisdorfer Linux User Group (TroLUG)
    Name:
 
@@ -149,9 +150,9 @@ Folgende Parkmöglichkeiten sind besonders nah gelegen
   * Achtung: Manche Parkplätze sind für Bewohner reserviert. Die Schilder werden von nicht Ortskundigen leicht übersehen 
 
 Anreise mit dem Fahrrad
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
   * http://www.openstreetmap.org/?mlat=50.81496&mlon=7.15623#map=17/50.81496/7.15623&layers=C
 
 
 | Organisation: Jonas Stein für die TroLUG
-| gentoo ist eine eingetragene Wort-/Bildmarke des Förderverein Gentoo e. V., 46049, Oberhausen, DE
+| Gentoo ist eine eingetragene Wort-/Bildmarke des Förderverein Gentoo e. V., 46049, Oberhausen, DE
