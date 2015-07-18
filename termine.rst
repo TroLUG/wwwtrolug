@@ -15,7 +15,7 @@ Termine
   "2015-11-05", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-11>`_"
   "2015-10-01", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-10>`_"
   "2015-09-03", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-09>`_"
-  "2015-08-06", "Jan Grosser; alle", "tmux - Einführung in den Terminalmultiplexer; Verschiedenes", "`Anmeldung <https://titanpad.com/iPUI2K5SHl>`_"
+  "2015-08-06", "Jan Grosser; Jonas Stein", "tmux - Einführung in den Terminalmultiplexer; Projekt Babyphone mit freier Hard- und Software", "`Anmeldung <https://titanpad.com/iPUI2K5SHl>`_"
   "2015-08-01", "diverse", "gentoo Workshop Troisdorf 2015", :ref:`gentoo Workshop <gentoo-workshop>`
   "2015-07-02", "Jonas Stein; alle", "Secure Shell ssh; Verschiedenes", "`Protokoll <http://pad.trolug.de/trolug-2015-07>`_"
   "2015-06-04", "Alle", "Bunter Abend - Austausch und Probleme lösen", "`Protokoll <http://pad.trolug.de/trolug-2015-06>`_"
