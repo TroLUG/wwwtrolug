@@ -31,6 +31,30 @@ openrc/systemd-Einbindung in Gentoo, Erfolge des vergangenen Jahres der Herd xy.
 Themenbeispiele, die in diesem Rahmen keinen Platz finden werden: Installation von Gentoo, Vorzüge von Gentoo und ähnliche Einstiegsthemen.
 
 
+
+Bereits angemeldete Beiträge
+----------------------------
+(Liste unvollständig; wird gelegentlich aktualisiert)
+
+Kurzvorträge
+^^^^^^^^^^^^
+
+* Gentoo mit Twinkle im Hotline Betrieb (R.F., J.N.)
+* distcc - Zusammen ist man stärker (J.G.)
+* Gentoo Qualitätskontrolle und Bugtracking (J.S.)
+* Compiler-Flags bei wenig RAM (T.S.)
+* Umstellung auf systemd (R.F., J.N.)
+* ? (A.E.)
+  
+  
+Workshops
+^^^^^^^^^
+
+* Customized CFLAGS Settings (A.K.)
+* Ebuilding-Quick-Intro (S.P.)
+ 
+  
+
 Geplanter Ablauf
 ----------------
 
@@ -44,7 +68,7 @@ Geplanter Ablauf
         Kurzvortrag Session II
         Gemeinsames Mittagessen vor Ort
         Workshop I
-        Kaffeepause mit G(nu)PG Keysigning
+        Kaffeepause mit G(nu)PG Keysigning und Eis (?)
         Workshop II
         Aussprache
    1900 Aufräumen
@@ -76,7 +100,7 @@ Anmeldung bis zum 2015-06-06 per Mail an
    %0D%0A
    Beitrag %0D%0A
    [ ] Vortrag 10 Min. + x Min. Fragen %0D%0A
-   [ ] Workshop ca. 2 h (Dauer nach Absprache) %0D%0A
+   [ ] Workshop 1 h oder 2 h (Dauer nach Absprache) %0D%0A
    Vortragstitel: %0D%0A
    [ ] ich habe Interesse an einer gemeinsamen Fahrt nach Köln am Sonntag %0D%0A  %0D%0A&">gentoo2015@trolug.de (vorbereiteter Mailbody) </a>
 
@@ -88,9 +112,16 @@ Anmeldung bis zum 2015-06-06 per Mail an
 
    Beitrag
    [ ] Vortrag 10 Min. + x Min. Fragen
-   [ ] Workshop ca. 2 h (Dauer nach Absprache)
+   [ ] Workshop 1 h oder 2 h (Dauer nach Absprache)
    Vortragstitel:
    [ ] ich habe Interesse an einer gemeinsamen Fahrt nach Köln am Sonntag
+
+
+Edit: Verlängerte Anmeldefrist 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
+Es hatte dann doch länger als geplant gedauert, auf die Veranstaltung aufmerksam zu machen.
+Die Deadline wurde damit unrealistisch kurz.
+Auf mehrfachen Wunsch nehmen wir noch verspätete Anmeldungen an, solange wir freie Plätze haben.
 
 
 
