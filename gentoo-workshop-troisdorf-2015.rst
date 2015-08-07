@@ -39,21 +39,20 @@ Bereits angemeldete Beiträge
 Kurzvorträge
 ^^^^^^^^^^^^
 
-* Gentoo mit Twinkle im Hotline Betrieb (R.F., J.N.)
-* distcc - Zusammen ist man stärker (J.G.)
-* Gentoo Qualitätskontrolle und Bugtracking (J.S.)
-* Compiler-Flags bei wenig RAM (T.S.)
-* Umstellung auf systemd (R.F., J.N.)
-* ? (A.E.)
+* Gentoo mit Twinkle im Hotline Betrieb (`pdf <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_rene_fuchs_gentoo_hotline.pdf>`_) (`odp <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_rene_fuchs_gentoo_hotline.odp>`_)
+* distcc - Zusammen ist man stärker (`odp <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_jan_grosser_distcc.odp>`_)
+* Gentoo Qualitätskontrolle und Bugtracking  (`pdf <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_jonas_stein_strategien_zur_qualitaetssicherung.pdf>`_)
+* Compiler-Flags bei wenig RAM (kein Download)
+* Umstellung auf systemd.pdf (`pdf <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_joerg_neikes_systemd.pdf>`_) (`odp <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_joerg_neikes_systemd.odp>`_)
   
   
 Workshops
 ^^^^^^^^^
 
-* Customized CFLAGS Settings (A.K.)
-* Ebuilding-Quick-Intro (S.P.)
+* Customized CFLAGS Settings  (`gentoo wiki <https://wiki.gentoo.org/wiki/Safe_CFLAGS>`_)
+* Ebuilding-Quick-Intro  (`pdf <http://downloads.trolug.de/2015-09-01_gentoo-workshop-troisdorf_sebastian_pipping_paketierung.pdf>`_)
  
-  
+ 
 
 Geplanter Ablauf
 ----------------
