@@ -17,7 +17,7 @@ Termine
   "2015-09-03", "n.n.", "n.n.", "`Anmeldung <http://pad.trolug.de/trolug-2015-09>`_"
   "2015-08-06", "Jan Grosser; Jonas Stein", "tmux - Einführung in den Terminalmultiplexer; Projekt Babyphone mit freier Hard- und Software", "`Anmeldung <https://titanpad.com/iPUI2K5SHl>`_"
   "2015-08-01", "diverse", "gentoo Workshop Troisdorf 2015", :ref:`gentoo Workshop <gentoo-workshop>`
-  "2015-07-02", "Jonas Stein; alle", "Secure Shell ssh; Verschiedenes", ":downloads:`Protokoll <oldpads/2015-07.txt>`"
+  "2015-07-02", "Jonas Stein; alle", "Secure Shell ssh; Verschiedenes", ":download:`Protokoll <oldpads/2015-07.txt>`"
   "2015-06-04", "Alle", "Bunter Abend - Austausch und Probleme lösen", ":download:`Protokoll <oldpads/2015-06.txt>`"
   "2015-05-07", "Hubert Zensner, Jan Grosser", "Spyder - Yet another IDE?, Backups mit dem Tool rdiff-backup", ":download:`Protokoll <oldpads/2015-05.txt>`, `Vortragsfolien Spyder <http://downloads.trolug.de/2015-05-07_trolug_hubert_zensner_spyder.pdf>`_"
   "2015-04-02", "Andreas Klein, Jonas Stein", "Die Linux-Evolution der letzten 24 Jahre, Die Distribution Gentoo", ":download:`Protokoll <oldpads/2015-04.txt>`"
