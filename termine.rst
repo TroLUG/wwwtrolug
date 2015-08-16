@@ -12,6 +12,8 @@ Termine
   :widths: 15, 20, 50, 15
 
   "2015-12-03", "n.n.", "n.n.", "-"
+  "2015-11-14", "diverse", "Linux Presentation Day 2015", ":ref:`LPD 2015
+  <lpd2015>`"
   "2015-11-05", "n.n.", "n.n.", "-"
   "2015-10-01", "n.n.", "n.n.", "-"
   "2015-09-03", "n.n.", "n.n.", "`Anmeldung <https://titanpad.com/kiwJpNSWMo>`_"

@@ -1,0 +1,40 @@
+.. _lpd2015:
+
+Linux Presentation Day 2015
+===========================
+
+.. image:: _static/lpd_logo_300x150.png
+   :width: 300px
+   :align: center
+   :alt: Logo Linux Presentation Day
+
+
+Die TroLUG wird sich am nächsten `Linux Presentation Day
+<http://www.linux-presentation-day.de/>`_ beteiligen. Die
+Veranstaltung wird am **14. November 2015** stattfinden. Genau Zeit, Ort und das
+detaillierte Programm werden in den nächsten Wochen auf dieser Seite
+bekanntgegeben.
+
+Über den Linux Presentation Day
+-------------------------------
+
+Der Linux Presentation Day ist eine Veranstaltung, auf der Leute, die Linux gar
+nicht oder kaum kennen, einen Einblick in den Umgang mit dem
+Open-Source-Betriebssystem bekommen können. Unterschiedliche Linux-Varianten
+werden in typischen Alltagssituationen vorgeführt und können ausprobiert werden.
+Das Ziel der Veranstaltung, die kostenlos besucht werden kann, ist es, den
+Besuchern bei der Beantwortung der Frage zu helfen, ob auch sie irgendwann in
+Zukunft Linux nutzen wollen, als Ersatz für oder Ergänzung zu Windows.
+
+Wer sich nach dem Besuch des Linux Presentation Day dafür entscheidet, Linux auf
+seinem eigenen Computer auszuprobieren, kann dabei auf den Treffen der TroLUG
+oder auf der :ref:`Mailingliste <mailingliste>` Hilfe bekommen.
+
+Über die TroLUG
+---------------
+
+Die TroLUG trifft sich an jedem 1. Donnerstag im Monat. Die Treffen dienen dem
+allgemeinen Austausch über Linux, der technischen Unterstützung bei konkreten
+Problemen und auch Vorträgen. Jeder Interessierte ist herzlich eingeladen, zu
+einem solchen Treffen zu kommen.
+
