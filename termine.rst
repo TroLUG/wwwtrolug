@@ -16,8 +16,8 @@ Termine
   <lpd2015>`"
   "2015-11-05", "n.n.", "n.n.", "-"
   "2015-10-01", "n.n.", "n.n.", "-"
-  "2015-09-03", "n.n.", "n.n.", "`Anmeldung <https://titanpad.com/kiwJpNSWMo>`_"
-  "2015-08-06", "Jan Grosser; Jonas Stein", "tmux - Einführung in den Terminalmultiplexer; Projekt Babyphone mit freier Hard- und Software", "`Anmeldung <https://titanpad.com/iPUI2K5SHl>`_"
+  "2015-09-03", "Alle", "Bunter Abend - Austausch und Probleme lösen", "`Anmeldung <https://titanpad.com/kiwJpNSWMo>`_"
+  "2015-08-06", "Jan Grosser; Jonas Stein", "tmux - Einführung in den Terminalmultiplexer; Projekt Babyphone mit freier Hard- und Software", "`Protokoll <https://titanpad.com/iPUI2K5SHl>`_"
   "2015-08-01", "diverse", "gentoo Workshop Troisdorf 2015", :ref:`gentoo Workshop <gentoo-workshop>`
   "2015-07-02", "Jonas Stein; alle", "Secure Shell ssh; Verschiedenes", ":download:`Protokoll <oldpads/2015-07.txt>`"
   "2015-06-04", "Alle", "Bunter Abend - Austausch und Probleme lösen", ":download:`Protokoll <oldpads/2015-06.txt>`"
