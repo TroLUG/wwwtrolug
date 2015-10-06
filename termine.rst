@@ -2,7 +2,7 @@
 
 Termine
 =======
-   
+
 
 2015
 ----
@@ -11,10 +11,10 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 50, 15
 
-  "2015-12-03", "n.n.", "n.n.", "-"
+  "2015-12-03", "Alle", "Spiele unter Linux", "`Anmeldung <https://titanpad.com/eli3VxIytW>`_" 
   "2015-11-14", "diverse", "Linux Presentation Day 2015", ":ref:`LPD 2015
   <lpd2015>`"
-  "2015-11-05", "n.n.", "n.n.", "-"
+  "2015-11-05", "Alle", "Workshop: Rund um Video", "`Anmeldung <https://titanpad.com/SYveFyP5VQ>`_"
   "2015-10-01", "Faycal; Dimitri Asarowski", "Freie Software im Bereich
   computergestützte Übersetzung; Invis - Linux-Server für kleine und
   mittelständische Unternehmen", "`Anmeldung <https://titanpad.com/H9y6P69z2e>`_"
