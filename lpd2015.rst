@@ -9,10 +9,12 @@ Linux Presentation Day 2015
    :alt: Logo Linux Presentation Day
 
 
-Die TroLUG wird sich am nächsten `Linux Presentation Day
-<http://www.linux-presentation-day.de/>`_ beteiligen. Die
-Veranstaltung wird am **14. November 2015** stattfinden. Genau Zeit, Ort und das
-detaillierte Programm werden in den nächsten Wochen auf dieser Seite
+Die TroLUG wird sich gemeinsam mit der Bonner Linux User Group `BoLUG
+<http://bolug.uni-bonn.de>`_ am nächsten `Linux Presentation Day
+<http://www.linux-presentation-day.de/>`_ beteiligen. Die Veranstaltung wird am
+**14. November 2015** von 11:00 bis 19:00 in unseren Räumlichkeiten am
+:ref:`Wilhelm-Hamacher-Platz in Troisdorf <treffpunkt>` stattfinden. Das
+detaillierte Programm wird in den nächsten Wochen auf dieser Seite
 bekanntgegeben.
 
 Über den Linux Presentation Day
