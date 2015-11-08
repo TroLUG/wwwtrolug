@@ -40,3 +40,10 @@ allgemeinen Austausch über Linux, der technischen Unterstützung bei konkreten
 Problemen und auch Vorträgen. Jeder Interessierte ist herzlich eingeladen, zu
 einem solchen Treffen zu kommen.
 
+
+Hinweis zum Logo des Linux Presentation Day
+-------------------------------------------
+
+Das Logo des Linux Presentation Day verwendet eine Modifikation des Maskottchen Tux, wie es von Larry Ewing unter folgender Lizenz bereitgestelt wurde:
+"Permission to use and/or modify this image is granted provided you acknowledge me lewing(at)isc.tamu.edu and The GIMP if someone asks."
+http://isc.tamu.edu/~lewing/linux/
