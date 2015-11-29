@@ -3,6 +3,26 @@
 Termine
 =======
 
+2016
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 15, 20, 50, 15
+
+  "2016-12-01", "N.N.", "", "`Anmeldung <https://titanpad.com/fxiR3YYFAD>`_" 
+  "2016-11-03", "N.N.", "", "`Anmeldung <https://titanpad.com/HjcL3mjD6R>`_" 
+  "2016-10-06", "N.N.", "", "`Anmeldung <https://titanpad.com/67E7Cu6WHi>`_" 
+  "2016-09-01", "N.N.", "", "`Anmeldung <https://titanpad.com/GZBxoMT0wd>`_" 
+  "2016-08-04", "N.N.", "", "`Anmeldung <https://titanpad.com/E5DZs1dyAr>`_" 
+  "2016-07-07", "N.N.", "", "`Anmeldung <https://titanpad.com/6U0LhcJpmo>`_" 
+  "2016-06-02", "N.N.", "", "`Anmeldung <https://titanpad.com/3A3rd5Mchz>`_" 
+  "2016-05-12", "N.N.", "", "`Anmeldung <https://titanpad.com/NNrqGqOYa2>`_" 
+  "2016-04-07", "N.N.", "", "`Anmeldung <https://titanpad.com/TVsEReDjgI>`_" 
+  "2016-03-03", "N.N.", "", "`Anmeldung <https://titanpad.com/wK7dRbwAKP>`_" 
+  "2016-02-11", "N.N.", "", "`Anmeldung <https://titanpad.com/XXMqt9GilM>`_" 
+  "2016-01-07", "N.N.", "", "`Anmeldung <https://titanpad.com/fJd6YWxvpe>`_" 
+ 
 
 2015
 ----
@@ -14,10 +34,10 @@ Termine
   "2015-12-03", "Alle", "Spiele unter Linux", "`Anmeldung <https://titanpad.com/eli3VxIytW>`_" 
   "2015-11-14", "diverse", "Linux Presentation Day 2015", ":ref:`LPD 2015
   <lpd2015>`"
-  "2015-11-05", "Alle", "Workshop: Rund um Video", "`Anmeldung <https://titanpad.com/SYveFyP5VQ>`_"
+  "2015-11-05", "Alle", "Workshop: Rund um Video", "`Protokoll <https://titanpad.com/SYveFyP5VQ>`_"
   "2015-10-01", "Faycal; Dimitri Asarowski", "Freie Software im Bereich
   computergestützte Übersetzung; Invis - Linux-Server für kleine und
-  mittelständische Unternehmen", "`Anmeldung <https://titanpad.com/H9y6P69z2e>`_"
+  mittelständische Unternehmen", "`Protokoll <https://titanpad.com/H9y6P69z2e>`_"
   "2015-09-03", "Alle", "Bunter Abend - Austausch und Probleme lösen", "`Protokoll <https://titanpad.com/kiwJpNSWMo>`_"
   "2015-08-06", "Jan Grosser; Jonas Stein", "tmux - Einführung in den Terminalmultiplexer; Projekt Babyphone mit freier Hard- und Software", "`Protokoll <https://titanpad.com/iPUI2K5SHl>`_, `Vortragsfolien tmux <http://downloads.trolug.de/2015-08-06_trolug_jan_grosser_tmux.odp>`_" 
   "2015-08-01", "diverse", "gentoo Workshop Troisdorf 2015", :ref:`gentoo Workshop <gentoo-workshop>`
