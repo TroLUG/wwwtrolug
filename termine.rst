@@ -21,7 +21,7 @@ Termine
   "2016-04-07", "N.N.", "", "`Anmeldung <https://titanpad.com/TVsEReDjgI>`_" 
   "2016-03-03", "N.N.", "", "`Anmeldung <https://titanpad.com/wK7dRbwAKP>`_" 
   "2016-02-11", "N.N.", "", "`Anmeldung <https://titanpad.com/XXMqt9GilM>`_" 
-  "2016-01-07", "N.N.", "", "`Anmeldung <https://titanpad.com/fJd6YWxvpe>`_" 
+  "2016-01-07", "Alle", "Bunter Abend - Austausch und Probleme lösen", "`Anmeldung <https://titanpad.com/fJd6YWxvpe>`_" 
  
 
 2015
@@ -31,7 +31,7 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 50, 15
 
-  "2015-12-03", "Alle", "Spiele unter Linux", "`Anmeldung <https://titanpad.com/eli3VxIytW>`_" 
+  "2015-12-03", "Alle", "Spiele unter Linux", "`Protokoll <https://titanpad.com/eli3VxIytW>`_" 
   "2015-11-14", "diverse", "Linux Presentation Day 2015", ":ref:`LPD 2015
   <lpd2015>`"
   "2015-11-05", "Alle", "Workshop: Rund um Video", "`Protokoll <https://titanpad.com/SYveFyP5VQ>`_"
