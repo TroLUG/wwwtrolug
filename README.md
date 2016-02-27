@@ -37,6 +37,15 @@ Die fertigen Quelldateien befinden sich dann im Unterverzeichnis
 Die wichtigsten TopLevel-Seiten sollten in den "Sidebars" (da, wo jetzt nur
 der Eintrag "TroLUG >>" zu finden ist, erscheinen.
 
+## Änderungen beitragen
+
+1. dieses Repository forken
+2. diesen fork mit git clone auf eigenen Rechner herunterladen
+3. editieren und testen
+4. git commit -a
+5. git push 
+6. in github einen "pull request" absetzen
+
 ## Links
 
 Matplotlib, gutes Template (BSD Lizenz):
