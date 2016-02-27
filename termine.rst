@@ -19,11 +19,10 @@ Termine
   "2016-06-02", "N.N.", "", "`Anmeldung <https://titanpad.com/3A3rd5Mchz>`_" 
   "2016-05-12", "N.N.", "", "`Anmeldung <https://titanpad.com/NNrqGqOYa2>`_" 
   "2016-04-07", "N.N.", "", "`Anmeldung <https://titanpad.com/TVsEReDjgI>`_" 
-  "2016-03-03", "N.N.", "", "`Anmeldung <https://titanpad.com/wK7dRbwAKP>`_"
-  "2016-02-20", "Alle", "Sondertermin: Retro Computer", "`Anmeldung <https://titanpad.com/CKenXL2ukg>`_" 
-  "2016-02-11", "Alle", "Platinen und elektronische Bauteile mit KiCad designen", "`Anmeldung <https://titanpad.com/XXMqt9GilM>`_" 
+  "2016-03-03", "Alle", "Retro Computer", "`Anmeldung <https://titanpad.com/CKenXL2ukg>`_" 
+  "2016-02-11", "Alle", "Platinen und elektronische Bauteile mit KiCad designen", "`Protokoll <https://titanpad.com/XXMqt9GilM>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2016-02-11_trolug_carsten_schoenert_kicad.pdf>`_" 
   "2016-01-07", "Alle", "1. Icecast 2. Bunter Abend - Austausch und Probleme lösen", "`Anmeldung <https://titanpad.com/fJd6YWxvpe>`_" 
- 
+
 
 2015
 ----
