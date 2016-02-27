@@ -38,9 +38,8 @@ Anfahrt zur TroLUG mit dem PKW
   * An der Ampel links auf den Willy-Brandt-Ring
   * nach 2 km Kreisverkehr an der 3. Ausfahrt verlassen Richtung Troisdorf-Mitte/Theodor-Heuss-Ring
   * Dem Theodor-Heuss-Ring folgen bis zur Wilhelmstraße, in diese rechts abbiegen
-  * Im `Parkhaus der Galerie Troisdorf <http://www.openstreetmap.org/?mlat=50.81389&mlon=7.15440#map=19/50.81389/7.15440>`_
-  kann geparkt werden, die Einfahrt befindet sich scharf rechts vor der kleinen Fußgängerbrücke
-  * Es gibt dort einen `Ausgang "Wilhelm Hamacher Platz" <http://www.openstreetmap.org/?mlat=50.81486&mlon=7.15560#map=19/50.81486/7.15560>`_ 20 m. vor der AWO
+  * Im `Parkhaus der Galerie Troisdorf <http://www.openstreetmap.org/?mlat=50.81389&mlon=7.15440#map=19/50.81389/7.15440>`_ kann geparkt werden, die Einfahrt befindet sich scharf rechts vor der kleinen Fußgängerbrücke
+  * Es gibt dort einen `Ausgang "Wilhelm Hamacher Platz" <http://www.openstreetmap.org/?mlat=50.81486&mlon=7.15560#map=19/50.81486/7.15560>`_ (20 m von der AWO entfernt)
 
 **Anfahrt von Hennef**
 
@@ -51,6 +50,6 @@ Anfahrt zur TroLUG mit dem PKW
   * nach 2 km Kreisverkehr an der 1. Ausfahrt verlassen Richtung Troisdorf-Mitte/Theodor-Heuss-Ring
   * Dem Theodor-Heuss-Ring folgen bis zur Wilhelmstraße, in diese rechts abbiegen
   * Im `Parkhaus der Galerie Troisdorf <http://www.openstreetmap.org/?mlat=50.81389&mlon=7.15440#map=19/50.81389/7.15440>`_ kann geparkt werden, die Einfahrt befindet sich scharf rechts vor der kleinen Fußgängerbrücke
-  * Es gibt dort einen `Ausgang "Wilhelm Hamacher Platz" <http://www.openstreetmap.org/?mlat=50.81486&mlon=7.15560#map=19/50.81486/7.15560>`_ 20 m. vor der AWO
+  * Es gibt dort einen `Ausgang "Wilhelm Hamacher Platz" <http://www.openstreetmap.org/?mlat=50.81486&mlon=7.15560#map=19/50.81486/7.15560>`_ (20 m von der AWO entfernt)
 
 
