@@ -13,7 +13,7 @@ Termine
   "2016-12-01", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-12-01>`_" 
   "2016-11-03", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-11-03>`_" 
   "2016-10-06", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-10-06>`_" 
-  "2016-09-01", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-09-01>`_" 
+  "2016-09-01", "Verschiedene", "Editoren", "`Anmeldung <https://trolug.titanpad.com/2016-09-01>`_" 
   "2016-08-04", "Rainer Dohmen; Georg Maubach", "Mikrocontrollerprojekt Morse-Man; Access Points mit Einplatinenrechnern", "`Anmeldung <https://trolug.titanpad.com/2016-08-04>`_" 
   "2016-07-07", "Alle", "Gemeinsam Probleme lösen", "`Protokoll <https://trolug.titanpad.com/2016-07-07>`_" 
   "2016-06-02", "Tobias Fröhlich", "git Teil III: Arbeiten in Teams und auf Servern", "`Protokoll <https://trolug.titanpad.com/2016-06-02>`_, `Vortragsfolien HTML <http://downloads.trolug.de/2016-05-12_trolug_tobias_froehlich_git_workshop.html>`_"
