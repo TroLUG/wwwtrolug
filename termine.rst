@@ -11,7 +11,7 @@ Termine
   :widths: 15, 20, 50, 15
 
   "2016-12-01", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-12-01>`_" 
-  "2016-11-03", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-11-03>`_" 
+  "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Anmeldung <https://trolug.titanpad.com/2016-11-03>`_" 
   "2016-10-06", "Verschiedene", "Bash Kungfu", "`Anmeldung <https://trolug.titanpad.com/2016-10-06>`_" 
   "2016-09-01", "Verschiedene", "Editoren", "`Protokoll <https://trolug.titanpad.com/2016-09-01>`_" 
   "2016-08-04", "Rainer Dohmen; Georg Maubach", "Mikrocontrollerprojekt Morse-Man; Access Points mit Einplatinenrechnern", "`Protokoll <https://trolug.titanpad.com/2016-08-04>`_" 
