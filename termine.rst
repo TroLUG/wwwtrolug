@@ -10,7 +10,7 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 50, 15
 
-  "2016-12-01", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2016-12-01>`_" 
+  "2016-12-01", "N.N.", "Einstieg in Kernelprogrammierung und make files", "`Anmeldung <https://trolug.titanpad.com/2016-12-01>`_" 
   "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Anmeldung <https://trolug.titanpad.com/2016-11-03>`_" 
   "2016-10-06", "Verschiedene", "Bash Kungfu", "`Anmeldung <https://trolug.titanpad.com/2016-10-06>`_" 
   "2016-09-01", "Verschiedene", "Editoren", "`Protokoll <https://trolug.titanpad.com/2016-09-01>`_" 
