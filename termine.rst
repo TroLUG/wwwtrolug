@@ -3,6 +3,26 @@
 Termine
 =======
 
+2017
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 15, 20, 50, 15
+
+  "2017-12-07", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-12-07>`_" 
+  "2017-11-02", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-11-02>`_" 
+  "2017-10-05", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-10-05>`_" 
+  "2017-09-07", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-09-07>`_" 
+  "2017-08-03", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-08-03>`_" 
+  "2017-07-06", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-07-06>`_" 
+  "2017-06-01", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-06-01>`_" 
+  "2017-05-04", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-05-04>`_" 
+  "2017-04-06", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-04-06>`_" 
+  "2017-03-02", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-03-02>`_" 
+  "2017-02-02", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-02-02>`_" 
+  "2017-01-05", "N.N.", "", "`Anmeldung <https://trolug.titanpad.com/2017-01-05>`_" 
+
 2016
 ----
 
