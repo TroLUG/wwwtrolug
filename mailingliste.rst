@@ -54,8 +54,8 @@ Anzahl der Spam-Mails auf der Mailingliste
 Professionals at TroLUG
 -----------------------
 Seit dem 2016-11-16 gibt es eine Mailingliste für den nicht-technischen Austausch.
-Themen sind hier weniger das aktuelle Bash-Script, sondern Jobs, Kooperationen, Projektpartner Suche, Arbeitgeber und -nehmer Tehmen
-Diese Liste hat erfordert eine Anmeldung und eine (einmalige) Zustimmung durch einen Moderator (gegen Spam) zum Lesen und Schreiben.
+Themen sind hier weniger das aktuelle Bash-Script, sondern Jobs, Kooperationen, Projektpartner Suche, Arbeitgeber und -nehmer Tehmen. 
+Diese Liste erfordert eine Anmeldung und eine (einmalige) Zustimmung durch einen Moderator (gegen Spam) zum Lesen und Schreiben.
 
 Die Mailingliste Professionals at TroLUG kann über
 `diese Webseite <https://ml06.ispgateway.de/mailman/listinfo/professionals_trolug.de>`_
