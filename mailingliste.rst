@@ -33,3 +33,33 @@ Zugriff auf das Archiv mittels http (Webbrowser)
 ------------------------------------------------
 
 Lesen kann man Beiträge auch ohne Anmeldung auf http://news.gmane.org/gmane.org.user-groups.linux.troisdorf.
+
+
+Spamaufkommen
+-------------
+
+Neuanmeldungen werden manuell freigeschaltet. Dadurch halten wir die Liste weitgehend frei von Spam. 
+Anzahl der Spam-Mails auf der Mailingliste
+
+.. csv-table::
+  :header: "Summe seit 2009-01-07  bis Datum", "Kommentar"
+  "0","2010-06-15"," "
+  "0","2011-03-21"," "      
+  "0","2012-08-24"," "      
+  "0","2013-01-21"," "
+  "1","2013-01-22","durch Infizierten PC eines autorisierten Teilnehmers"
+  "1","2016-11-15"," "
+
+
+Professionals at TroLUG
+-----------------------
+Seit dem 2016-11-16 gibt es eine Mailingliste für den nicht-technischen Austausch.
+Themen sind hier weniger das aktuelle Bash-Script, sondern Jobs, Kooperationen, Projektpartner Suche, Arbeitgeber und -nehmer Tehmen
+Diese Liste hat erfordert eine Anmeldung und eine (einmalige) Zustimmung durch einen Moderator (gegen Spam) zum Lesen und Schreiben.
+
+Die Mailingliste Professionals at TroLUG kann über
+`diese Webseite <https://ml06.ispgateway.de/mailman/listinfo/professionals_trolug.de>`_
+abonniert werden.
+
+Diese Liste wurde zwar nicht vom Betreiber bei gmane eingetragen, es wird aber dazu geraten immer nur das an eine Mailingliste zu schreiben, was z.B. nach einem Hackerangriff
+weltweit lesbar sein darf. 
