@@ -18,8 +18,8 @@ Termine
   "2017-07-06", "N.N.", "", "`Anmeldung <127.0.0.1>`_" 
   "2017-06-01", "N.N.", "", "`Anmeldung <127.0.0.1>`_" 
   "2017-05-04", "N.N.", "", "`Anmeldung <127.0.0.1>`_" 
-  "2017-04-06", "N.N.", "", "`Anmeldung <127.0.0.1>`_" 
-  "2017-03-02", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`_" 
+  "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`_" 
+  "2017-03-02", "N.N.", "", "`Anmeldung <127.0.0.1>`_" 
   "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-02-02>`_"  
   "2017-01-05", "Alle", "Aktuelle Sicherheitsfragen Browserplugins, Passwortsafe, Mail", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-01-05>`_" 
 
