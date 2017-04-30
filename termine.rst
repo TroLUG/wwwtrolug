@@ -19,10 +19,10 @@ Termine
   "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-feinstaubsensoren>`_" 
   "2017-06-01", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-06-01>`_" 
   "2017-05-04", "Andreas Klein; Jan Grosser", "BIOS-Update unter Linux, Monitor-Konfig; Nistkastenkamera", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-05-04>`_" 
-  "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-04-06>`_" 
-  "2017-03-02", "Johannes Hubertz", "Test Driven Development", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`_" 
-  "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-02-02>`_"  
-  "2017-01-05", "Alle", "Aktuelle Sicherheitsfragen Browserplugins, Passwortsafe, Mail", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-01-05>`_" 
+  "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-04-06>`_" 
+  "2017-03-02", "Johannes Hubertz", "Test Driven Development", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`_" 
+  "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-02-02>`_"  
+  "2017-01-05", "Alle", "Aktuelle Sicherheitsfragen Browserplugins, Passwortsafe, Mail", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-01-05>`_" 
 
 2016
 ----
@@ -31,9 +31,9 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 15, 20, 50, 15
 
-  "2016-12-01", "Kay Malfeld", "Einstieg in Kernelprogrammierung und make files", "`Anmeldung <https://trolug.titanpad.com/2016-12-01>`_" 
-  "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Anmeldung <https://trolug.titanpad.com/2016-11-03>`_" 
-  "2016-10-06", "Verschiedene", "Bash Kungfu", "`Anmeldung <https://trolug.titanpad.com/2016-10-06>`_" 
+  "2016-12-01", "Kay Malfeld", "Einstieg in Kernelprogrammierung und make files", "`Protokoll <https://trolug.titanpad.com/2016-12-01>`_" 
+  "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Protokoll <https://trolug.titanpad.com/2016-11-03>`_" 
+  "2016-10-06", "Verschiedene", "Bash Kungfu", "`Protokoll <https://trolug.titanpad.com/2016-10-06>`_" 
   "2016-09-01", "Verschiedene", "Editoren", "`Protokoll <https://trolug.titanpad.com/2016-09-01>`_" 
   "2016-08-04", "Rainer Dohmen; Georg Maubach", "Mikrocontrollerprojekt Morse-Man; Access Points mit Einplatinenrechnern", "`Protokoll <https://trolug.titanpad.com/2016-08-04>`_" 
   "2016-07-07", "Alle", "Gemeinsam Probleme lösen", "`Protokoll <https://trolug.titanpad.com/2016-07-07>`_" 
