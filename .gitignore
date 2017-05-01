@@ -1,5 +1,5 @@
 lftpscript.*
 run.sh
 _build/*
-_static/*
+#_static/*
 _templates/*
