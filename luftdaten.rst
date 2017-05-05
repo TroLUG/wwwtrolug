@@ -52,13 +52,19 @@ Folgende Bauteile werden benötigt:
 * 1x Kabel zur Energieversorgung der Messtation, z.B. USB-Kabel
 * 2x HT-Bögen, z.B. DN 75, 87° als Wetterschutz
 * 1x Schlauch, ca. 20 cm und 6mm Durchmesser
+* Satz Breadboard-Kabel, weiblich-weiblich
 
-Die Bauteile sind am besten über Onlinehändler zu beziehen. Bei einigen
-Onlinehändlern, wie bspw. http://www.aliexpress.com, sind **lange Lieferzeiten
-von teilweise mehreren Wochen** zu beachten. Sammelbestellungen aus dem Ausland
+Die Bauteile sind am besten über Onlinehändler zu beziehen. Teilweise
+bestehen erhebliche Preisunterschiede:
+* https://www.aliexpress.com/
+* https://eckstein-shop.de/
+
+Bei einigen ausländischen Onlinehändlern, sind **lange Lieferzeiten von
+teilweise mehreren Wochen** zu beachten. Sammelbestellungen aus dem Ausland
 sind wegen der Zollgebühren und Einfuhrumsatzsteuer i.d.R. nicht lohnenswert.
 
-Fragen zu Bestellmöglichkeiten werden unter luftdaten@trolug.de beantwortet.
+Fragen zu Bestellmöglichkeiten können unter luftdaten@trolug.de gestellt
+werden.
 
 Werkzeuge und Verbrauchsmaterial
 --------------------------------
@@ -81,28 +87,8 @@ zum Toilettenpapier und nicht zuletzt unterstützen (ehrenamtliche) Mitarbeiter
 der AWO uns mit Ihrer Arbeit sehr. Während der Veranstaltung steht eine
 Spendendose bereit, in die Spenden für die AWO gegeben werden können. 
 
-Anreise und Unterkunft
-----------------------
-Der Veranstaltungsort liegt in der Troisdorfer Innenstadt. 
-
-Anreise mit dem Zug
-^^^^^^^^^^^^^^^^^^^
-  * ICE Verbindungen über Siegburg/Bonn (ca. 5 min bis Troisdorf Bf.) und Köln
-    (ca. 25 min bis Troisdorf Bf.)
-  * ab Troisdorf Bahnhof 7 Minuten Fußweg zum Agnes-Klein-Zentrum am
-    Wilhelm-Hamacher-Platz 12
-
-Anreise mit dem Auto
-^^^^^^^^^^^^^^^^^^^^
-Folgende Parkmöglichkeiten sind besonders nah gelegen
-  * Tiefgarage Troisdorfer Galerie, Zufahrt Wilhelmstraße (50 m Fußweg ab Ausgang)
-  * Tiefgarage Cecilienstraße (200 m ab Ausgang)
-  * Parkhaus Kaufland Theodor-Heuss-Ring (300 m ab Ausgang)
-  * kostenlose Parkplätze gibt es in der Innenstadt praktisch keine. Parkticket nicht vergessen: Das Ordnungsamt kontrolliert regelmäßig
-  * Achtung: Manche Parkplätze sind für Bewohner reserviert. Die Schilder werden von nicht Ortskundigen leicht übersehen 
-
-Anreise mit dem Fahrrad
-^^^^^^^^^^^^^^^^^^^^^^^
-  * http://www.openstreetmap.org/?mlat=50.81496&mlon=7.15623#map=17/50.81496/7.15623&layers=C
+Detailplanung
+-------------
+Zur Detailplanung ist ein Etherpad eingerichtet: https://public.etherpad-mozilla.org/p/trolug-feinstaubsensoren.
 
 | Organisation: Jan Grosser für die TroLUG
