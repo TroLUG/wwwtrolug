@@ -18,6 +18,11 @@ Veranstaltungsort sind die
 
 Inhalte
 -------
+
+.. image:: _static/elektronik_kl.jpg
+   :align: center
+   :alt: Einige elektronische Bauteile, die für den Feinstabsensor benötigt werden
+
 Saubere Luft ist ein Thema für alle. Günstige Sensoren und Freie Software
 erlauben es praktisch jedem Interessierten, ein Messgerät zu bauen. Die
 Materialkosten für den Bausatz, den sich alle Teilnehmer vorher selbst besorgen
@@ -56,6 +61,7 @@ Folgende Bauteile werden benötigt:
 
 Die Bauteile sind am besten über Onlinehändler zu beziehen. Teilweise
 bestehen erhebliche Preisunterschiede:
+
 * https://www.aliexpress.com/
 * https://eckstein-shop.de/
 
