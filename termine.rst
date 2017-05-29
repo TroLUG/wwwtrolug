@@ -18,7 +18,7 @@ Termine
   "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-07-06>`_" 
   "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", ":ref:`Workshop Details<luftdaten>`" 
   "2017-06-01", "Alle", "Rund um Android", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-06-01>`_" 
-  "2017-05-04", "Andreas Klein; Jan Grosser", "BIOS-Update unter Linux, Monitor-Konfig; Nistkastenkamera", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-05-04>`_" 
+  "2017-05-04", "Andreas Klein; Jan Grosser", "BIOS-Update unter Linux, Monitor-Konfig; Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-05-04>`_" 
   "2017-04-06", "Rainer Dohmen", "How I hacked my 433 Weather-Station", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-04-06>`_" 
   "2017-03-02", "Johannes Hubertz", "Test Driven Development", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-03-02>`_" 
   "2017-02-02", "Alle", "Probleme Lösen und Starthilfe für Linuxeinsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-02-02>`_"  
