@@ -14,7 +14,7 @@ Termine
   "2017-11-02", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
   "2017-10-05", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_" 
   "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_" 
-  "2017-08-03", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
+  "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
   "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-07-06>`_" 
   "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", ":ref:`Workshop Details<luftdaten>`" 
   "2017-06-01", "Alle", "Rund um Android", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-06-01>`_" 
