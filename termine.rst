@@ -8,12 +8,12 @@ Termine
 
 .. csv-table::
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
-  :widths: 15, 20, 50, 15
+  :widths: 10, 20, 50, 20
 
   "2017-12-07", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
   "2017-11-02", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
-  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_" 
-  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_" 
+  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`_"
+  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`_" 
   "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
   "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-07-06>`_" 
   "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", ":ref:`Workshop Details<luftdaten>`" 
@@ -29,7 +29,7 @@ Termine
 
 .. csv-table::
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
-  :widths: 15, 20, 50, 15
+  :widths: 10, 20, 50, 20
 
   "2016-12-01", "Kay Malfeld", "Einstieg in Kernelprogrammierung und make files", "`Protokoll <https://trolug.titanpad.com/2016-12-01>`_" 
   "2016-11-03", "Verschiedene", "Bash Kungfu #2, Linux Kernel", "`Protokoll <https://trolug.titanpad.com/2016-11-03>`_" 
@@ -52,7 +52,7 @@ Termine
 
 .. csv-table::
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
-  :widths: 15, 20, 50, 15
+  :widths: 10, 20, 50, 20
 
   "2015-12-03", "Alle", "Spiele unter Linux", "`Protokoll <https://titanpad.com/eli3VxIytW>`_" 
   "2015-11-14", "diverse", "Linux Presentation Day 2015", ":ref:`LPD 2015
