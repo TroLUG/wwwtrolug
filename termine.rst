@@ -12,9 +12,9 @@ Termine
 
   "2017-12-07", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
   "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
-  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`_"
-  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`_" 
-  "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
+  "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`_"
+  "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`_" 
+  "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
   "2017-07-06", "Alle", "Bericht vom Workshop Feinstaubsensoren bauen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-07-06>`_" 
   "2017-07-01", "Alle", "Workshop: Feinstaubsensor basteln", ":ref:`Workshop Details<luftdaten>`" 
   "2017-06-01", "Alle", "Rund um Android", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-06-01>`_" 
