@@ -37,7 +37,7 @@ Hinweis: Gmane ist seit einem shutdown im Herbst 2016 nicht (komplett) verfügba
 Zugriff auf das Archiv mittels http (Webbrowser)
 ------------------------------------------------
 
-Lesen kann man Beiträge auch ohne Anmeldung auf http://news.gmane.org/gmane.org.user-groups.linux.troisdorf.
+Lesen kann man Beiträge auch ohne Anmeldung auf http://news.gmane.org/gmane.org.user-groups.linux.troisdorf oder auf https://www.mail-archive.com/trolug@trolug.de/.
 
 
 Spamaufkommen
