@@ -3,6 +3,27 @@
 Termine
 =======
 
+2018
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 10, 20, 50, 20
+
+  "2018-12-06", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`_"
+  "2018-11-01", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-11-01>`_"
+  "2018-10-04", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-10-04>`_"
+  "2018-09-06", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-09-06>`_"
+  "2018-08-02", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-08-02>`_"
+  "2018-07-05", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-07-05>`_"
+  "2018-06-07", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-06-07>`_"
+  "2018-05-03", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-05-03>`_"
+  "2018-04-05", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-04-05>`_"
+  "2018-03-01", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-03-01>`_"
+  "2018-02-01/08?", "Harald Weidner", "Docker", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`_"
+  "2018-01-04", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-01-04>`_"
+
+
 2017
 ----
 
