@@ -31,7 +31,7 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 10, 20, 50, 20
 
-  "2017-12-07", "N.N.", "", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
+  "2017-12-07", "Alle", "Wikipedia editieren", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
   "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
   "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`_"
   "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`_" 
