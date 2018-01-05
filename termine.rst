@@ -20,7 +20,7 @@ Termine
   "2018-05-03", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-05-03>`_"
   "2018-04-05", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-04-05>`_"
   "2018-03-01", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-03-01>`_"
-  "2018-02-01", "Harald Weidner", "Betriebssystemvirtualisierung in Containern mit Docker", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`_"
+  "2018-02-01", "Harald Weidner", "Anwendungsvirtualisierung in Containern mit Docker", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`_"
   "2018-01-04", "Michael Dupre, Alle", "client/server mit Skriptsprache programmieren (mit und ohne TLS)", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-01-04>`_"
 
 
