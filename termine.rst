@@ -3,6 +3,27 @@
 Termine
 =======
 
+2019
+----
+
+.. csv-table::
+  :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
+  :widths: 10, 20, 50, 20
+
+  "2019-12-05", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-12-05>`_"
+  "2019-11-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-11-07>`_"
+  "2019-10-03", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-10-03>`_"
+  "2019-09-05", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-09-05>`_"
+  "2019-08-01", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-08-01>`_"
+  "2019-07-04", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-07-04>`_"
+  "2019-06-06", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_"
+  "2019-05-02", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-05-02>`_"
+  "2019-04-04", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-04-04>`_"
+  "2019-03-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-03-07>`_"
+  "2019-02-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-02-07>`_"
+  "2019-01-03", "Harald Weidner", "Check_MK", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-01-03>`_"
+
+
 2018
 ----
 
@@ -10,7 +31,7 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 10, 20, 50, 20
 
-  "2018-12-06", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`_"
+  "2018-12-06", "Michael Dupre", "plantuml", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`_"
   "2018-11-01", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-11-01>`_"
   "2018-10-04", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-10-04>`_"
   "2018-09-06", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-09-06>`_"
