@@ -20,7 +20,7 @@ Termine
   "2019-05-02", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-05-02>`_"
   "2019-04-04", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-04-04>`_"
   "2019-03-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-03-07>`_"
-  "2019-02-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-02-07>`_"
+  "2019-02-07", "LineageOS für Smartphones", "LineageOS für Smartphones", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-02-07>`_"
   "2019-01-03", "Harald Weidner", "Check_MK", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-01-03>`_"
 
 
