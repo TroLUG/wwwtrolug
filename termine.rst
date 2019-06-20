@@ -16,7 +16,7 @@ Termine
   "2019-09-05", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-09-05>`_"
   "2019-08-01", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-08-01>`_"
   "2019-07-04", "Jan Grosser", "I survived a bruteforce attack", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-07-04>`_"
-  "2019-06-06", "Michael Dupre", "Kartenleser und pcsclite", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_"
+  "2019-06-06", "Michael Dupre", "Kartenleser und pcsclite", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_smartcards.pdf>`_, `Cardreader Bin <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader-bin>`_, `go Skript <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader.go>`_"
   "2019-05-02", "Michael Dupre, Maic Striepe ", "SIM Karten, Tastenbelegung", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-05-02>`_"
   "2019-04-04", "Alle", "Freies Thema", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-04-04>`_"
   "2019-03-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-03-07>`_"
