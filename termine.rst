@@ -16,12 +16,12 @@ Termine
   "2019-09-05", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-09-05>`_"
   "2019-08-01", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-08-01>`_"
   "2019-07-04", "Jan Grosser", "I survived a bruteforce attack", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-07-04>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-07-04_trolug_jan_grosser_bruteforce.pdf>`_"
-  "2019-06-06", "Michael Dupre", "Kartenleser und pcsclite", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_smartcards.pdf>`_, `Cardreader Bin <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader-bin>`_, `go Skript <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader.go>`_"
-  "2019-05-02", "Michael Dupre, Maic Striepe ", "SIM Karten, Tastenbelegung", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-05-02>`_"
-  "2019-04-04", "Alle", "Freies Thema", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-04-04>`_"
-  "2019-03-07", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-03-07>`_"
-  "2019-02-07", "Dimitry Asarowski", "LineageOS für Smartphones", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-02-07>`_"
-  "2019-01-03", "Harald Weidner", "Check_MK", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2019-01-03>`_"
+  "2019-06-06", "Michael Dupre", "Kartenleser und pcsclite", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_smartcards.pdf>`_, `Cardreader Bin <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader-bin>`_, `go Skript <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader.go>`_"
+  "2019-05-02", "Michael Dupre, Maic Striepe ", "SIM Karten, Tastenbelegung", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-05-02>`_"
+  "2019-04-04", "Alle", "Freies Thema", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-04-04>`_"
+  "2019-03-07", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-03-07>`_"
+  "2019-02-07", "Dimitry Asarowski", "LineageOS für Smartphones", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-02-07>`_"
+  "2019-01-03", "Harald Weidner", "Check_MK", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-01-03>`_"
 
 
 2018
@@ -31,18 +31,18 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 10, 20, 50, 20
 
-  "2018-12-06", "Michael Dupre", "plantuml", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`_"
-  "2018-11-01", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-11-01>`_"
-  "2018-10-04", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-10-04>`_"
-  "2018-09-06", "Alle", "Thema noch offen", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-09-06>`_"
-  "2018-08-02", "Rainer Dohmen", "FHEM - Heimautomation mit Raspberry Pi", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-08-02>`_"
-  "2018-07-05", "Alle", "Mozilla und Wireshark", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-07-05>`_"
-  "2018-06-07", "Michael Dupre", "IP-Tracer (mit Graphik und Einführung in gnuplot)", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-06-07>`_, `Files <http://downloads.trolug.de/2018-06-18-michael_dupre_gnuplot.tar.gz>`_"
-  "2018-05-03", "Harald Weidner", "Penetration Testing mit Nmap und OpenVAS", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-05-03>`_"
-  "2018-04-05", "Alle", "Lieblingstools kurz vorgestellt", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-04-05>`_"
-  "2018-03-01", "Andreas Klein", "Xrandr", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-03-01>`_"
-  "2018-02-01", "Harald Weidner", "Anwendungsvirtualisierung in Containern mit Docker", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`_"
-  "2018-01-04", "Michael Dupre, Alle", "Client/Server mit Skriptsprache programmieren (mit und ohne TLS)", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2018-01-04>`_"
+  "2018-12-06", "Michael Dupre", "plantuml", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-12-06>`_"
+  "2018-11-01", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-11-01>`_"
+  "2018-10-04", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-10-04>`_"
+  "2018-09-06", "Alle", "Thema noch offen", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-09-06>`_"
+  "2018-08-02", "Rainer Dohmen", "FHEM - Heimautomation mit Raspberry Pi", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-08-02>`_"
+  "2018-07-05", "Alle", "Mozilla und Wireshark", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-07-05>`_"
+  "2018-06-07", "Michael Dupre", "IP-Tracer (mit Graphik und Einführung in gnuplot)", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-06-07>`_, `Files <http://downloads.trolug.de/2018-06-18-michael_dupre_gnuplot.tar.gz>`_"
+  "2018-05-03", "Harald Weidner", "Penetration Testing mit Nmap und OpenVAS", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-05-03>`_"
+  "2018-04-05", "Alle", "Lieblingstools kurz vorgestellt", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-04-05>`_"
+  "2018-03-01", "Andreas Klein", "Xrandr", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-03-01>`_"
+  "2018-02-01", "Harald Weidner", "Anwendungsvirtualisierung in Containern mit Docker", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-02-01>`_"
+  "2018-01-04", "Michael Dupre, Alle", "Client/Server mit Skriptsprache programmieren (mit und ohne TLS)", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2018-01-04>`_"
 
 
 2017
@@ -52,8 +52,8 @@ Termine
   :header: "Datum", "ReferentIn", "Thema", "Anmeldung/Protokoll"
   :widths: 10, 20, 50, 20
 
-  "2017-12-07", "Alle", "Wikipedia editieren", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
-  "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", "`Anmeldung <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
+  "2017-12-07", "Alle", "Wikipedia editieren", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-12-07>`_" 
+  "2017-11-02", "Alle", "Probleme lösen und Starthilfe für Einsteiger", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-11-02>`_" 
   "2017-10-05", "Jan Grosser", "Nistkastenkamera", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-10-05>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-10-05_trolug_jan_grosser_nistkasten.pdf>`_"
   "2017-09-07", "Michael Dupre", "Die digitale Währung Bitcoin", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-09-07>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2017-09-07_trolug_michael_dupre_bitcoin.pdf>`_" 
   "2017-08-03", "Johannes Hubertz", "OpenVPN", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2017-08-03>`_" 
