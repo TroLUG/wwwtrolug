@@ -13,7 +13,7 @@ Termine
   "2019-12-05", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-12>`_"
   "2019-11-07", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-11>`_"
   "2019-10-03", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-10>`_"
-  "2019-09-05", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-09>`_"
+  "2019-09-05", "Harald Weidner", "Die Programmiersprache Go", "`Anmeldung <https://trolug.pads.ccc.de/2019-09>`_"
   "2019-08-01", "Rainer Dohmen", "MQTT mit Raspi und FHEM", "`Anmeldung <https://trolug.pads.ccc.de/2019-08>`_"
   "2019-07-04", "Jan Grosser", "I survived a bruteforce attack", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-07-04>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-07-04_trolug_jan_grosser_bruteforce.pdf>`_"
   "2019-06-06", "Michael Dupre", "Kartenleser und pcsclite", "`Protokoll <https://public.etherpad-mozilla.org/p/trolug-2019-06-06>`_, `Vortragsfolien PDF <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_smartcards.pdf>`_, `Cardreader Bin <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader-bin>`_, `go Skript <http://downloads.trolug.de/2019-06-06_trolug_michael_dupre_test_cardreader.go>`_"
