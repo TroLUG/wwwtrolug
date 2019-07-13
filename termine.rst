@@ -11,7 +11,7 @@ Termine
   :widths: 10, 20, 50, 20
 
   "2019-12-05", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-12>`_"
-  "2019-11-07", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-11>`_"
+  "2019-11-07", "Maic Striepe", "Micropython", "`Anmeldung <https://trolug.pads.ccc.de/2019-11>`_"
   "2019-10-03", "Alle", "Thema noch offen", "`Anmeldung <https://trolug.pads.ccc.de/2019-10>`_"
   "2019-09-05", "Harald Weidner", "Die Programmiersprache Go", "`Anmeldung <https://trolug.pads.ccc.de/2019-09>`_"
   "2019-08-01", "Rainer Dohmen", "MQTT mit Raspi und FHEM", "`Anmeldung <https://trolug.pads.ccc.de/2019-08>`_"
